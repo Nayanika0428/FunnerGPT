@@ -1,0 +1,2812 @@
+user_id,step_name,timestamp,device,region
+u0001,Landing Page Visit,2025-03-02 02:46:00,tablet,India
+u0001,Free Sign-Up,2025-03-02 03:06:00,tablet,India
+u0001,Email Verification,2025-03-02 03:35:00,tablet,India
+u0002,Landing Page Visit,2025-03-02 02:50:00,tablet,Brazil
+u0002,Free Sign-Up,2025-03-02 02:58:00,tablet,Brazil
+u0002,Email Verification,2025-03-02 03:27:00,tablet,Brazil
+u0002,Feature Usage,2025-03-02 03:48:00,tablet,Brazil
+u0003,Landing Page Visit,2025-03-01 10:01:00,mobile,Brazil
+u0003,Free Sign-Up,2025-03-01 10:20:00,mobile,Brazil
+u0003,Email Verification,2025-03-01 10:43:00,mobile,Brazil
+u0003,Feature Usage,2025-03-01 10:54:00,mobile,Brazil
+u0004,Landing Page Visit,2025-03-01 09:27:00,mobile,USA
+u0004,Free Sign-Up,2025-03-01 09:48:00,mobile,USA
+u0004,Email Verification,2025-03-01 09:52:00,mobile,USA
+u0005,Landing Page Visit,2025-03-01 10:10:00,desktop,India
+u0005,Free Sign-Up,2025-03-01 10:32:00,desktop,India
+u0006,Landing Page Visit,2025-03-01 20:49:00,tablet,Germany
+u0006,Free Sign-Up,2025-03-01 21:13:00,tablet,Germany
+u0006,Email Verification,2025-03-01 21:25:00,tablet,Germany
+u0007,Landing Page Visit,2025-03-01 14:25:00,desktop,India
+u0007,Free Sign-Up,2025-03-01 14:53:00,desktop,India
+u0007,Email Verification,2025-03-01 15:14:00,desktop,India
+u0008,Landing Page Visit,2025-03-01 15:39:00,tablet,USA
+u0008,Free Sign-Up,2025-03-01 16:05:00,tablet,USA
+u0008,Email Verification,2025-03-01 16:27:00,tablet,USA
+u0008,Feature Usage,2025-03-01 16:56:00,tablet,USA
+u0008,Upgrade to Paid Plan,2025-03-01 17:08:00,tablet,USA
+u0009,Landing Page Visit,2025-03-01 15:54:00,mobile,India
+u0009,Free Sign-Up,2025-03-01 16:21:00,mobile,India
+u0010,Landing Page Visit,2025-03-01 19:39:00,mobile,Germany
+u0010,Free Sign-Up,2025-03-01 19:55:00,mobile,Germany
+u0011,Landing Page Visit,2025-03-01 11:09:00,tablet,India
+u0011,Free Sign-Up,2025-03-01 11:24:00,tablet,India
+u0012,Landing Page Visit,2025-03-02 05:07:00,mobile,UK
+u0013,Landing Page Visit,2025-03-02 03:14:00,tablet,Brazil
+u0013,Free Sign-Up,2025-03-02 03:19:00,tablet,Brazil
+u0014,Landing Page Visit,2025-03-01 18:46:00,mobile,USA
+u0014,Free Sign-Up,2025-03-01 19:07:00,mobile,USA
+u0014,Email Verification,2025-03-01 19:16:00,mobile,USA
+u0014,Feature Usage,2025-03-01 19:23:00,mobile,USA
+u0015,Landing Page Visit,2025-03-01 14:27:00,tablet,Germany
+u0015,Free Sign-Up,2025-03-01 14:52:00,tablet,Germany
+u0016,Landing Page Visit,2025-03-01 08:13:00,tablet,UK
+u0016,Free Sign-Up,2025-03-01 08:31:00,tablet,UK
+u0017,Landing Page Visit,2025-03-01 20:56:00,tablet,Germany
+u0017,Free Sign-Up,2025-03-01 21:22:00,tablet,Germany
+u0017,Email Verification,2025-03-01 21:43:00,tablet,Germany
+u0017,Feature Usage,2025-03-01 21:45:00,tablet,Germany
+u0018,Landing Page Visit,2025-03-01 09:31:00,mobile,Brazil
+u0018,Free Sign-Up,2025-03-01 09:46:00,mobile,Brazil
+u0019,Landing Page Visit,2025-03-01 16:28:00,mobile,USA
+u0019,Free Sign-Up,2025-03-01 16:36:00,mobile,USA
+u0019,Email Verification,2025-03-01 16:51:00,mobile,USA
+u0019,Feature Usage,2025-03-01 16:54:00,mobile,USA
+u0020,Landing Page Visit,2025-03-02 02:24:00,tablet,Germany
+u0021,Landing Page Visit,2025-03-02 07:31:00,mobile,India
+u0021,Free Sign-Up,2025-03-02 07:33:00,mobile,India
+u0021,Email Verification,2025-03-02 07:39:00,mobile,India
+u0022,Landing Page Visit,2025-03-02 02:49:00,mobile,Germany
+u0022,Free Sign-Up,2025-03-02 02:53:00,mobile,Germany
+u0023,Landing Page Visit,2025-03-01 19:42:00,tablet,Germany
+u0023,Free Sign-Up,2025-03-01 20:00:00,tablet,Germany
+u0023,Email Verification,2025-03-01 20:26:00,tablet,Germany
+u0023,Feature Usage,2025-03-01 20:38:00,tablet,Germany
+u0024,Landing Page Visit,2025-03-01 11:21:00,tablet,Brazil
+u0024,Free Sign-Up,2025-03-01 11:25:00,tablet,Brazil
+u0025,Landing Page Visit,2025-03-01 21:35:00,tablet,Brazil
+u0025,Free Sign-Up,2025-03-01 21:50:00,tablet,Brazil
+u0025,Email Verification,2025-03-01 21:58:00,tablet,Brazil
+u0025,Feature Usage,2025-03-01 22:12:00,tablet,Brazil
+u0026,Landing Page Visit,2025-03-02 05:15:00,desktop,USA
+u0027,Landing Page Visit,2025-03-01 12:55:00,mobile,India
+u0027,Free Sign-Up,2025-03-01 13:16:00,mobile,India
+u0028,Landing Page Visit,2025-03-01 13:37:00,tablet,USA
+u0028,Free Sign-Up,2025-03-01 13:52:00,tablet,USA
+u0028,Email Verification,2025-03-01 14:13:00,tablet,USA
+u0028,Feature Usage,2025-03-01 14:37:00,tablet,USA
+u0029,Landing Page Visit,2025-03-01 11:36:00,desktop,USA
+u0029,Free Sign-Up,2025-03-01 12:04:00,desktop,USA
+u0030,Landing Page Visit,2025-03-01 14:19:00,tablet,Germany
+u0030,Free Sign-Up,2025-03-01 14:32:00,tablet,Germany
+u0030,Email Verification,2025-03-01 14:41:00,tablet,Germany
+u0031,Landing Page Visit,2025-03-01 08:14:00,desktop,India
+u0031,Free Sign-Up,2025-03-01 08:27:00,desktop,India
+u0031,Email Verification,2025-03-01 08:28:00,desktop,India
+u0032,Landing Page Visit,2025-03-01 16:40:00,tablet,USA
+u0032,Free Sign-Up,2025-03-01 17:04:00,tablet,USA
+u0032,Email Verification,2025-03-01 17:05:00,tablet,USA
+u0032,Feature Usage,2025-03-01 17:17:00,tablet,USA
+u0032,Upgrade to Paid Plan,2025-03-01 17:25:00,tablet,USA
+u0033,Landing Page Visit,2025-03-02 02:06:00,desktop,India
+u0033,Free Sign-Up,2025-03-02 02:17:00,desktop,India
+u0033,Email Verification,2025-03-02 02:36:00,desktop,India
+u0034,Landing Page Visit,2025-03-01 14:31:00,tablet,Brazil
+u0034,Free Sign-Up,2025-03-01 14:34:00,tablet,Brazil
+u0034,Email Verification,2025-03-01 14:37:00,tablet,Brazil
+u0034,Feature Usage,2025-03-01 14:38:00,tablet,Brazil
+u0034,Upgrade to Paid Plan,2025-03-01 15:05:00,tablet,Brazil
+u0035,Landing Page Visit,2025-03-01 11:50:00,tablet,UK
+u0035,Free Sign-Up,2025-03-01 12:16:00,tablet,UK
+u0036,Landing Page Visit,2025-03-02 01:31:00,mobile,India
+u0036,Free Sign-Up,2025-03-02 01:38:00,mobile,India
+u0037,Landing Page Visit,2025-03-01 20:59:00,mobile,USA
+u0037,Free Sign-Up,2025-03-01 21:01:00,mobile,USA
+u0037,Email Verification,2025-03-01 21:02:00,mobile,USA
+u0037,Feature Usage,2025-03-01 21:18:00,mobile,USA
+u0038,Landing Page Visit,2025-03-01 14:46:00,mobile,UK
+u0039,Landing Page Visit,2025-03-01 21:24:00,mobile,India
+u0039,Free Sign-Up,2025-03-01 21:27:00,mobile,India
+u0039,Email Verification,2025-03-01 21:39:00,mobile,India
+u0039,Feature Usage,2025-03-01 21:47:00,mobile,India
+u0040,Landing Page Visit,2025-03-02 00:00:00,mobile,USA
+u0040,Free Sign-Up,2025-03-02 00:03:00,mobile,USA
+u0041,Landing Page Visit,2025-03-01 18:42:00,mobile,USA
+u0042,Landing Page Visit,2025-03-02 01:08:00,desktop,UK
+u0042,Free Sign-Up,2025-03-02 01:34:00,desktop,UK
+u0043,Landing Page Visit,2025-03-01 20:46:00,tablet,UK
+u0043,Free Sign-Up,2025-03-01 21:00:00,tablet,UK
+u0044,Landing Page Visit,2025-03-01 21:14:00,tablet,Brazil
+u0044,Free Sign-Up,2025-03-01 21:23:00,tablet,Brazil
+u0044,Email Verification,2025-03-01 21:38:00,tablet,Brazil
+u0045,Landing Page Visit,2025-03-01 22:51:00,tablet,USA
+u0045,Free Sign-Up,2025-03-01 23:04:00,tablet,USA
+u0046,Landing Page Visit,2025-03-01 22:23:00,mobile,Brazil
+u0047,Landing Page Visit,2025-03-02 05:04:00,desktop,India
+u0047,Free Sign-Up,2025-03-02 05:24:00,desktop,India
+u0047,Email Verification,2025-03-02 05:53:00,desktop,India
+u0047,Feature Usage,2025-03-02 05:57:00,desktop,India
+u0047,Upgrade to Paid Plan,2025-03-02 06:02:00,desktop,India
+u0048,Landing Page Visit,2025-03-01 11:50:00,tablet,Brazil
+u0048,Free Sign-Up,2025-03-01 12:03:00,tablet,Brazil
+u0048,Email Verification,2025-03-01 12:18:00,tablet,Brazil
+u0049,Landing Page Visit,2025-03-01 17:00:00,desktop,USA
+u0049,Free Sign-Up,2025-03-01 17:04:00,desktop,USA
+u0049,Email Verification,2025-03-01 17:17:00,desktop,USA
+u0050,Landing Page Visit,2025-03-02 05:06:00,mobile,India
+u0051,Landing Page Visit,2025-03-01 17:37:00,mobile,India
+u0051,Free Sign-Up,2025-03-01 17:47:00,mobile,India
+u0051,Email Verification,2025-03-01 18:00:00,mobile,India
+u0051,Feature Usage,2025-03-01 18:25:00,mobile,India
+u0051,Upgrade to Paid Plan,2025-03-01 18:46:00,mobile,India
+u0052,Landing Page Visit,2025-03-01 21:15:00,mobile,Germany
+u0052,Free Sign-Up,2025-03-01 21:43:00,mobile,Germany
+u0052,Email Verification,2025-03-01 21:55:00,mobile,Germany
+u0052,Feature Usage,2025-03-01 22:07:00,mobile,Germany
+u0053,Landing Page Visit,2025-03-02 06:34:00,tablet,Brazil
+u0053,Free Sign-Up,2025-03-02 07:00:00,tablet,Brazil
+u0053,Email Verification,2025-03-02 07:23:00,tablet,Brazil
+u0054,Landing Page Visit,2025-03-02 04:54:00,mobile,Germany
+u0054,Free Sign-Up,2025-03-02 04:55:00,mobile,Germany
+u0054,Email Verification,2025-03-02 04:56:00,mobile,Germany
+u0054,Feature Usage,2025-03-02 05:21:00,mobile,Germany
+u0055,Landing Page Visit,2025-03-01 18:32:00,tablet,Germany
+u0055,Free Sign-Up,2025-03-01 18:52:00,tablet,Germany
+u0055,Email Verification,2025-03-01 19:05:00,tablet,Germany
+u0056,Landing Page Visit,2025-03-02 05:22:00,mobile,India
+u0056,Free Sign-Up,2025-03-02 05:29:00,mobile,India
+u0056,Email Verification,2025-03-02 05:35:00,mobile,India
+u0056,Feature Usage,2025-03-02 05:43:00,mobile,India
+u0056,Upgrade to Paid Plan,2025-03-02 06:10:00,mobile,India
+u0057,Landing Page Visit,2025-03-01 13:17:00,desktop,USA
+u0057,Free Sign-Up,2025-03-01 13:22:00,desktop,USA
+u0057,Email Verification,2025-03-01 13:23:00,desktop,USA
+u0057,Feature Usage,2025-03-01 13:42:00,desktop,USA
+u0057,Upgrade to Paid Plan,2025-03-01 13:52:00,desktop,USA
+u0058,Landing Page Visit,2025-03-01 19:03:00,tablet,USA
+u0058,Free Sign-Up,2025-03-01 19:18:00,tablet,USA
+u0058,Email Verification,2025-03-01 19:45:00,tablet,USA
+u0058,Feature Usage,2025-03-01 20:07:00,tablet,USA
+u0058,Upgrade to Paid Plan,2025-03-01 20:31:00,tablet,USA
+u0059,Landing Page Visit,2025-03-02 02:56:00,desktop,Germany
+u0059,Free Sign-Up,2025-03-02 03:13:00,desktop,Germany
+u0060,Landing Page Visit,2025-03-01 17:23:00,desktop,USA
+u0060,Free Sign-Up,2025-03-01 17:35:00,desktop,USA
+u0060,Email Verification,2025-03-01 17:42:00,desktop,USA
+u0061,Landing Page Visit,2025-03-02 07:30:00,desktop,Brazil
+u0062,Landing Page Visit,2025-03-01 23:51:00,mobile,USA
+u0062,Free Sign-Up,2025-03-02 00:08:00,mobile,USA
+u0063,Landing Page Visit,2025-03-01 09:52:00,mobile,USA
+u0063,Free Sign-Up,2025-03-01 09:54:00,mobile,USA
+u0064,Landing Page Visit,2025-03-01 11:39:00,tablet,USA
+u0064,Free Sign-Up,2025-03-01 12:01:00,tablet,USA
+u0064,Email Verification,2025-03-01 12:24:00,tablet,USA
+u0065,Landing Page Visit,2025-03-02 04:48:00,desktop,USA
+u0066,Landing Page Visit,2025-03-02 07:46:00,desktop,Germany
+u0067,Landing Page Visit,2025-03-02 01:56:00,mobile,India
+u0067,Free Sign-Up,2025-03-02 02:08:00,mobile,India
+u0067,Email Verification,2025-03-02 02:34:00,mobile,India
+u0067,Feature Usage,2025-03-02 02:40:00,mobile,India
+u0068,Landing Page Visit,2025-03-01 21:55:00,desktop,Brazil
+u0069,Landing Page Visit,2025-03-01 11:22:00,tablet,Germany
+u0069,Free Sign-Up,2025-03-01 11:46:00,tablet,Germany
+u0070,Landing Page Visit,2025-03-01 14:40:00,mobile,Brazil
+u0070,Free Sign-Up,2025-03-01 14:46:00,mobile,Brazil
+u0070,Email Verification,2025-03-01 15:10:00,mobile,Brazil
+u0070,Feature Usage,2025-03-01 15:15:00,mobile,Brazil
+u0071,Landing Page Visit,2025-03-01 11:17:00,desktop,UK
+u0071,Free Sign-Up,2025-03-01 11:39:00,desktop,UK
+u0071,Email Verification,2025-03-01 11:50:00,desktop,UK
+u0072,Landing Page Visit,2025-03-01 10:23:00,desktop,India
+u0072,Free Sign-Up,2025-03-01 10:24:00,desktop,India
+u0073,Landing Page Visit,2025-03-02 03:07:00,tablet,USA
+u0073,Free Sign-Up,2025-03-02 03:34:00,tablet,USA
+u0074,Landing Page Visit,2025-03-01 15:43:00,desktop,Brazil
+u0074,Free Sign-Up,2025-03-01 16:12:00,desktop,Brazil
+u0075,Landing Page Visit,2025-03-01 18:59:00,desktop,Brazil
+u0075,Free Sign-Up,2025-03-01 19:27:00,desktop,Brazil
+u0075,Email Verification,2025-03-01 19:54:00,desktop,Brazil
+u0075,Feature Usage,2025-03-01 19:58:00,desktop,Brazil
+u0075,Upgrade to Paid Plan,2025-03-01 20:17:00,desktop,Brazil
+u0076,Landing Page Visit,2025-03-01 10:26:00,desktop,UK
+u0077,Landing Page Visit,2025-03-01 22:23:00,tablet,Brazil
+u0077,Free Sign-Up,2025-03-01 22:30:00,tablet,Brazil
+u0077,Email Verification,2025-03-01 22:50:00,tablet,Brazil
+u0077,Feature Usage,2025-03-01 22:59:00,tablet,Brazil
+u0078,Landing Page Visit,2025-03-01 17:10:00,tablet,Brazil
+u0078,Free Sign-Up,2025-03-01 17:28:00,tablet,Brazil
+u0078,Email Verification,2025-03-01 17:36:00,tablet,Brazil
+u0078,Feature Usage,2025-03-01 17:37:00,tablet,Brazil
+u0079,Landing Page Visit,2025-03-01 15:52:00,tablet,USA
+u0079,Free Sign-Up,2025-03-01 16:10:00,tablet,USA
+u0080,Landing Page Visit,2025-03-02 07:58:00,tablet,Germany
+u0081,Landing Page Visit,2025-03-01 12:22:00,mobile,Germany
+u0081,Free Sign-Up,2025-03-01 12:50:00,mobile,Germany
+u0081,Email Verification,2025-03-01 13:06:00,mobile,Germany
+u0081,Feature Usage,2025-03-01 13:32:00,mobile,Germany
+u0082,Landing Page Visit,2025-03-02 00:56:00,mobile,UK
+u0082,Free Sign-Up,2025-03-02 01:16:00,mobile,UK
+u0082,Email Verification,2025-03-02 01:44:00,mobile,UK
+u0083,Landing Page Visit,2025-03-01 08:01:00,desktop,UK
+u0083,Free Sign-Up,2025-03-01 08:02:00,desktop,UK
+u0083,Email Verification,2025-03-01 08:18:00,desktop,UK
+u0084,Landing Page Visit,2025-03-01 15:32:00,mobile,UK
+u0084,Free Sign-Up,2025-03-01 15:37:00,mobile,UK
+u0085,Landing Page Visit,2025-03-02 00:54:00,desktop,India
+u0086,Landing Page Visit,2025-03-02 04:56:00,mobile,UK
+u0086,Free Sign-Up,2025-03-02 04:59:00,mobile,UK
+u0086,Email Verification,2025-03-02 05:18:00,mobile,UK
+u0087,Landing Page Visit,2025-03-01 11:27:00,desktop,UK
+u0087,Free Sign-Up,2025-03-01 11:30:00,desktop,UK
+u0087,Email Verification,2025-03-01 11:50:00,desktop,UK
+u0088,Landing Page Visit,2025-03-01 08:53:00,tablet,UK
+u0088,Free Sign-Up,2025-03-01 09:17:00,tablet,UK
+u0088,Email Verification,2025-03-01 09:18:00,tablet,UK
+u0088,Feature Usage,2025-03-01 09:42:00,tablet,UK
+u0088,Upgrade to Paid Plan,2025-03-01 10:02:00,tablet,UK
+u0089,Landing Page Visit,2025-03-01 09:43:00,tablet,Germany
+u0089,Free Sign-Up,2025-03-01 10:03:00,tablet,Germany
+u0089,Email Verification,2025-03-01 10:06:00,tablet,Germany
+u0089,Feature Usage,2025-03-01 10:22:00,tablet,Germany
+u0089,Upgrade to Paid Plan,2025-03-01 10:47:00,tablet,Germany
+u0090,Landing Page Visit,2025-03-01 10:32:00,desktop,USA
+u0090,Free Sign-Up,2025-03-01 11:01:00,desktop,USA
+u0090,Email Verification,2025-03-01 11:19:00,desktop,USA
+u0090,Feature Usage,2025-03-01 11:33:00,desktop,USA
+u0090,Upgrade to Paid Plan,2025-03-01 11:51:00,desktop,USA
+u0091,Landing Page Visit,2025-03-01 21:41:00,tablet,USA
+u0091,Free Sign-Up,2025-03-01 21:44:00,tablet,USA
+u0091,Email Verification,2025-03-01 22:00:00,tablet,USA
+u0092,Landing Page Visit,2025-03-01 10:40:00,desktop,India
+u0092,Free Sign-Up,2025-03-01 10:44:00,desktop,India
+u0093,Landing Page Visit,2025-03-01 14:37:00,tablet,India
+u0093,Free Sign-Up,2025-03-01 14:58:00,tablet,India
+u0093,Email Verification,2025-03-01 15:14:00,tablet,India
+u0093,Feature Usage,2025-03-01 15:34:00,tablet,India
+u0094,Landing Page Visit,2025-03-02 07:35:00,desktop,UK
+u0094,Free Sign-Up,2025-03-02 07:42:00,desktop,UK
+u0095,Landing Page Visit,2025-03-01 14:40:00,mobile,UK
+u0095,Free Sign-Up,2025-03-01 14:41:00,mobile,UK
+u0095,Email Verification,2025-03-01 14:57:00,mobile,UK
+u0095,Feature Usage,2025-03-01 15:09:00,mobile,UK
+u0096,Landing Page Visit,2025-03-01 15:49:00,desktop,USA
+u0097,Landing Page Visit,2025-03-02 01:25:00,tablet,Brazil
+u0097,Free Sign-Up,2025-03-02 01:39:00,tablet,Brazil
+u0097,Email Verification,2025-03-02 01:45:00,tablet,Brazil
+u0097,Feature Usage,2025-03-02 01:51:00,tablet,Brazil
+u0098,Landing Page Visit,2025-03-01 17:22:00,mobile,UK
+u0098,Free Sign-Up,2025-03-01 17:44:00,mobile,UK
+u0098,Email Verification,2025-03-01 17:52:00,mobile,UK
+u0099,Landing Page Visit,2025-03-01 08:26:00,desktop,UK
+u0100,Landing Page Visit,2025-03-02 05:40:00,desktop,Germany
+u0100,Free Sign-Up,2025-03-02 05:41:00,desktop,Germany
+u0101,Landing Page Visit,2025-03-01 22:38:00,mobile,Germany
+u0101,Free Sign-Up,2025-03-01 22:39:00,mobile,Germany
+u0102,Landing Page Visit,2025-03-02 00:59:00,mobile,India
+u0102,Free Sign-Up,2025-03-02 01:28:00,mobile,India
+u0102,Email Verification,2025-03-02 01:44:00,mobile,India
+u0102,Feature Usage,2025-03-02 02:03:00,mobile,India
+u0102,Upgrade to Paid Plan,2025-03-02 02:07:00,mobile,India
+u0103,Landing Page Visit,2025-03-02 04:15:00,tablet,India
+u0103,Free Sign-Up,2025-03-02 04:32:00,tablet,India
+u0104,Landing Page Visit,2025-03-02 03:55:00,desktop,USA
+u0105,Landing Page Visit,2025-03-01 10:37:00,tablet,India
+u0105,Free Sign-Up,2025-03-01 11:06:00,tablet,India
+u0105,Email Verification,2025-03-01 11:20:00,tablet,India
+u0106,Landing Page Visit,2025-03-01 16:37:00,desktop,Brazil
+u0107,Landing Page Visit,2025-03-02 01:40:00,desktop,USA
+u0107,Free Sign-Up,2025-03-02 02:04:00,desktop,USA
+u0107,Email Verification,2025-03-02 02:33:00,desktop,USA
+u0107,Feature Usage,2025-03-02 02:50:00,desktop,USA
+u0108,Landing Page Visit,2025-03-01 11:00:00,tablet,Brazil
+u0108,Free Sign-Up,2025-03-01 11:03:00,tablet,Brazil
+u0108,Email Verification,2025-03-01 11:31:00,tablet,Brazil
+u0108,Feature Usage,2025-03-01 11:32:00,tablet,Brazil
+u0109,Landing Page Visit,2025-03-01 11:10:00,tablet,Germany
+u0109,Free Sign-Up,2025-03-01 11:39:00,tablet,Germany
+u0109,Email Verification,2025-03-01 12:00:00,tablet,Germany
+u0109,Feature Usage,2025-03-01 12:23:00,tablet,Germany
+u0110,Landing Page Visit,2025-03-02 05:19:00,desktop,Germany
+u0110,Free Sign-Up,2025-03-02 05:22:00,desktop,Germany
+u0111,Landing Page Visit,2025-03-01 17:25:00,desktop,USA
+u0112,Landing Page Visit,2025-03-02 06:26:00,desktop,Brazil
+u0112,Free Sign-Up,2025-03-02 06:34:00,desktop,Brazil
+u0112,Email Verification,2025-03-02 06:48:00,desktop,Brazil
+u0112,Feature Usage,2025-03-02 07:12:00,desktop,Brazil
+u0113,Landing Page Visit,2025-03-02 05:51:00,desktop,Germany
+u0113,Free Sign-Up,2025-03-02 06:06:00,desktop,Germany
+u0113,Email Verification,2025-03-02 06:28:00,desktop,Germany
+u0114,Landing Page Visit,2025-03-02 00:01:00,mobile,UK
+u0114,Free Sign-Up,2025-03-02 00:28:00,mobile,UK
+u0114,Email Verification,2025-03-02 00:38:00,mobile,UK
+u0115,Landing Page Visit,2025-03-01 21:04:00,desktop,USA
+u0115,Free Sign-Up,2025-03-01 21:12:00,desktop,USA
+u0115,Email Verification,2025-03-01 21:13:00,desktop,USA
+u0115,Feature Usage,2025-03-01 21:22:00,desktop,USA
+u0116,Landing Page Visit,2025-03-01 12:05:00,desktop,Brazil
+u0117,Landing Page Visit,2025-03-02 01:42:00,mobile,USA
+u0117,Free Sign-Up,2025-03-02 02:11:00,mobile,USA
+u0118,Landing Page Visit,2025-03-01 20:38:00,tablet,UK
+u0118,Free Sign-Up,2025-03-01 21:04:00,tablet,UK
+u0119,Landing Page Visit,2025-03-01 23:20:00,mobile,Germany
+u0119,Free Sign-Up,2025-03-01 23:44:00,mobile,Germany
+u0119,Email Verification,2025-03-01 23:57:00,mobile,Germany
+u0120,Landing Page Visit,2025-03-01 23:02:00,desktop,Brazil
+u0120,Free Sign-Up,2025-03-01 23:27:00,desktop,Brazil
+u0121,Landing Page Visit,2025-03-01 19:24:00,desktop,Germany
+u0121,Free Sign-Up,2025-03-01 19:44:00,desktop,Germany
+u0121,Email Verification,2025-03-01 19:45:00,desktop,Germany
+u0121,Feature Usage,2025-03-01 19:53:00,desktop,Germany
+u0121,Upgrade to Paid Plan,2025-03-01 20:07:00,desktop,Germany
+u0122,Landing Page Visit,2025-03-01 18:53:00,mobile,Brazil
+u0122,Free Sign-Up,2025-03-01 19:05:00,mobile,Brazil
+u0122,Email Verification,2025-03-01 19:24:00,mobile,Brazil
+u0123,Landing Page Visit,2025-03-02 03:26:00,desktop,Brazil
+u0123,Free Sign-Up,2025-03-02 03:54:00,desktop,Brazil
+u0123,Email Verification,2025-03-02 03:56:00,desktop,Brazil
+u0123,Feature Usage,2025-03-02 03:58:00,desktop,Brazil
+u0123,Upgrade to Paid Plan,2025-03-02 04:21:00,desktop,Brazil
+u0124,Landing Page Visit,2025-03-01 08:50:00,mobile,Germany
+u0124,Free Sign-Up,2025-03-01 09:15:00,mobile,Germany
+u0124,Email Verification,2025-03-01 09:41:00,mobile,Germany
+u0124,Feature Usage,2025-03-01 10:10:00,mobile,Germany
+u0125,Landing Page Visit,2025-03-01 13:13:00,tablet,Germany
+u0125,Free Sign-Up,2025-03-01 13:39:00,tablet,Germany
+u0126,Landing Page Visit,2025-03-01 13:04:00,desktop,India
+u0126,Free Sign-Up,2025-03-01 13:24:00,desktop,India
+u0126,Email Verification,2025-03-01 13:34:00,desktop,India
+u0126,Feature Usage,2025-03-01 13:40:00,desktop,India
+u0126,Upgrade to Paid Plan,2025-03-01 13:55:00,desktop,India
+u0127,Landing Page Visit,2025-03-02 00:42:00,mobile,Germany
+u0127,Free Sign-Up,2025-03-02 01:10:00,mobile,Germany
+u0128,Landing Page Visit,2025-03-02 00:32:00,desktop,UK
+u0128,Free Sign-Up,2025-03-02 00:40:00,desktop,UK
+u0128,Email Verification,2025-03-02 01:01:00,desktop,UK
+u0128,Feature Usage,2025-03-02 01:29:00,desktop,UK
+u0129,Landing Page Visit,2025-03-01 08:04:00,desktop,India
+u0129,Free Sign-Up,2025-03-01 08:11:00,desktop,India
+u0130,Landing Page Visit,2025-03-01 20:53:00,tablet,Brazil
+u0130,Free Sign-Up,2025-03-01 21:06:00,tablet,Brazil
+u0130,Email Verification,2025-03-01 21:26:00,tablet,Brazil
+u0131,Landing Page Visit,2025-03-01 22:26:00,desktop,Germany
+u0132,Landing Page Visit,2025-03-01 23:35:00,desktop,Brazil
+u0132,Free Sign-Up,2025-03-01 23:55:00,desktop,Brazil
+u0133,Landing Page Visit,2025-03-01 12:28:00,mobile,USA
+u0133,Free Sign-Up,2025-03-01 12:46:00,mobile,USA
+u0133,Email Verification,2025-03-01 13:14:00,mobile,USA
+u0134,Landing Page Visit,2025-03-01 18:56:00,mobile,India
+u0134,Free Sign-Up,2025-03-01 19:20:00,mobile,India
+u0134,Email Verification,2025-03-01 19:39:00,mobile,India
+u0134,Feature Usage,2025-03-01 20:07:00,mobile,India
+u0135,Landing Page Visit,2025-03-02 06:49:00,desktop,UK
+u0135,Free Sign-Up,2025-03-02 06:54:00,desktop,UK
+u0135,Email Verification,2025-03-02 07:20:00,desktop,UK
+u0136,Landing Page Visit,2025-03-01 21:10:00,tablet,USA
+u0136,Free Sign-Up,2025-03-01 21:19:00,tablet,USA
+u0136,Email Verification,2025-03-01 21:31:00,tablet,USA
+u0137,Landing Page Visit,2025-03-02 02:01:00,mobile,India
+u0137,Free Sign-Up,2025-03-02 02:27:00,mobile,India
+u0137,Email Verification,2025-03-02 02:28:00,mobile,India
+u0138,Landing Page Visit,2025-03-01 21:21:00,desktop,UK
+u0138,Free Sign-Up,2025-03-01 21:43:00,desktop,UK
+u0139,Landing Page Visit,2025-03-01 16:07:00,desktop,Brazil
+u0139,Free Sign-Up,2025-03-01 16:20:00,desktop,Brazil
+u0139,Email Verification,2025-03-01 16:41:00,desktop,Brazil
+u0140,Landing Page Visit,2025-03-02 05:35:00,tablet,Germany
+u0140,Free Sign-Up,2025-03-02 06:04:00,tablet,Germany
+u0140,Email Verification,2025-03-02 06:11:00,tablet,Germany
+u0141,Landing Page Visit,2025-03-01 21:09:00,tablet,Brazil
+u0142,Landing Page Visit,2025-03-01 12:06:00,tablet,Germany
+u0142,Free Sign-Up,2025-03-01 12:09:00,tablet,Germany
+u0142,Email Verification,2025-03-01 12:21:00,tablet,Germany
+u0143,Landing Page Visit,2025-03-02 00:36:00,desktop,Germany
+u0143,Free Sign-Up,2025-03-02 00:58:00,desktop,Germany
+u0143,Email Verification,2025-03-02 01:23:00,desktop,Germany
+u0144,Landing Page Visit,2025-03-02 04:43:00,mobile,UK
+u0144,Free Sign-Up,2025-03-02 04:48:00,mobile,UK
+u0145,Landing Page Visit,2025-03-02 00:48:00,mobile,Germany
+u0145,Free Sign-Up,2025-03-02 01:02:00,mobile,Germany
+u0146,Landing Page Visit,2025-03-01 15:32:00,desktop,Brazil
+u0146,Free Sign-Up,2025-03-01 15:44:00,desktop,Brazil
+u0146,Email Verification,2025-03-01 16:00:00,desktop,Brazil
+u0146,Feature Usage,2025-03-01 16:26:00,desktop,Brazil
+u0147,Landing Page Visit,2025-03-01 15:11:00,tablet,India
+u0147,Free Sign-Up,2025-03-01 15:32:00,tablet,India
+u0147,Email Verification,2025-03-01 15:39:00,tablet,India
+u0147,Feature Usage,2025-03-01 15:43:00,tablet,India
+u0148,Landing Page Visit,2025-03-02 05:17:00,desktop,UK
+u0148,Free Sign-Up,2025-03-02 05:22:00,desktop,UK
+u0148,Email Verification,2025-03-02 05:45:00,desktop,UK
+u0149,Landing Page Visit,2025-03-01 16:41:00,desktop,UK
+u0150,Landing Page Visit,2025-03-02 02:43:00,tablet,USA
+u0150,Free Sign-Up,2025-03-02 02:45:00,tablet,USA
+u0150,Email Verification,2025-03-02 03:05:00,tablet,USA
+u0150,Feature Usage,2025-03-02 03:15:00,tablet,USA
+u0150,Upgrade to Paid Plan,2025-03-02 03:41:00,tablet,USA
+u0151,Landing Page Visit,2025-03-01 15:21:00,mobile,UK
+u0151,Free Sign-Up,2025-03-01 15:22:00,mobile,UK
+u0151,Email Verification,2025-03-01 15:46:00,mobile,UK
+u0152,Landing Page Visit,2025-03-01 16:35:00,desktop,Brazil
+u0152,Free Sign-Up,2025-03-01 16:51:00,desktop,Brazil
+u0152,Email Verification,2025-03-01 17:15:00,desktop,Brazil
+u0153,Landing Page Visit,2025-03-01 12:17:00,desktop,Brazil
+u0153,Free Sign-Up,2025-03-01 12:34:00,desktop,Brazil
+u0153,Email Verification,2025-03-01 13:02:00,desktop,Brazil
+u0154,Landing Page Visit,2025-03-01 22:11:00,mobile,India
+u0154,Free Sign-Up,2025-03-01 22:35:00,mobile,India
+u0154,Email Verification,2025-03-01 22:47:00,mobile,India
+u0155,Landing Page Visit,2025-03-01 14:19:00,tablet,Germany
+u0155,Free Sign-Up,2025-03-01 14:20:00,tablet,Germany
+u0155,Email Verification,2025-03-01 14:21:00,tablet,Germany
+u0156,Landing Page Visit,2025-03-01 19:30:00,tablet,UK
+u0156,Free Sign-Up,2025-03-01 19:41:00,tablet,UK
+u0156,Email Verification,2025-03-01 19:46:00,tablet,UK
+u0156,Feature Usage,2025-03-01 19:58:00,tablet,UK
+u0157,Landing Page Visit,2025-03-02 03:51:00,desktop,UK
+u0158,Landing Page Visit,2025-03-02 01:46:00,tablet,USA
+u0158,Free Sign-Up,2025-03-02 01:58:00,tablet,USA
+u0159,Landing Page Visit,2025-03-01 14:36:00,mobile,Germany
+u0159,Free Sign-Up,2025-03-01 14:48:00,mobile,Germany
+u0160,Landing Page Visit,2025-03-02 05:16:00,desktop,USA
+u0160,Free Sign-Up,2025-03-02 05:35:00,desktop,USA
+u0160,Email Verification,2025-03-02 05:53:00,desktop,USA
+u0161,Landing Page Visit,2025-03-01 20:06:00,mobile,UK
+u0162,Landing Page Visit,2025-03-01 09:29:00,mobile,USA
+u0162,Free Sign-Up,2025-03-01 09:37:00,mobile,USA
+u0162,Email Verification,2025-03-01 10:06:00,mobile,USA
+u0163,Landing Page Visit,2025-03-02 00:09:00,desktop,Germany
+u0163,Free Sign-Up,2025-03-02 00:35:00,desktop,Germany
+u0163,Email Verification,2025-03-02 00:37:00,desktop,Germany
+u0163,Feature Usage,2025-03-02 00:56:00,desktop,Germany
+u0164,Landing Page Visit,2025-03-02 04:19:00,tablet,UK
+u0164,Free Sign-Up,2025-03-02 04:45:00,tablet,UK
+u0165,Landing Page Visit,2025-03-02 02:18:00,desktop,Brazil
+u0165,Free Sign-Up,2025-03-02 02:47:00,desktop,Brazil
+u0165,Email Verification,2025-03-02 03:11:00,desktop,Brazil
+u0166,Landing Page Visit,2025-03-01 20:08:00,mobile,India
+u0166,Free Sign-Up,2025-03-01 20:29:00,mobile,India
+u0166,Email Verification,2025-03-01 20:58:00,mobile,India
+u0167,Landing Page Visit,2025-03-01 19:15:00,desktop,USA
+u0168,Landing Page Visit,2025-03-01 15:36:00,mobile,Germany
+u0168,Free Sign-Up,2025-03-01 16:00:00,mobile,Germany
+u0168,Email Verification,2025-03-01 16:03:00,mobile,Germany
+u0168,Feature Usage,2025-03-01 16:20:00,mobile,Germany
+u0169,Landing Page Visit,2025-03-02 00:17:00,tablet,USA
+u0169,Free Sign-Up,2025-03-02 00:34:00,tablet,USA
+u0170,Landing Page Visit,2025-03-01 09:35:00,tablet,USA
+u0170,Free Sign-Up,2025-03-01 09:59:00,tablet,USA
+u0170,Email Verification,2025-03-01 10:22:00,tablet,USA
+u0171,Landing Page Visit,2025-03-02 07:12:00,desktop,Germany
+u0172,Landing Page Visit,2025-03-01 12:38:00,desktop,Germany
+u0172,Free Sign-Up,2025-03-01 13:03:00,desktop,Germany
+u0172,Email Verification,2025-03-01 13:06:00,desktop,Germany
+u0172,Feature Usage,2025-03-01 13:15:00,desktop,Germany
+u0173,Landing Page Visit,2025-03-01 09:01:00,tablet,UK
+u0173,Free Sign-Up,2025-03-01 09:21:00,tablet,UK
+u0173,Email Verification,2025-03-01 09:37:00,tablet,UK
+u0174,Landing Page Visit,2025-03-02 06:45:00,desktop,India
+u0174,Free Sign-Up,2025-03-02 06:58:00,desktop,India
+u0174,Email Verification,2025-03-02 07:25:00,desktop,India
+u0175,Landing Page Visit,2025-03-01 10:56:00,desktop,India
+u0175,Free Sign-Up,2025-03-01 11:00:00,desktop,India
+u0175,Email Verification,2025-03-01 11:12:00,desktop,India
+u0176,Landing Page Visit,2025-03-02 04:56:00,tablet,India
+u0176,Free Sign-Up,2025-03-02 05:15:00,tablet,India
+u0177,Landing Page Visit,2025-03-01 12:24:00,desktop,USA
+u0177,Free Sign-Up,2025-03-01 12:31:00,desktop,USA
+u0177,Email Verification,2025-03-01 12:59:00,desktop,USA
+u0178,Landing Page Visit,2025-03-01 20:14:00,tablet,USA
+u0179,Landing Page Visit,2025-03-01 22:10:00,tablet,India
+u0179,Free Sign-Up,2025-03-01 22:36:00,tablet,India
+u0179,Email Verification,2025-03-01 22:51:00,tablet,India
+u0180,Landing Page Visit,2025-03-01 22:44:00,mobile,Germany
+u0180,Free Sign-Up,2025-03-01 22:49:00,mobile,Germany
+u0180,Email Verification,2025-03-01 22:52:00,mobile,Germany
+u0181,Landing Page Visit,2025-03-02 01:28:00,desktop,Brazil
+u0181,Free Sign-Up,2025-03-02 01:48:00,desktop,Brazil
+u0181,Email Verification,2025-03-02 02:15:00,desktop,Brazil
+u0182,Landing Page Visit,2025-03-02 03:34:00,desktop,Germany
+u0182,Free Sign-Up,2025-03-02 03:50:00,desktop,Germany
+u0182,Email Verification,2025-03-02 04:15:00,desktop,Germany
+u0183,Landing Page Visit,2025-03-01 09:48:00,mobile,USA
+u0183,Free Sign-Up,2025-03-01 10:09:00,mobile,USA
+u0184,Landing Page Visit,2025-03-02 04:09:00,tablet,Germany
+u0184,Free Sign-Up,2025-03-02 04:16:00,tablet,Germany
+u0184,Email Verification,2025-03-02 04:30:00,tablet,Germany
+u0184,Feature Usage,2025-03-02 04:56:00,tablet,Germany
+u0185,Landing Page Visit,2025-03-02 03:46:00,tablet,Germany
+u0185,Free Sign-Up,2025-03-02 04:09:00,tablet,Germany
+u0186,Landing Page Visit,2025-03-01 11:54:00,mobile,USA
+u0186,Free Sign-Up,2025-03-01 12:05:00,mobile,USA
+u0187,Landing Page Visit,2025-03-01 20:30:00,desktop,Brazil
+u0187,Free Sign-Up,2025-03-01 20:42:00,desktop,Brazil
+u0188,Landing Page Visit,2025-03-02 02:17:00,tablet,Germany
+u0188,Free Sign-Up,2025-03-02 02:43:00,tablet,Germany
+u0188,Email Verification,2025-03-02 02:55:00,tablet,Germany
+u0188,Feature Usage,2025-03-02 03:12:00,tablet,Germany
+u0189,Landing Page Visit,2025-03-02 04:53:00,mobile,India
+u0189,Free Sign-Up,2025-03-02 05:00:00,mobile,India
+u0189,Email Verification,2025-03-02 05:14:00,mobile,India
+u0189,Feature Usage,2025-03-02 05:27:00,mobile,India
+u0190,Landing Page Visit,2025-03-01 10:49:00,tablet,Brazil
+u0190,Free Sign-Up,2025-03-01 10:58:00,tablet,Brazil
+u0190,Email Verification,2025-03-01 11:16:00,tablet,Brazil
+u0190,Feature Usage,2025-03-01 11:43:00,tablet,Brazil
+u0190,Upgrade to Paid Plan,2025-03-01 12:09:00,tablet,Brazil
+u0191,Landing Page Visit,2025-03-01 08:28:00,desktop,Brazil
+u0192,Landing Page Visit,2025-03-01 13:38:00,mobile,Germany
+u0192,Free Sign-Up,2025-03-01 13:46:00,mobile,Germany
+u0192,Email Verification,2025-03-01 14:02:00,mobile,Germany
+u0192,Feature Usage,2025-03-01 14:15:00,mobile,Germany
+u0193,Landing Page Visit,2025-03-02 06:45:00,desktop,Brazil
+u0193,Free Sign-Up,2025-03-02 07:05:00,desktop,Brazil
+u0193,Email Verification,2025-03-02 07:22:00,desktop,Brazil
+u0193,Feature Usage,2025-03-02 07:29:00,desktop,Brazil
+u0194,Landing Page Visit,2025-03-02 06:04:00,desktop,India
+u0194,Free Sign-Up,2025-03-02 06:08:00,desktop,India
+u0194,Email Verification,2025-03-02 06:12:00,desktop,India
+u0194,Feature Usage,2025-03-02 06:18:00,desktop,India
+u0195,Landing Page Visit,2025-03-02 07:58:00,mobile,USA
+u0195,Free Sign-Up,2025-03-02 08:17:00,mobile,USA
+u0196,Landing Page Visit,2025-03-01 22:35:00,tablet,USA
+u0196,Free Sign-Up,2025-03-01 22:57:00,tablet,USA
+u0196,Email Verification,2025-03-01 23:04:00,tablet,USA
+u0197,Landing Page Visit,2025-03-01 19:53:00,tablet,India
+u0198,Landing Page Visit,2025-03-01 08:38:00,mobile,Brazil
+u0198,Free Sign-Up,2025-03-01 08:41:00,mobile,Brazil
+u0199,Landing Page Visit,2025-03-01 18:52:00,mobile,USA
+u0199,Free Sign-Up,2025-03-01 19:10:00,mobile,USA
+u0199,Email Verification,2025-03-01 19:38:00,mobile,USA
+u0199,Feature Usage,2025-03-01 20:04:00,mobile,USA
+u0199,Upgrade to Paid Plan,2025-03-01 20:24:00,mobile,USA
+u0200,Landing Page Visit,2025-03-01 15:35:00,mobile,USA
+u0200,Free Sign-Up,2025-03-01 16:04:00,mobile,USA
+u0201,Landing Page Visit,2025-03-02 01:04:00,desktop,UK
+u0201,Free Sign-Up,2025-03-02 01:07:00,desktop,UK
+u0201,Email Verification,2025-03-02 01:20:00,desktop,UK
+u0202,Landing Page Visit,2025-03-01 11:09:00,tablet,India
+u0203,Landing Page Visit,2025-03-02 04:14:00,tablet,Brazil
+u0203,Free Sign-Up,2025-03-02 04:42:00,tablet,Brazil
+u0203,Email Verification,2025-03-02 04:59:00,tablet,Brazil
+u0204,Landing Page Visit,2025-03-01 21:43:00,desktop,UK
+u0204,Free Sign-Up,2025-03-01 21:44:00,desktop,UK
+u0205,Landing Page Visit,2025-03-02 03:00:00,mobile,India
+u0205,Free Sign-Up,2025-03-02 03:06:00,mobile,India
+u0205,Email Verification,2025-03-02 03:32:00,mobile,India
+u0206,Landing Page Visit,2025-03-01 19:24:00,tablet,Brazil
+u0206,Free Sign-Up,2025-03-01 19:37:00,tablet,Brazil
+u0206,Email Verification,2025-03-01 20:06:00,tablet,Brazil
+u0206,Feature Usage,2025-03-01 20:21:00,tablet,Brazil
+u0207,Landing Page Visit,2025-03-01 09:19:00,desktop,India
+u0207,Free Sign-Up,2025-03-01 09:41:00,desktop,India
+u0208,Landing Page Visit,2025-03-01 11:22:00,tablet,USA
+u0209,Landing Page Visit,2025-03-02 04:52:00,desktop,Germany
+u0209,Free Sign-Up,2025-03-02 04:56:00,desktop,Germany
+u0210,Landing Page Visit,2025-03-02 07:45:00,desktop,UK
+u0210,Free Sign-Up,2025-03-02 08:00:00,desktop,UK
+u0211,Landing Page Visit,2025-03-02 06:08:00,tablet,UK
+u0211,Free Sign-Up,2025-03-02 06:22:00,tablet,UK
+u0211,Email Verification,2025-03-02 06:37:00,tablet,UK
+u0211,Feature Usage,2025-03-02 06:38:00,tablet,UK
+u0212,Landing Page Visit,2025-03-02 05:22:00,mobile,Brazil
+u0213,Landing Page Visit,2025-03-01 15:50:00,tablet,Germany
+u0213,Free Sign-Up,2025-03-01 16:15:00,tablet,Germany
+u0214,Landing Page Visit,2025-03-02 01:15:00,desktop,India
+u0214,Free Sign-Up,2025-03-02 01:25:00,desktop,India
+u0214,Email Verification,2025-03-02 01:41:00,desktop,India
+u0215,Landing Page Visit,2025-03-01 13:57:00,mobile,USA
+u0215,Free Sign-Up,2025-03-01 14:09:00,mobile,USA
+u0215,Email Verification,2025-03-01 14:33:00,mobile,USA
+u0216,Landing Page Visit,2025-03-01 14:12:00,desktop,India
+u0216,Free Sign-Up,2025-03-01 14:20:00,desktop,India
+u0217,Landing Page Visit,2025-03-02 06:51:00,tablet,Brazil
+u0217,Free Sign-Up,2025-03-02 06:55:00,tablet,Brazil
+u0217,Email Verification,2025-03-02 07:21:00,tablet,Brazil
+u0218,Landing Page Visit,2025-03-01 19:37:00,tablet,Germany
+u0218,Free Sign-Up,2025-03-01 20:05:00,tablet,Germany
+u0219,Landing Page Visit,2025-03-01 16:59:00,desktop,Germany
+u0220,Landing Page Visit,2025-03-01 22:28:00,tablet,UK
+u0220,Free Sign-Up,2025-03-01 22:37:00,tablet,UK
+u0221,Landing Page Visit,2025-03-01 16:21:00,mobile,Brazil
+u0221,Free Sign-Up,2025-03-01 16:38:00,mobile,Brazil
+u0221,Email Verification,2025-03-01 16:47:00,mobile,Brazil
+u0221,Feature Usage,2025-03-01 16:48:00,mobile,Brazil
+u0222,Landing Page Visit,2025-03-01 15:40:00,tablet,Brazil
+u0222,Free Sign-Up,2025-03-01 16:08:00,tablet,Brazil
+u0222,Email Verification,2025-03-01 16:24:00,tablet,Brazil
+u0223,Landing Page Visit,2025-03-01 23:08:00,tablet,India
+u0223,Free Sign-Up,2025-03-01 23:22:00,tablet,India
+u0223,Email Verification,2025-03-01 23:25:00,tablet,India
+u0223,Feature Usage,2025-03-01 23:54:00,tablet,India
+u0224,Landing Page Visit,2025-03-01 22:42:00,tablet,India
+u0224,Free Sign-Up,2025-03-01 22:47:00,tablet,India
+u0225,Landing Page Visit,2025-03-01 15:29:00,tablet,UK
+u0225,Free Sign-Up,2025-03-01 15:39:00,tablet,UK
+u0225,Email Verification,2025-03-01 16:03:00,tablet,UK
+u0226,Landing Page Visit,2025-03-02 05:14:00,mobile,India
+u0227,Landing Page Visit,2025-03-02 01:08:00,mobile,Germany
+u0227,Free Sign-Up,2025-03-02 01:31:00,mobile,Germany
+u0227,Email Verification,2025-03-02 01:55:00,mobile,Germany
+u0227,Feature Usage,2025-03-02 01:56:00,mobile,Germany
+u0227,Upgrade to Paid Plan,2025-03-02 02:18:00,mobile,Germany
+u0228,Landing Page Visit,2025-03-01 10:25:00,tablet,USA
+u0228,Free Sign-Up,2025-03-01 10:40:00,tablet,USA
+u0229,Landing Page Visit,2025-03-01 22:12:00,mobile,UK
+u0229,Free Sign-Up,2025-03-01 22:38:00,mobile,UK
+u0229,Email Verification,2025-03-01 23:03:00,mobile,UK
+u0230,Landing Page Visit,2025-03-01 21:46:00,desktop,Brazil
+u0230,Free Sign-Up,2025-03-01 22:13:00,desktop,Brazil
+u0230,Email Verification,2025-03-01 22:30:00,desktop,Brazil
+u0230,Feature Usage,2025-03-01 22:43:00,desktop,Brazil
+u0231,Landing Page Visit,2025-03-01 09:44:00,desktop,USA
+u0231,Free Sign-Up,2025-03-01 09:47:00,desktop,USA
+u0232,Landing Page Visit,2025-03-01 14:44:00,desktop,India
+u0232,Free Sign-Up,2025-03-01 15:00:00,desktop,India
+u0232,Email Verification,2025-03-01 15:23:00,desktop,India
+u0232,Feature Usage,2025-03-01 15:29:00,desktop,India
+u0232,Upgrade to Paid Plan,2025-03-01 15:57:00,desktop,India
+u0233,Landing Page Visit,2025-03-01 19:48:00,desktop,Germany
+u0233,Free Sign-Up,2025-03-01 19:53:00,desktop,Germany
+u0233,Email Verification,2025-03-01 19:59:00,desktop,Germany
+u0234,Landing Page Visit,2025-03-02 01:26:00,tablet,Brazil
+u0234,Free Sign-Up,2025-03-02 01:31:00,tablet,Brazil
+u0234,Email Verification,2025-03-02 01:52:00,tablet,Brazil
+u0235,Landing Page Visit,2025-03-01 19:53:00,tablet,USA
+u0235,Free Sign-Up,2025-03-01 20:03:00,tablet,USA
+u0235,Email Verification,2025-03-01 20:22:00,tablet,USA
+u0236,Landing Page Visit,2025-03-02 02:28:00,tablet,India
+u0236,Free Sign-Up,2025-03-02 02:42:00,tablet,India
+u0236,Email Verification,2025-03-02 02:51:00,tablet,India
+u0237,Landing Page Visit,2025-03-01 08:00:00,tablet,UK
+u0238,Landing Page Visit,2025-03-01 19:24:00,tablet,Brazil
+u0239,Landing Page Visit,2025-03-01 15:28:00,desktop,USA
+u0239,Free Sign-Up,2025-03-01 15:45:00,desktop,USA
+u0239,Email Verification,2025-03-01 15:53:00,desktop,USA
+u0240,Landing Page Visit,2025-03-02 06:51:00,tablet,India
+u0240,Free Sign-Up,2025-03-02 06:59:00,tablet,India
+u0240,Email Verification,2025-03-02 07:06:00,tablet,India
+u0240,Feature Usage,2025-03-02 07:32:00,tablet,India
+u0241,Landing Page Visit,2025-03-01 19:13:00,desktop,India
+u0242,Landing Page Visit,2025-03-01 09:57:00,mobile,Brazil
+u0242,Free Sign-Up,2025-03-01 10:00:00,mobile,Brazil
+u0242,Email Verification,2025-03-01 10:27:00,mobile,Brazil
+u0243,Landing Page Visit,2025-03-01 12:27:00,tablet,India
+u0243,Free Sign-Up,2025-03-01 12:28:00,tablet,India
+u0244,Landing Page Visit,2025-03-01 11:55:00,desktop,Brazil
+u0244,Free Sign-Up,2025-03-01 12:00:00,desktop,Brazil
+u0244,Email Verification,2025-03-01 12:27:00,desktop,Brazil
+u0244,Feature Usage,2025-03-01 12:52:00,desktop,Brazil
+u0245,Landing Page Visit,2025-03-01 18:23:00,desktop,India
+u0245,Free Sign-Up,2025-03-01 18:38:00,desktop,India
+u0245,Email Verification,2025-03-01 19:01:00,desktop,India
+u0245,Feature Usage,2025-03-01 19:16:00,desktop,India
+u0246,Landing Page Visit,2025-03-01 22:12:00,tablet,Brazil
+u0246,Free Sign-Up,2025-03-01 22:26:00,tablet,Brazil
+u0246,Email Verification,2025-03-01 22:28:00,tablet,Brazil
+u0246,Feature Usage,2025-03-01 22:39:00,tablet,Brazil
+u0247,Landing Page Visit,2025-03-01 09:42:00,tablet,India
+u0247,Free Sign-Up,2025-03-01 09:48:00,tablet,India
+u0247,Email Verification,2025-03-01 10:16:00,tablet,India
+u0247,Feature Usage,2025-03-01 10:18:00,tablet,India
+u0248,Landing Page Visit,2025-03-02 06:09:00,desktop,Germany
+u0248,Free Sign-Up,2025-03-02 06:11:00,desktop,Germany
+u0249,Landing Page Visit,2025-03-01 21:17:00,mobile,Germany
+u0249,Free Sign-Up,2025-03-01 21:32:00,mobile,Germany
+u0250,Landing Page Visit,2025-03-01 15:14:00,desktop,UK
+u0250,Free Sign-Up,2025-03-01 15:16:00,desktop,UK
+u0250,Email Verification,2025-03-01 15:36:00,desktop,UK
+u0251,Landing Page Visit,2025-03-01 10:45:00,tablet,Germany
+u0251,Free Sign-Up,2025-03-01 10:46:00,tablet,Germany
+u0252,Landing Page Visit,2025-03-02 06:38:00,tablet,Brazil
+u0252,Free Sign-Up,2025-03-02 07:06:00,tablet,Brazil
+u0252,Email Verification,2025-03-02 07:29:00,tablet,Brazil
+u0252,Feature Usage,2025-03-02 07:39:00,tablet,Brazil
+u0253,Landing Page Visit,2025-03-01 09:20:00,mobile,Germany
+u0253,Free Sign-Up,2025-03-01 09:25:00,mobile,Germany
+u0253,Email Verification,2025-03-01 09:54:00,mobile,Germany
+u0253,Feature Usage,2025-03-01 09:58:00,mobile,Germany
+u0253,Upgrade to Paid Plan,2025-03-01 10:08:00,mobile,Germany
+u0254,Landing Page Visit,2025-03-02 07:44:00,mobile,Brazil
+u0254,Free Sign-Up,2025-03-02 07:54:00,mobile,Brazil
+u0255,Landing Page Visit,2025-03-02 00:23:00,mobile,Germany
+u0255,Free Sign-Up,2025-03-02 00:28:00,mobile,Germany
+u0255,Email Verification,2025-03-02 00:30:00,mobile,Germany
+u0255,Feature Usage,2025-03-02 00:36:00,mobile,Germany
+u0255,Upgrade to Paid Plan,2025-03-02 00:57:00,mobile,Germany
+u0256,Landing Page Visit,2025-03-01 11:24:00,tablet,Brazil
+u0256,Free Sign-Up,2025-03-01 11:35:00,tablet,Brazil
+u0256,Email Verification,2025-03-01 11:46:00,tablet,Brazil
+u0256,Feature Usage,2025-03-01 12:02:00,tablet,Brazil
+u0257,Landing Page Visit,2025-03-01 09:50:00,mobile,UK
+u0257,Free Sign-Up,2025-03-01 10:15:00,mobile,UK
+u0258,Landing Page Visit,2025-03-02 04:06:00,mobile,Brazil
+u0259,Landing Page Visit,2025-03-01 09:34:00,desktop,USA
+u0260,Landing Page Visit,2025-03-02 07:17:00,desktop,UK
+u0260,Free Sign-Up,2025-03-02 07:33:00,desktop,UK
+u0260,Email Verification,2025-03-02 07:41:00,desktop,UK
+u0260,Feature Usage,2025-03-02 07:45:00,desktop,UK
+u0260,Upgrade to Paid Plan,2025-03-02 07:53:00,desktop,UK
+u0261,Landing Page Visit,2025-03-01 12:40:00,mobile,Brazil
+u0261,Free Sign-Up,2025-03-01 12:43:00,mobile,Brazil
+u0261,Email Verification,2025-03-01 12:46:00,mobile,Brazil
+u0262,Landing Page Visit,2025-03-01 09:32:00,tablet,India
+u0262,Free Sign-Up,2025-03-01 09:50:00,tablet,India
+u0262,Email Verification,2025-03-01 10:19:00,tablet,India
+u0262,Feature Usage,2025-03-01 10:45:00,tablet,India
+u0262,Upgrade to Paid Plan,2025-03-01 11:04:00,tablet,India
+u0263,Landing Page Visit,2025-03-02 01:08:00,desktop,Brazil
+u0263,Free Sign-Up,2025-03-02 01:26:00,desktop,Brazil
+u0264,Landing Page Visit,2025-03-01 19:21:00,mobile,UK
+u0265,Landing Page Visit,2025-03-01 16:53:00,desktop,India
+u0265,Free Sign-Up,2025-03-01 17:14:00,desktop,India
+u0265,Email Verification,2025-03-01 17:20:00,desktop,India
+u0265,Feature Usage,2025-03-01 17:21:00,desktop,India
+u0265,Upgrade to Paid Plan,2025-03-01 17:26:00,desktop,India
+u0266,Landing Page Visit,2025-03-01 16:43:00,desktop,India
+u0266,Free Sign-Up,2025-03-01 17:09:00,desktop,India
+u0267,Landing Page Visit,2025-03-01 17:05:00,mobile,India
+u0267,Free Sign-Up,2025-03-01 17:22:00,mobile,India
+u0268,Landing Page Visit,2025-03-02 02:16:00,mobile,UK
+u0268,Free Sign-Up,2025-03-02 02:42:00,mobile,UK
+u0268,Email Verification,2025-03-02 03:07:00,mobile,UK
+u0268,Feature Usage,2025-03-02 03:22:00,mobile,UK
+u0269,Landing Page Visit,2025-03-01 11:33:00,tablet,Brazil
+u0269,Free Sign-Up,2025-03-01 11:48:00,tablet,Brazil
+u0269,Email Verification,2025-03-01 12:12:00,tablet,Brazil
+u0269,Feature Usage,2025-03-01 12:23:00,tablet,Brazil
+u0269,Upgrade to Paid Plan,2025-03-01 12:39:00,tablet,Brazil
+u0270,Landing Page Visit,2025-03-01 13:36:00,desktop,Brazil
+u0270,Free Sign-Up,2025-03-01 14:02:00,desktop,Brazil
+u0271,Landing Page Visit,2025-03-02 05:20:00,tablet,Brazil
+u0271,Free Sign-Up,2025-03-02 05:28:00,tablet,Brazil
+u0271,Email Verification,2025-03-02 05:45:00,tablet,Brazil
+u0271,Feature Usage,2025-03-02 05:48:00,tablet,Brazil
+u0272,Landing Page Visit,2025-03-01 19:58:00,tablet,Germany
+u0272,Free Sign-Up,2025-03-01 20:13:00,tablet,Germany
+u0273,Landing Page Visit,2025-03-01 20:05:00,mobile,Brazil
+u0273,Free Sign-Up,2025-03-01 20:19:00,mobile,Brazil
+u0273,Email Verification,2025-03-01 20:45:00,mobile,Brazil
+u0274,Landing Page Visit,2025-03-01 09:17:00,tablet,Brazil
+u0275,Landing Page Visit,2025-03-02 07:29:00,mobile,UK
+u0275,Free Sign-Up,2025-03-02 07:42:00,mobile,UK
+u0275,Email Verification,2025-03-02 08:08:00,mobile,UK
+u0276,Landing Page Visit,2025-03-01 19:38:00,desktop,USA
+u0276,Free Sign-Up,2025-03-01 20:02:00,desktop,USA
+u0277,Landing Page Visit,2025-03-02 01:10:00,tablet,Germany
+u0277,Free Sign-Up,2025-03-02 01:13:00,tablet,Germany
+u0277,Email Verification,2025-03-02 01:28:00,tablet,Germany
+u0278,Landing Page Visit,2025-03-01 20:29:00,tablet,UK
+u0278,Free Sign-Up,2025-03-01 20:40:00,tablet,UK
+u0278,Email Verification,2025-03-01 20:55:00,tablet,UK
+u0278,Feature Usage,2025-03-01 21:23:00,tablet,UK
+u0279,Landing Page Visit,2025-03-02 05:37:00,desktop,India
+u0279,Free Sign-Up,2025-03-02 06:03:00,desktop,India
+u0279,Email Verification,2025-03-02 06:09:00,desktop,India
+u0279,Feature Usage,2025-03-02 06:12:00,desktop,India
+u0280,Landing Page Visit,2025-03-02 01:18:00,tablet,UK
+u0280,Free Sign-Up,2025-03-02 01:43:00,tablet,UK
+u0280,Email Verification,2025-03-02 02:06:00,tablet,UK
+u0281,Landing Page Visit,2025-03-01 08:27:00,mobile,Germany
+u0281,Free Sign-Up,2025-03-01 08:37:00,mobile,Germany
+u0282,Landing Page Visit,2025-03-02 05:36:00,desktop,Germany
+u0282,Free Sign-Up,2025-03-02 05:43:00,desktop,Germany
+u0283,Landing Page Visit,2025-03-01 10:05:00,tablet,UK
+u0283,Free Sign-Up,2025-03-01 10:17:00,tablet,UK
+u0284,Landing Page Visit,2025-03-01 10:24:00,desktop,UK
+u0284,Free Sign-Up,2025-03-01 10:37:00,desktop,UK
+u0284,Email Verification,2025-03-01 10:57:00,desktop,UK
+u0284,Feature Usage,2025-03-01 11:22:00,desktop,UK
+u0285,Landing Page Visit,2025-03-02 07:37:00,desktop,Brazil
+u0285,Free Sign-Up,2025-03-02 07:40:00,desktop,Brazil
+u0285,Email Verification,2025-03-02 07:49:00,desktop,Brazil
+u0285,Feature Usage,2025-03-02 08:02:00,desktop,Brazil
+u0286,Landing Page Visit,2025-03-01 09:50:00,desktop,Germany
+u0286,Free Sign-Up,2025-03-01 09:54:00,desktop,Germany
+u0286,Email Verification,2025-03-01 10:09:00,desktop,Germany
+u0286,Feature Usage,2025-03-01 10:31:00,desktop,Germany
+u0287,Landing Page Visit,2025-03-01 18:22:00,tablet,Germany
+u0287,Free Sign-Up,2025-03-01 18:30:00,tablet,Germany
+u0287,Email Verification,2025-03-01 18:38:00,tablet,Germany
+u0288,Landing Page Visit,2025-03-01 20:27:00,mobile,India
+u0288,Free Sign-Up,2025-03-01 20:46:00,mobile,India
+u0288,Email Verification,2025-03-01 20:56:00,mobile,India
+u0289,Landing Page Visit,2025-03-01 18:12:00,mobile,India
+u0289,Free Sign-Up,2025-03-01 18:18:00,mobile,India
+u0290,Landing Page Visit,2025-03-02 05:45:00,mobile,USA
+u0290,Free Sign-Up,2025-03-02 05:47:00,mobile,USA
+u0290,Email Verification,2025-03-02 06:14:00,mobile,USA
+u0290,Feature Usage,2025-03-02 06:38:00,mobile,USA
+u0291,Landing Page Visit,2025-03-01 22:36:00,tablet,USA
+u0292,Landing Page Visit,2025-03-02 07:20:00,desktop,UK
+u0292,Free Sign-Up,2025-03-02 07:21:00,desktop,UK
+u0292,Email Verification,2025-03-02 07:42:00,desktop,UK
+u0292,Feature Usage,2025-03-02 08:04:00,desktop,UK
+u0293,Landing Page Visit,2025-03-01 18:23:00,mobile,India
+u0293,Free Sign-Up,2025-03-01 18:27:00,mobile,India
+u0293,Email Verification,2025-03-01 18:38:00,mobile,India
+u0294,Landing Page Visit,2025-03-01 21:42:00,mobile,Germany
+u0294,Free Sign-Up,2025-03-01 21:51:00,mobile,Germany
+u0294,Email Verification,2025-03-01 22:14:00,mobile,Germany
+u0295,Landing Page Visit,2025-03-01 12:02:00,tablet,UK
+u0295,Free Sign-Up,2025-03-01 12:10:00,tablet,UK
+u0295,Email Verification,2025-03-01 12:15:00,tablet,UK
+u0295,Feature Usage,2025-03-01 12:19:00,tablet,UK
+u0296,Landing Page Visit,2025-03-02 04:46:00,mobile,Germany
+u0296,Free Sign-Up,2025-03-02 04:52:00,mobile,Germany
+u0296,Email Verification,2025-03-02 04:54:00,mobile,Germany
+u0296,Feature Usage,2025-03-02 05:14:00,mobile,Germany
+u0297,Landing Page Visit,2025-03-01 09:14:00,mobile,USA
+u0297,Free Sign-Up,2025-03-01 09:18:00,mobile,USA
+u0297,Email Verification,2025-03-01 09:33:00,mobile,USA
+u0297,Feature Usage,2025-03-01 09:39:00,mobile,USA
+u0297,Upgrade to Paid Plan,2025-03-01 10:01:00,mobile,USA
+u0298,Landing Page Visit,2025-03-01 16:23:00,desktop,India
+u0298,Free Sign-Up,2025-03-01 16:29:00,desktop,India
+u0298,Email Verification,2025-03-01 16:48:00,desktop,India
+u0299,Landing Page Visit,2025-03-01 11:13:00,mobile,Brazil
+u0299,Free Sign-Up,2025-03-01 11:28:00,mobile,Brazil
+u0299,Email Verification,2025-03-01 11:39:00,mobile,Brazil
+u0300,Landing Page Visit,2025-03-02 01:29:00,desktop,Brazil
+u0300,Free Sign-Up,2025-03-02 01:48:00,desktop,Brazil
+u0300,Email Verification,2025-03-02 02:01:00,desktop,Brazil
+u0300,Feature Usage,2025-03-02 02:13:00,desktop,Brazil
+u0301,Landing Page Visit,2025-03-01 13:25:00,mobile,UK
+u0301,Free Sign-Up,2025-03-01 13:51:00,mobile,UK
+u0301,Email Verification,2025-03-01 14:13:00,mobile,UK
+u0302,Landing Page Visit,2025-03-01 20:03:00,tablet,Brazil
+u0303,Landing Page Visit,2025-03-01 16:51:00,desktop,Brazil
+u0303,Free Sign-Up,2025-03-01 17:08:00,desktop,Brazil
+u0303,Email Verification,2025-03-01 17:20:00,desktop,Brazil
+u0303,Feature Usage,2025-03-01 17:35:00,desktop,Brazil
+u0303,Upgrade to Paid Plan,2025-03-01 17:36:00,desktop,Brazil
+u0304,Landing Page Visit,2025-03-01 18:53:00,desktop,USA
+u0305,Landing Page Visit,2025-03-01 10:18:00,desktop,India
+u0305,Free Sign-Up,2025-03-01 10:22:00,desktop,India
+u0305,Email Verification,2025-03-01 10:35:00,desktop,India
+u0305,Feature Usage,2025-03-01 10:46:00,desktop,India
+u0306,Landing Page Visit,2025-03-01 23:01:00,tablet,India
+u0306,Free Sign-Up,2025-03-01 23:19:00,tablet,India
+u0307,Landing Page Visit,2025-03-01 08:09:00,mobile,USA
+u0307,Free Sign-Up,2025-03-01 08:14:00,mobile,USA
+u0307,Email Verification,2025-03-01 08:37:00,mobile,USA
+u0308,Landing Page Visit,2025-03-01 10:51:00,tablet,India
+u0308,Free Sign-Up,2025-03-01 10:53:00,tablet,India
+u0308,Email Verification,2025-03-01 11:06:00,tablet,India
+u0309,Landing Page Visit,2025-03-01 13:20:00,tablet,Germany
+u0309,Free Sign-Up,2025-03-01 13:25:00,tablet,Germany
+u0309,Email Verification,2025-03-01 13:34:00,tablet,Germany
+u0310,Landing Page Visit,2025-03-01 20:56:00,desktop,Brazil
+u0311,Landing Page Visit,2025-03-01 23:10:00,desktop,USA
+u0311,Free Sign-Up,2025-03-01 23:34:00,desktop,USA
+u0311,Email Verification,2025-03-01 23:40:00,desktop,USA
+u0311,Feature Usage,2025-03-02 00:03:00,desktop,USA
+u0311,Upgrade to Paid Plan,2025-03-02 00:06:00,desktop,USA
+u0312,Landing Page Visit,2025-03-01 13:17:00,desktop,UK
+u0312,Free Sign-Up,2025-03-01 13:45:00,desktop,UK
+u0312,Email Verification,2025-03-01 13:57:00,desktop,UK
+u0312,Feature Usage,2025-03-01 14:15:00,desktop,UK
+u0313,Landing Page Visit,2025-03-01 14:15:00,tablet,Germany
+u0313,Free Sign-Up,2025-03-01 14:26:00,tablet,Germany
+u0313,Email Verification,2025-03-01 14:35:00,tablet,Germany
+u0314,Landing Page Visit,2025-03-01 17:47:00,desktop,USA
+u0314,Free Sign-Up,2025-03-01 17:50:00,desktop,USA
+u0314,Email Verification,2025-03-01 17:53:00,desktop,USA
+u0314,Feature Usage,2025-03-01 17:54:00,desktop,USA
+u0315,Landing Page Visit,2025-03-02 06:23:00,desktop,Brazil
+u0316,Landing Page Visit,2025-03-02 06:52:00,mobile,Germany
+u0316,Free Sign-Up,2025-03-02 07:00:00,mobile,Germany
+u0316,Email Verification,2025-03-02 07:11:00,mobile,Germany
+u0316,Feature Usage,2025-03-02 07:20:00,mobile,Germany
+u0317,Landing Page Visit,2025-03-01 12:29:00,desktop,UK
+u0317,Free Sign-Up,2025-03-01 12:57:00,desktop,UK
+u0317,Email Verification,2025-03-01 13:00:00,desktop,UK
+u0317,Feature Usage,2025-03-01 13:21:00,desktop,UK
+u0318,Landing Page Visit,2025-03-01 08:04:00,mobile,USA
+u0318,Free Sign-Up,2025-03-01 08:23:00,mobile,USA
+u0318,Email Verification,2025-03-01 08:50:00,mobile,USA
+u0319,Landing Page Visit,2025-03-02 07:53:00,tablet,UK
+u0319,Free Sign-Up,2025-03-02 07:57:00,tablet,UK
+u0319,Email Verification,2025-03-02 08:22:00,tablet,UK
+u0319,Feature Usage,2025-03-02 08:35:00,tablet,UK
+u0320,Landing Page Visit,2025-03-01 09:28:00,desktop,UK
+u0320,Free Sign-Up,2025-03-01 09:46:00,desktop,UK
+u0320,Email Verification,2025-03-01 09:54:00,desktop,UK
+u0320,Feature Usage,2025-03-01 10:02:00,desktop,UK
+u0321,Landing Page Visit,2025-03-01 18:15:00,mobile,UK
+u0321,Free Sign-Up,2025-03-01 18:29:00,mobile,UK
+u0321,Email Verification,2025-03-01 18:48:00,mobile,UK
+u0322,Landing Page Visit,2025-03-01 15:01:00,tablet,Brazil
+u0323,Landing Page Visit,2025-03-02 01:26:00,desktop,Germany
+u0323,Free Sign-Up,2025-03-02 01:41:00,desktop,Germany
+u0324,Landing Page Visit,2025-03-01 19:04:00,mobile,USA
+u0324,Free Sign-Up,2025-03-01 19:21:00,mobile,USA
+u0324,Email Verification,2025-03-01 19:22:00,mobile,USA
+u0324,Feature Usage,2025-03-01 19:37:00,mobile,USA
+u0325,Landing Page Visit,2025-03-01 21:40:00,desktop,Brazil
+u0325,Free Sign-Up,2025-03-01 21:48:00,desktop,Brazil
+u0325,Email Verification,2025-03-01 21:56:00,desktop,Brazil
+u0325,Feature Usage,2025-03-01 22:15:00,desktop,Brazil
+u0326,Landing Page Visit,2025-03-01 11:17:00,mobile,UK
+u0326,Free Sign-Up,2025-03-01 11:23:00,mobile,UK
+u0326,Email Verification,2025-03-01 11:26:00,mobile,UK
+u0326,Feature Usage,2025-03-01 11:33:00,mobile,UK
+u0327,Landing Page Visit,2025-03-01 17:13:00,tablet,UK
+u0327,Free Sign-Up,2025-03-01 17:33:00,tablet,UK
+u0328,Landing Page Visit,2025-03-02 05:52:00,desktop,Germany
+u0329,Landing Page Visit,2025-03-01 15:57:00,tablet,Germany
+u0329,Free Sign-Up,2025-03-01 16:04:00,tablet,Germany
+u0330,Landing Page Visit,2025-03-01 14:59:00,mobile,Brazil
+u0331,Landing Page Visit,2025-03-01 17:09:00,tablet,Brazil
+u0331,Free Sign-Up,2025-03-01 17:34:00,tablet,Brazil
+u0331,Email Verification,2025-03-01 17:35:00,tablet,Brazil
+u0332,Landing Page Visit,2025-03-02 00:36:00,tablet,Brazil
+u0332,Free Sign-Up,2025-03-02 01:03:00,tablet,Brazil
+u0333,Landing Page Visit,2025-03-01 12:48:00,mobile,India
+u0333,Free Sign-Up,2025-03-01 12:52:00,mobile,India
+u0333,Email Verification,2025-03-01 13:14:00,mobile,India
+u0333,Feature Usage,2025-03-01 13:16:00,mobile,India
+u0334,Landing Page Visit,2025-03-01 16:36:00,desktop,USA
+u0334,Free Sign-Up,2025-03-01 17:03:00,desktop,USA
+u0335,Landing Page Visit,2025-03-01 22:24:00,tablet,India
+u0335,Free Sign-Up,2025-03-01 22:46:00,tablet,India
+u0335,Email Verification,2025-03-01 22:52:00,tablet,India
+u0336,Landing Page Visit,2025-03-02 03:42:00,desktop,Brazil
+u0337,Landing Page Visit,2025-03-01 11:47:00,desktop,Brazil
+u0337,Free Sign-Up,2025-03-01 12:00:00,desktop,Brazil
+u0338,Landing Page Visit,2025-03-01 23:47:00,tablet,Germany
+u0338,Free Sign-Up,2025-03-02 00:11:00,tablet,Germany
+u0338,Email Verification,2025-03-02 00:26:00,tablet,Germany
+u0339,Landing Page Visit,2025-03-02 05:24:00,mobile,Germany
+u0339,Free Sign-Up,2025-03-02 05:53:00,mobile,Germany
+u0340,Landing Page Visit,2025-03-01 13:23:00,desktop,Germany
+u0340,Free Sign-Up,2025-03-01 13:35:00,desktop,Germany
+u0341,Landing Page Visit,2025-03-01 10:09:00,tablet,Germany
+u0341,Free Sign-Up,2025-03-01 10:36:00,tablet,Germany
+u0341,Email Verification,2025-03-01 10:55:00,tablet,Germany
+u0342,Landing Page Visit,2025-03-02 05:55:00,desktop,Germany
+u0342,Free Sign-Up,2025-03-02 06:21:00,desktop,Germany
+u0342,Email Verification,2025-03-02 06:32:00,desktop,Germany
+u0342,Feature Usage,2025-03-02 06:59:00,desktop,Germany
+u0343,Landing Page Visit,2025-03-01 08:10:00,desktop,UK
+u0343,Free Sign-Up,2025-03-01 08:20:00,desktop,UK
+u0343,Email Verification,2025-03-01 08:28:00,desktop,UK
+u0344,Landing Page Visit,2025-03-02 03:17:00,desktop,Brazil
+u0344,Free Sign-Up,2025-03-02 03:25:00,desktop,Brazil
+u0344,Email Verification,2025-03-02 03:48:00,desktop,Brazil
+u0345,Landing Page Visit,2025-03-01 13:45:00,mobile,India
+u0345,Free Sign-Up,2025-03-01 13:59:00,mobile,India
+u0345,Email Verification,2025-03-01 14:10:00,mobile,India
+u0345,Feature Usage,2025-03-01 14:22:00,mobile,India
+u0346,Landing Page Visit,2025-03-01 10:20:00,tablet,UK
+u0346,Free Sign-Up,2025-03-01 10:28:00,tablet,UK
+u0346,Email Verification,2025-03-01 10:46:00,tablet,UK
+u0347,Landing Page Visit,2025-03-02 00:32:00,mobile,UK
+u0348,Landing Page Visit,2025-03-01 21:47:00,desktop,UK
+u0348,Free Sign-Up,2025-03-01 21:58:00,desktop,UK
+u0348,Email Verification,2025-03-01 22:10:00,desktop,UK
+u0348,Feature Usage,2025-03-01 22:22:00,desktop,UK
+u0348,Upgrade to Paid Plan,2025-03-01 22:26:00,desktop,UK
+u0349,Landing Page Visit,2025-03-02 06:27:00,mobile,Brazil
+u0349,Free Sign-Up,2025-03-02 06:32:00,mobile,Brazil
+u0350,Landing Page Visit,2025-03-01 10:06:00,mobile,USA
+u0350,Free Sign-Up,2025-03-01 10:16:00,mobile,USA
+u0351,Landing Page Visit,2025-03-01 18:03:00,mobile,UK
+u0351,Free Sign-Up,2025-03-01 18:29:00,mobile,UK
+u0352,Landing Page Visit,2025-03-02 00:53:00,desktop,India
+u0352,Free Sign-Up,2025-03-02 01:12:00,desktop,India
+u0352,Email Verification,2025-03-02 01:41:00,desktop,India
+u0353,Landing Page Visit,2025-03-02 05:59:00,desktop,UK
+u0353,Free Sign-Up,2025-03-02 06:08:00,desktop,UK
+u0353,Email Verification,2025-03-02 06:30:00,desktop,UK
+u0354,Landing Page Visit,2025-03-02 07:50:00,tablet,UK
+u0354,Free Sign-Up,2025-03-02 07:51:00,tablet,UK
+u0354,Email Verification,2025-03-02 08:05:00,tablet,UK
+u0355,Landing Page Visit,2025-03-02 07:48:00,tablet,Germany
+u0355,Free Sign-Up,2025-03-02 08:14:00,tablet,Germany
+u0355,Email Verification,2025-03-02 08:28:00,tablet,Germany
+u0355,Feature Usage,2025-03-02 08:32:00,tablet,Germany
+u0356,Landing Page Visit,2025-03-02 00:22:00,mobile,USA
+u0356,Free Sign-Up,2025-03-02 00:47:00,mobile,USA
+u0356,Email Verification,2025-03-02 00:48:00,mobile,USA
+u0356,Feature Usage,2025-03-02 01:10:00,mobile,USA
+u0357,Landing Page Visit,2025-03-01 14:10:00,desktop,India
+u0357,Free Sign-Up,2025-03-01 14:18:00,desktop,India
+u0357,Email Verification,2025-03-01 14:33:00,desktop,India
+u0357,Feature Usage,2025-03-01 14:54:00,desktop,India
+u0358,Landing Page Visit,2025-03-02 00:08:00,mobile,UK
+u0359,Landing Page Visit,2025-03-02 03:20:00,desktop,Brazil
+u0359,Free Sign-Up,2025-03-02 03:30:00,desktop,Brazil
+u0360,Landing Page Visit,2025-03-01 13:12:00,tablet,USA
+u0360,Free Sign-Up,2025-03-01 13:33:00,tablet,USA
+u0360,Email Verification,2025-03-01 13:59:00,tablet,USA
+u0360,Feature Usage,2025-03-01 14:08:00,tablet,USA
+u0361,Landing Page Visit,2025-03-01 17:34:00,tablet,Germany
+u0361,Free Sign-Up,2025-03-01 17:54:00,tablet,Germany
+u0362,Landing Page Visit,2025-03-01 09:14:00,desktop,Brazil
+u0363,Landing Page Visit,2025-03-01 14:25:00,desktop,USA
+u0364,Landing Page Visit,2025-03-02 04:33:00,desktop,UK
+u0365,Landing Page Visit,2025-03-01 14:57:00,tablet,USA
+u0365,Free Sign-Up,2025-03-01 15:24:00,tablet,USA
+u0365,Email Verification,2025-03-01 15:41:00,tablet,USA
+u0366,Landing Page Visit,2025-03-01 23:54:00,tablet,UK
+u0366,Free Sign-Up,2025-03-02 00:06:00,tablet,UK
+u0367,Landing Page Visit,2025-03-02 04:02:00,mobile,India
+u0368,Landing Page Visit,2025-03-01 19:03:00,mobile,Brazil
+u0368,Free Sign-Up,2025-03-01 19:28:00,mobile,Brazil
+u0369,Landing Page Visit,2025-03-02 04:03:00,desktop,India
+u0369,Free Sign-Up,2025-03-02 04:09:00,desktop,India
+u0369,Email Verification,2025-03-02 04:30:00,desktop,India
+u0370,Landing Page Visit,2025-03-02 03:44:00,desktop,India
+u0370,Free Sign-Up,2025-03-02 04:01:00,desktop,India
+u0370,Email Verification,2025-03-02 04:30:00,desktop,India
+u0370,Feature Usage,2025-03-02 04:41:00,desktop,India
+u0371,Landing Page Visit,2025-03-01 19:05:00,desktop,India
+u0371,Free Sign-Up,2025-03-01 19:33:00,desktop,India
+u0372,Landing Page Visit,2025-03-02 01:52:00,tablet,India
+u0372,Free Sign-Up,2025-03-02 01:59:00,tablet,India
+u0372,Email Verification,2025-03-02 02:16:00,tablet,India
+u0373,Landing Page Visit,2025-03-02 07:04:00,mobile,UK
+u0373,Free Sign-Up,2025-03-02 07:21:00,mobile,UK
+u0374,Landing Page Visit,2025-03-01 13:41:00,tablet,UK
+u0375,Landing Page Visit,2025-03-02 02:06:00,desktop,UK
+u0375,Free Sign-Up,2025-03-02 02:35:00,desktop,UK
+u0376,Landing Page Visit,2025-03-01 17:20:00,tablet,USA
+u0376,Free Sign-Up,2025-03-01 17:27:00,tablet,USA
+u0376,Email Verification,2025-03-01 17:28:00,tablet,USA
+u0377,Landing Page Visit,2025-03-02 00:29:00,tablet,USA
+u0377,Free Sign-Up,2025-03-02 00:52:00,tablet,USA
+u0377,Email Verification,2025-03-02 01:11:00,tablet,USA
+u0377,Feature Usage,2025-03-02 01:38:00,tablet,USA
+u0378,Landing Page Visit,2025-03-01 20:02:00,tablet,Brazil
+u0378,Free Sign-Up,2025-03-01 20:31:00,tablet,Brazil
+u0378,Email Verification,2025-03-01 20:48:00,tablet,Brazil
+u0379,Landing Page Visit,2025-03-01 12:45:00,mobile,Germany
+u0380,Landing Page Visit,2025-03-02 01:22:00,mobile,India
+u0380,Free Sign-Up,2025-03-02 01:40:00,mobile,India
+u0381,Landing Page Visit,2025-03-01 17:49:00,mobile,USA
+u0381,Free Sign-Up,2025-03-01 18:08:00,mobile,USA
+u0381,Email Verification,2025-03-01 18:23:00,mobile,USA
+u0382,Landing Page Visit,2025-03-01 11:13:00,tablet,India
+u0382,Free Sign-Up,2025-03-01 11:35:00,tablet,India
+u0382,Email Verification,2025-03-01 12:03:00,tablet,India
+u0383,Landing Page Visit,2025-03-01 09:53:00,mobile,USA
+u0383,Free Sign-Up,2025-03-01 09:59:00,mobile,USA
+u0384,Landing Page Visit,2025-03-01 21:50:00,tablet,Brazil
+u0384,Free Sign-Up,2025-03-01 21:54:00,tablet,Brazil
+u0385,Landing Page Visit,2025-03-02 05:27:00,desktop,USA
+u0385,Free Sign-Up,2025-03-02 05:56:00,desktop,USA
+u0386,Landing Page Visit,2025-03-01 21:19:00,mobile,UK
+u0386,Free Sign-Up,2025-03-01 21:29:00,mobile,UK
+u0387,Landing Page Visit,2025-03-01 10:41:00,tablet,USA
+u0387,Free Sign-Up,2025-03-01 11:09:00,tablet,USA
+u0387,Email Verification,2025-03-01 11:10:00,tablet,USA
+u0388,Landing Page Visit,2025-03-01 08:54:00,tablet,UK
+u0388,Free Sign-Up,2025-03-01 09:22:00,tablet,UK
+u0388,Email Verification,2025-03-01 09:40:00,tablet,UK
+u0388,Feature Usage,2025-03-01 09:47:00,tablet,UK
+u0389,Landing Page Visit,2025-03-02 01:11:00,tablet,UK
+u0389,Free Sign-Up,2025-03-02 01:12:00,tablet,UK
+u0390,Landing Page Visit,2025-03-01 20:38:00,mobile,UK
+u0390,Free Sign-Up,2025-03-01 20:41:00,mobile,UK
+u0391,Landing Page Visit,2025-03-01 15:22:00,tablet,Brazil
+u0391,Free Sign-Up,2025-03-01 15:51:00,tablet,Brazil
+u0391,Email Verification,2025-03-01 15:59:00,tablet,Brazil
+u0392,Landing Page Visit,2025-03-01 20:40:00,desktop,Germany
+u0392,Free Sign-Up,2025-03-01 20:55:00,desktop,Germany
+u0392,Email Verification,2025-03-01 21:00:00,desktop,Germany
+u0392,Feature Usage,2025-03-01 21:03:00,desktop,Germany
+u0393,Landing Page Visit,2025-03-02 00:46:00,tablet,India
+u0393,Free Sign-Up,2025-03-02 00:54:00,tablet,India
+u0394,Landing Page Visit,2025-03-01 09:35:00,tablet,Brazil
+u0394,Free Sign-Up,2025-03-01 09:59:00,tablet,Brazil
+u0395,Landing Page Visit,2025-03-02 05:51:00,desktop,India
+u0395,Free Sign-Up,2025-03-02 06:15:00,desktop,India
+u0396,Landing Page Visit,2025-03-01 16:10:00,tablet,UK
+u0396,Free Sign-Up,2025-03-01 16:26:00,tablet,UK
+u0397,Landing Page Visit,2025-03-01 10:44:00,desktop,USA
+u0397,Free Sign-Up,2025-03-01 11:06:00,desktop,USA
+u0397,Email Verification,2025-03-01 11:27:00,desktop,USA
+u0398,Landing Page Visit,2025-03-01 20:14:00,desktop,Germany
+u0398,Free Sign-Up,2025-03-01 20:37:00,desktop,Germany
+u0398,Email Verification,2025-03-01 20:53:00,desktop,Germany
+u0398,Feature Usage,2025-03-01 21:11:00,desktop,Germany
+u0399,Landing Page Visit,2025-03-01 13:29:00,desktop,Germany
+u0399,Free Sign-Up,2025-03-01 13:36:00,desktop,Germany
+u0399,Email Verification,2025-03-01 13:37:00,desktop,Germany
+u0400,Landing Page Visit,2025-03-02 02:28:00,mobile,USA
+u0400,Free Sign-Up,2025-03-02 02:47:00,mobile,USA
+u0400,Email Verification,2025-03-02 03:03:00,mobile,USA
+u0401,Landing Page Visit,2025-03-01 23:14:00,desktop,USA
+u0401,Free Sign-Up,2025-03-01 23:18:00,desktop,USA
+u0401,Email Verification,2025-03-01 23:47:00,desktop,USA
+u0401,Feature Usage,2025-03-02 00:15:00,desktop,USA
+u0402,Landing Page Visit,2025-03-01 16:33:00,tablet,Germany
+u0402,Free Sign-Up,2025-03-01 16:34:00,tablet,Germany
+u0403,Landing Page Visit,2025-03-01 19:48:00,tablet,UK
+u0403,Free Sign-Up,2025-03-01 20:08:00,tablet,UK
+u0403,Email Verification,2025-03-01 20:19:00,tablet,UK
+u0403,Feature Usage,2025-03-01 20:29:00,tablet,UK
+u0404,Landing Page Visit,2025-03-01 19:46:00,mobile,Brazil
+u0405,Landing Page Visit,2025-03-02 03:02:00,tablet,India
+u0405,Free Sign-Up,2025-03-02 03:14:00,tablet,India
+u0406,Landing Page Visit,2025-03-01 12:20:00,mobile,India
+u0406,Free Sign-Up,2025-03-01 12:25:00,mobile,India
+u0406,Email Verification,2025-03-01 12:31:00,mobile,India
+u0407,Landing Page Visit,2025-03-02 04:49:00,mobile,USA
+u0407,Free Sign-Up,2025-03-02 05:10:00,mobile,USA
+u0407,Email Verification,2025-03-02 05:22:00,mobile,USA
+u0408,Landing Page Visit,2025-03-01 22:13:00,tablet,UK
+u0408,Free Sign-Up,2025-03-01 22:25:00,tablet,UK
+u0408,Email Verification,2025-03-01 22:49:00,tablet,UK
+u0408,Feature Usage,2025-03-01 23:06:00,tablet,UK
+u0408,Upgrade to Paid Plan,2025-03-01 23:16:00,tablet,UK
+u0409,Landing Page Visit,2025-03-01 08:58:00,tablet,Germany
+u0409,Free Sign-Up,2025-03-01 09:12:00,tablet,Germany
+u0409,Email Verification,2025-03-01 09:35:00,tablet,Germany
+u0410,Landing Page Visit,2025-03-02 02:58:00,desktop,USA
+u0410,Free Sign-Up,2025-03-02 03:15:00,desktop,USA
+u0410,Email Verification,2025-03-02 03:29:00,desktop,USA
+u0410,Feature Usage,2025-03-02 03:38:00,desktop,USA
+u0411,Landing Page Visit,2025-03-01 11:56:00,desktop,Germany
+u0411,Free Sign-Up,2025-03-01 12:21:00,desktop,Germany
+u0412,Landing Page Visit,2025-03-02 04:24:00,desktop,Brazil
+u0412,Free Sign-Up,2025-03-02 04:46:00,desktop,Brazil
+u0412,Email Verification,2025-03-02 05:08:00,desktop,Brazil
+u0413,Landing Page Visit,2025-03-01 16:13:00,mobile,India
+u0413,Free Sign-Up,2025-03-01 16:17:00,mobile,India
+u0413,Email Verification,2025-03-01 16:43:00,mobile,India
+u0413,Feature Usage,2025-03-01 17:09:00,mobile,India
+u0413,Upgrade to Paid Plan,2025-03-01 17:38:00,mobile,India
+u0414,Landing Page Visit,2025-03-01 18:09:00,mobile,India
+u0414,Free Sign-Up,2025-03-01 18:32:00,mobile,India
+u0415,Landing Page Visit,2025-03-01 09:14:00,tablet,India
+u0416,Landing Page Visit,2025-03-02 03:29:00,mobile,USA
+u0416,Free Sign-Up,2025-03-02 03:50:00,mobile,USA
+u0416,Email Verification,2025-03-02 04:00:00,mobile,USA
+u0416,Feature Usage,2025-03-02 04:04:00,mobile,USA
+u0417,Landing Page Visit,2025-03-01 23:33:00,tablet,Germany
+u0417,Free Sign-Up,2025-03-01 23:35:00,tablet,Germany
+u0417,Email Verification,2025-03-01 23:52:00,tablet,Germany
+u0418,Landing Page Visit,2025-03-02 03:36:00,desktop,India
+u0418,Free Sign-Up,2025-03-02 03:42:00,desktop,India
+u0419,Landing Page Visit,2025-03-01 17:47:00,tablet,UK
+u0419,Free Sign-Up,2025-03-01 18:10:00,tablet,UK
+u0419,Email Verification,2025-03-01 18:31:00,tablet,UK
+u0420,Landing Page Visit,2025-03-01 13:41:00,desktop,Brazil
+u0420,Free Sign-Up,2025-03-01 14:02:00,desktop,Brazil
+u0420,Email Verification,2025-03-01 14:29:00,desktop,Brazil
+u0421,Landing Page Visit,2025-03-02 05:50:00,tablet,India
+u0422,Landing Page Visit,2025-03-01 20:10:00,mobile,India
+u0422,Free Sign-Up,2025-03-01 20:18:00,mobile,India
+u0422,Email Verification,2025-03-01 20:20:00,mobile,India
+u0423,Landing Page Visit,2025-03-01 21:40:00,tablet,UK
+u0423,Free Sign-Up,2025-03-01 21:47:00,tablet,UK
+u0423,Email Verification,2025-03-01 21:57:00,tablet,UK
+u0424,Landing Page Visit,2025-03-02 07:44:00,desktop,UK
+u0424,Free Sign-Up,2025-03-02 08:10:00,desktop,UK
+u0424,Email Verification,2025-03-02 08:31:00,desktop,UK
+u0424,Feature Usage,2025-03-02 08:59:00,desktop,UK
+u0425,Landing Page Visit,2025-03-01 10:09:00,desktop,India
+u0425,Free Sign-Up,2025-03-01 10:37:00,desktop,India
+u0425,Email Verification,2025-03-01 10:59:00,desktop,India
+u0425,Feature Usage,2025-03-01 11:10:00,desktop,India
+u0426,Landing Page Visit,2025-03-01 21:38:00,desktop,USA
+u0426,Free Sign-Up,2025-03-01 21:59:00,desktop,USA
+u0426,Email Verification,2025-03-01 22:03:00,desktop,USA
+u0426,Feature Usage,2025-03-01 22:22:00,desktop,USA
+u0427,Landing Page Visit,2025-03-01 08:28:00,desktop,Germany
+u0427,Free Sign-Up,2025-03-01 08:49:00,desktop,Germany
+u0427,Email Verification,2025-03-01 09:00:00,desktop,Germany
+u0428,Landing Page Visit,2025-03-01 08:10:00,tablet,UK
+u0428,Free Sign-Up,2025-03-01 08:14:00,tablet,UK
+u0428,Email Verification,2025-03-01 08:31:00,tablet,UK
+u0429,Landing Page Visit,2025-03-01 21:26:00,desktop,UK
+u0429,Free Sign-Up,2025-03-01 21:34:00,desktop,UK
+u0430,Landing Page Visit,2025-03-02 06:13:00,tablet,Brazil
+u0431,Landing Page Visit,2025-03-01 08:54:00,tablet,Brazil
+u0431,Free Sign-Up,2025-03-01 09:09:00,tablet,Brazil
+u0431,Email Verification,2025-03-01 09:33:00,tablet,Brazil
+u0431,Feature Usage,2025-03-01 09:55:00,tablet,Brazil
+u0432,Landing Page Visit,2025-03-01 09:08:00,mobile,USA
+u0432,Free Sign-Up,2025-03-01 09:32:00,mobile,USA
+u0432,Email Verification,2025-03-01 09:33:00,mobile,USA
+u0432,Feature Usage,2025-03-01 09:59:00,mobile,USA
+u0433,Landing Page Visit,2025-03-01 20:30:00,mobile,UK
+u0433,Free Sign-Up,2025-03-01 20:50:00,mobile,UK
+u0433,Email Verification,2025-03-01 21:09:00,mobile,UK
+u0433,Feature Usage,2025-03-01 21:12:00,mobile,UK
+u0434,Landing Page Visit,2025-03-01 23:57:00,desktop,Brazil
+u0435,Landing Page Visit,2025-03-01 14:04:00,desktop,Germany
+u0435,Free Sign-Up,2025-03-01 14:15:00,desktop,Germany
+u0436,Landing Page Visit,2025-03-01 11:20:00,tablet,USA
+u0436,Free Sign-Up,2025-03-01 11:46:00,tablet,USA
+u0437,Landing Page Visit,2025-03-01 09:12:00,desktop,Germany
+u0437,Free Sign-Up,2025-03-01 09:21:00,desktop,Germany
+u0437,Email Verification,2025-03-01 09:29:00,desktop,Germany
+u0438,Landing Page Visit,2025-03-02 04:40:00,tablet,UK
+u0438,Free Sign-Up,2025-03-02 05:09:00,tablet,UK
+u0438,Email Verification,2025-03-02 05:20:00,tablet,UK
+u0438,Feature Usage,2025-03-02 05:28:00,tablet,UK
+u0439,Landing Page Visit,2025-03-01 08:24:00,desktop,India
+u0439,Free Sign-Up,2025-03-01 08:31:00,desktop,India
+u0440,Landing Page Visit,2025-03-01 10:10:00,mobile,Brazil
+u0440,Free Sign-Up,2025-03-01 10:28:00,mobile,Brazil
+u0441,Landing Page Visit,2025-03-01 09:47:00,mobile,UK
+u0441,Free Sign-Up,2025-03-01 09:59:00,mobile,UK
+u0441,Email Verification,2025-03-01 10:18:00,mobile,UK
+u0442,Landing Page Visit,2025-03-01 22:25:00,desktop,UK
+u0442,Free Sign-Up,2025-03-01 22:37:00,desktop,UK
+u0442,Email Verification,2025-03-01 22:56:00,desktop,UK
+u0442,Feature Usage,2025-03-01 23:01:00,desktop,UK
+u0443,Landing Page Visit,2025-03-01 21:36:00,desktop,India
+u0443,Free Sign-Up,2025-03-01 22:05:00,desktop,India
+u0443,Email Verification,2025-03-01 22:22:00,desktop,India
+u0444,Landing Page Visit,2025-03-01 08:11:00,tablet,UK
+u0444,Free Sign-Up,2025-03-01 08:27:00,tablet,UK
+u0444,Email Verification,2025-03-01 08:51:00,tablet,UK
+u0445,Landing Page Visit,2025-03-01 19:00:00,tablet,Brazil
+u0445,Free Sign-Up,2025-03-01 19:17:00,tablet,Brazil
+u0446,Landing Page Visit,2025-03-01 14:13:00,tablet,Germany
+u0446,Free Sign-Up,2025-03-01 14:29:00,tablet,Germany
+u0446,Email Verification,2025-03-01 14:35:00,tablet,Germany
+u0447,Landing Page Visit,2025-03-01 15:45:00,tablet,UK
+u0447,Free Sign-Up,2025-03-01 16:10:00,tablet,UK
+u0448,Landing Page Visit,2025-03-01 16:08:00,mobile,India
+u0448,Free Sign-Up,2025-03-01 16:21:00,mobile,India
+u0449,Landing Page Visit,2025-03-01 08:46:00,tablet,Brazil
+u0449,Free Sign-Up,2025-03-01 08:56:00,tablet,Brazil
+u0449,Email Verification,2025-03-01 09:12:00,tablet,Brazil
+u0450,Landing Page Visit,2025-03-01 14:40:00,tablet,Brazil
+u0450,Free Sign-Up,2025-03-01 15:03:00,tablet,Brazil
+u0451,Landing Page Visit,2025-03-02 00:20:00,desktop,India
+u0452,Landing Page Visit,2025-03-01 12:09:00,mobile,India
+u0452,Free Sign-Up,2025-03-01 12:16:00,mobile,India
+u0452,Email Verification,2025-03-01 12:30:00,mobile,India
+u0452,Feature Usage,2025-03-01 12:45:00,mobile,India
+u0453,Landing Page Visit,2025-03-01 10:16:00,tablet,UK
+u0453,Free Sign-Up,2025-03-01 10:35:00,tablet,UK
+u0454,Landing Page Visit,2025-03-01 21:46:00,desktop,Germany
+u0454,Free Sign-Up,2025-03-01 22:09:00,desktop,Germany
+u0455,Landing Page Visit,2025-03-01 17:53:00,mobile,Germany
+u0455,Free Sign-Up,2025-03-01 18:13:00,mobile,Germany
+u0455,Email Verification,2025-03-01 18:20:00,mobile,Germany
+u0456,Landing Page Visit,2025-03-01 14:41:00,mobile,Brazil
+u0456,Free Sign-Up,2025-03-01 15:08:00,mobile,Brazil
+u0456,Email Verification,2025-03-01 15:18:00,mobile,Brazil
+u0457,Landing Page Visit,2025-03-02 05:36:00,mobile,UK
+u0457,Free Sign-Up,2025-03-02 05:50:00,mobile,UK
+u0458,Landing Page Visit,2025-03-02 00:34:00,desktop,India
+u0459,Landing Page Visit,2025-03-01 11:07:00,desktop,Brazil
+u0459,Free Sign-Up,2025-03-01 11:20:00,desktop,Brazil
+u0459,Email Verification,2025-03-01 11:22:00,desktop,Brazil
+u0459,Feature Usage,2025-03-01 11:25:00,desktop,Brazil
+u0460,Landing Page Visit,2025-03-02 03:54:00,mobile,Brazil
+u0461,Landing Page Visit,2025-03-02 00:25:00,mobile,Germany
+u0461,Free Sign-Up,2025-03-02 00:48:00,mobile,Germany
+u0461,Email Verification,2025-03-02 01:11:00,mobile,Germany
+u0462,Landing Page Visit,2025-03-01 08:38:00,tablet,Germany
+u0462,Free Sign-Up,2025-03-01 08:53:00,tablet,Germany
+u0462,Email Verification,2025-03-01 09:17:00,tablet,Germany
+u0462,Feature Usage,2025-03-01 09:34:00,tablet,Germany
+u0463,Landing Page Visit,2025-03-02 06:52:00,tablet,USA
+u0463,Free Sign-Up,2025-03-02 07:14:00,tablet,USA
+u0463,Email Verification,2025-03-02 07:39:00,tablet,USA
+u0464,Landing Page Visit,2025-03-01 20:01:00,mobile,USA
+u0464,Free Sign-Up,2025-03-01 20:02:00,mobile,USA
+u0464,Email Verification,2025-03-01 20:18:00,mobile,USA
+u0464,Feature Usage,2025-03-01 20:31:00,mobile,USA
+u0464,Upgrade to Paid Plan,2025-03-01 20:41:00,mobile,USA
+u0465,Landing Page Visit,2025-03-01 22:53:00,desktop,UK
+u0465,Free Sign-Up,2025-03-01 22:55:00,desktop,UK
+u0465,Email Verification,2025-03-01 23:18:00,desktop,UK
+u0466,Landing Page Visit,2025-03-02 03:53:00,tablet,USA
+u0466,Free Sign-Up,2025-03-02 03:55:00,tablet,USA
+u0466,Email Verification,2025-03-02 04:22:00,tablet,USA
+u0466,Feature Usage,2025-03-02 04:45:00,tablet,USA
+u0467,Landing Page Visit,2025-03-02 03:24:00,mobile,Germany
+u0467,Free Sign-Up,2025-03-02 03:42:00,mobile,Germany
+u0467,Email Verification,2025-03-02 03:45:00,mobile,Germany
+u0467,Feature Usage,2025-03-02 04:12:00,mobile,Germany
+u0468,Landing Page Visit,2025-03-01 21:33:00,tablet,UK
+u0468,Free Sign-Up,2025-03-01 21:53:00,tablet,UK
+u0469,Landing Page Visit,2025-03-01 23:57:00,desktop,UK
+u0469,Free Sign-Up,2025-03-02 00:14:00,desktop,UK
+u0470,Landing Page Visit,2025-03-01 13:17:00,mobile,Germany
+u0470,Free Sign-Up,2025-03-01 13:38:00,mobile,Germany
+u0470,Email Verification,2025-03-01 13:50:00,mobile,Germany
+u0471,Landing Page Visit,2025-03-01 12:31:00,tablet,UK
+u0471,Free Sign-Up,2025-03-01 12:55:00,tablet,UK
+u0471,Email Verification,2025-03-01 13:07:00,tablet,UK
+u0472,Landing Page Visit,2025-03-01 14:16:00,desktop,Brazil
+u0472,Free Sign-Up,2025-03-01 14:26:00,desktop,Brazil
+u0473,Landing Page Visit,2025-03-02 07:02:00,tablet,USA
+u0473,Free Sign-Up,2025-03-02 07:22:00,tablet,USA
+u0474,Landing Page Visit,2025-03-01 17:36:00,mobile,Germany
+u0474,Free Sign-Up,2025-03-01 17:53:00,mobile,Germany
+u0474,Email Verification,2025-03-01 17:56:00,mobile,Germany
+u0475,Landing Page Visit,2025-03-02 03:25:00,mobile,UK
+u0475,Free Sign-Up,2025-03-02 03:49:00,mobile,UK
+u0476,Landing Page Visit,2025-03-01 13:23:00,mobile,Brazil
+u0477,Landing Page Visit,2025-03-01 12:52:00,tablet,UK
+u0477,Free Sign-Up,2025-03-01 13:17:00,tablet,UK
+u0477,Email Verification,2025-03-01 13:33:00,tablet,UK
+u0477,Feature Usage,2025-03-01 13:34:00,tablet,UK
+u0477,Upgrade to Paid Plan,2025-03-01 13:55:00,tablet,UK
+u0478,Landing Page Visit,2025-03-01 17:44:00,desktop,Brazil
+u0478,Free Sign-Up,2025-03-01 17:59:00,desktop,Brazil
+u0478,Email Verification,2025-03-01 18:16:00,desktop,Brazil
+u0479,Landing Page Visit,2025-03-02 06:47:00,desktop,Brazil
+u0480,Landing Page Visit,2025-03-02 03:23:00,tablet,India
+u0480,Free Sign-Up,2025-03-02 03:50:00,tablet,India
+u0480,Email Verification,2025-03-02 04:16:00,tablet,India
+u0480,Feature Usage,2025-03-02 04:21:00,tablet,India
+u0481,Landing Page Visit,2025-03-01 23:38:00,tablet,USA
+u0481,Free Sign-Up,2025-03-02 00:06:00,tablet,USA
+u0481,Email Verification,2025-03-02 00:12:00,tablet,USA
+u0481,Feature Usage,2025-03-02 00:19:00,tablet,USA
+u0481,Upgrade to Paid Plan,2025-03-02 00:43:00,tablet,USA
+u0482,Landing Page Visit,2025-03-02 06:47:00,tablet,UK
+u0482,Free Sign-Up,2025-03-02 06:58:00,tablet,UK
+u0482,Email Verification,2025-03-02 07:11:00,tablet,UK
+u0482,Feature Usage,2025-03-02 07:13:00,tablet,UK
+u0483,Landing Page Visit,2025-03-01 17:23:00,tablet,India
+u0483,Free Sign-Up,2025-03-01 17:27:00,tablet,India
+u0484,Landing Page Visit,2025-03-02 06:13:00,desktop,UK
+u0484,Free Sign-Up,2025-03-02 06:34:00,desktop,UK
+u0484,Email Verification,2025-03-02 06:53:00,desktop,UK
+u0485,Landing Page Visit,2025-03-02 07:09:00,tablet,India
+u0485,Free Sign-Up,2025-03-02 07:19:00,tablet,India
+u0486,Landing Page Visit,2025-03-01 11:45:00,desktop,India
+u0486,Free Sign-Up,2025-03-01 12:10:00,desktop,India
+u0487,Landing Page Visit,2025-03-01 23:36:00,mobile,UK
+u0487,Free Sign-Up,2025-03-01 23:53:00,mobile,UK
+u0487,Email Verification,2025-03-02 00:19:00,mobile,UK
+u0488,Landing Page Visit,2025-03-01 08:53:00,tablet,UK
+u0489,Landing Page Visit,2025-03-01 20:06:00,mobile,India
+u0489,Free Sign-Up,2025-03-01 20:23:00,mobile,India
+u0489,Email Verification,2025-03-01 20:32:00,mobile,India
+u0489,Feature Usage,2025-03-01 20:35:00,mobile,India
+u0490,Landing Page Visit,2025-03-01 14:58:00,desktop,UK
+u0491,Landing Page Visit,2025-03-01 22:09:00,mobile,USA
+u0491,Free Sign-Up,2025-03-01 22:26:00,mobile,USA
+u0492,Landing Page Visit,2025-03-01 08:02:00,desktop,India
+u0492,Free Sign-Up,2025-03-01 08:05:00,desktop,India
+u0492,Email Verification,2025-03-01 08:11:00,desktop,India
+u0493,Landing Page Visit,2025-03-02 03:03:00,mobile,India
+u0493,Free Sign-Up,2025-03-02 03:32:00,mobile,India
+u0494,Landing Page Visit,2025-03-02 02:32:00,mobile,UK
+u0494,Free Sign-Up,2025-03-02 02:41:00,mobile,UK
+u0494,Email Verification,2025-03-02 02:45:00,mobile,UK
+u0495,Landing Page Visit,2025-03-02 07:00:00,mobile,Brazil
+u0495,Free Sign-Up,2025-03-02 07:02:00,mobile,Brazil
+u0495,Email Verification,2025-03-02 07:13:00,mobile,Brazil
+u0496,Landing Page Visit,2025-03-01 23:51:00,mobile,UK
+u0496,Free Sign-Up,2025-03-01 23:54:00,mobile,UK
+u0496,Email Verification,2025-03-02 00:21:00,mobile,UK
+u0496,Feature Usage,2025-03-02 00:49:00,mobile,UK
+u0497,Landing Page Visit,2025-03-02 04:18:00,mobile,Germany
+u0497,Free Sign-Up,2025-03-02 04:43:00,mobile,Germany
+u0497,Email Verification,2025-03-02 04:45:00,mobile,Germany
+u0498,Landing Page Visit,2025-03-01 10:49:00,mobile,USA
+u0498,Free Sign-Up,2025-03-01 10:58:00,mobile,USA
+u0498,Email Verification,2025-03-01 11:13:00,mobile,USA
+u0498,Feature Usage,2025-03-01 11:21:00,mobile,USA
+u0499,Landing Page Visit,2025-03-02 05:24:00,mobile,USA
+u0499,Free Sign-Up,2025-03-02 05:35:00,mobile,USA
+u0499,Email Verification,2025-03-02 06:02:00,mobile,USA
+u0499,Feature Usage,2025-03-02 06:04:00,mobile,USA
+u0500,Landing Page Visit,2025-03-02 03:07:00,mobile,India
+u0500,Free Sign-Up,2025-03-02 03:22:00,mobile,India
+u0501,Landing Page Visit,2025-03-01 13:27:00,desktop,USA
+u0501,Free Sign-Up,2025-03-01 13:54:00,desktop,USA
+u0501,Email Verification,2025-03-01 13:59:00,desktop,USA
+u0502,Landing Page Visit,2025-03-01 23:13:00,tablet,Brazil
+u0503,Landing Page Visit,2025-03-01 08:36:00,mobile,Germany
+u0503,Free Sign-Up,2025-03-01 09:04:00,mobile,Germany
+u0503,Email Verification,2025-03-01 09:20:00,mobile,Germany
+u0503,Feature Usage,2025-03-01 09:33:00,mobile,Germany
+u0504,Landing Page Visit,2025-03-02 00:12:00,mobile,UK
+u0504,Free Sign-Up,2025-03-02 00:29:00,mobile,UK
+u0504,Email Verification,2025-03-02 00:47:00,mobile,UK
+u0504,Feature Usage,2025-03-02 00:55:00,mobile,UK
+u0505,Landing Page Visit,2025-03-01 11:43:00,mobile,Germany
+u0505,Free Sign-Up,2025-03-01 12:12:00,mobile,Germany
+u0506,Landing Page Visit,2025-03-01 19:37:00,tablet,UK
+u0506,Free Sign-Up,2025-03-01 19:40:00,tablet,UK
+u0507,Landing Page Visit,2025-03-02 01:43:00,mobile,India
+u0507,Free Sign-Up,2025-03-02 01:45:00,mobile,India
+u0507,Email Verification,2025-03-02 01:53:00,mobile,India
+u0508,Landing Page Visit,2025-03-02 05:52:00,desktop,Brazil
+u0508,Free Sign-Up,2025-03-02 05:58:00,desktop,Brazil
+u0509,Landing Page Visit,2025-03-02 03:30:00,desktop,UK
+u0509,Free Sign-Up,2025-03-02 03:46:00,desktop,UK
+u0509,Email Verification,2025-03-02 03:54:00,desktop,UK
+u0509,Feature Usage,2025-03-02 04:22:00,desktop,UK
+u0510,Landing Page Visit,2025-03-01 17:30:00,tablet,USA
+u0510,Free Sign-Up,2025-03-01 17:57:00,tablet,USA
+u0510,Email Verification,2025-03-01 18:13:00,tablet,USA
+u0511,Landing Page Visit,2025-03-01 21:00:00,tablet,India
+u0511,Free Sign-Up,2025-03-01 21:11:00,tablet,India
+u0512,Landing Page Visit,2025-03-02 06:48:00,mobile,India
+u0513,Landing Page Visit,2025-03-02 03:53:00,mobile,UK
+u0513,Free Sign-Up,2025-03-02 03:57:00,mobile,UK
+u0514,Landing Page Visit,2025-03-01 15:01:00,tablet,USA
+u0514,Free Sign-Up,2025-03-01 15:29:00,tablet,USA
+u0515,Landing Page Visit,2025-03-01 10:12:00,mobile,UK
+u0515,Free Sign-Up,2025-03-01 10:23:00,mobile,UK
+u0516,Landing Page Visit,2025-03-01 21:45:00,tablet,Germany
+u0516,Free Sign-Up,2025-03-01 22:10:00,tablet,Germany
+u0517,Landing Page Visit,2025-03-02 01:34:00,desktop,India
+u0517,Free Sign-Up,2025-03-02 01:57:00,desktop,India
+u0518,Landing Page Visit,2025-03-02 07:37:00,desktop,Brazil
+u0518,Free Sign-Up,2025-03-02 07:48:00,desktop,Brazil
+u0518,Email Verification,2025-03-02 08:09:00,desktop,Brazil
+u0518,Feature Usage,2025-03-02 08:16:00,desktop,Brazil
+u0519,Landing Page Visit,2025-03-01 13:55:00,desktop,India
+u0519,Free Sign-Up,2025-03-01 13:57:00,desktop,India
+u0519,Email Verification,2025-03-01 14:11:00,desktop,India
+u0519,Feature Usage,2025-03-01 14:24:00,desktop,India
+u0519,Upgrade to Paid Plan,2025-03-01 14:53:00,desktop,India
+u0520,Landing Page Visit,2025-03-01 12:54:00,tablet,India
+u0520,Free Sign-Up,2025-03-01 12:56:00,tablet,India
+u0520,Email Verification,2025-03-01 13:09:00,tablet,India
+u0521,Landing Page Visit,2025-03-02 02:56:00,mobile,India
+u0521,Free Sign-Up,2025-03-02 03:05:00,mobile,India
+u0521,Email Verification,2025-03-02 03:22:00,mobile,India
+u0522,Landing Page Visit,2025-03-02 04:46:00,mobile,Brazil
+u0522,Free Sign-Up,2025-03-02 04:48:00,mobile,Brazil
+u0523,Landing Page Visit,2025-03-01 15:27:00,mobile,Germany
+u0524,Landing Page Visit,2025-03-01 14:04:00,desktop,Germany
+u0524,Free Sign-Up,2025-03-01 14:07:00,desktop,Germany
+u0524,Email Verification,2025-03-01 14:23:00,desktop,Germany
+u0525,Landing Page Visit,2025-03-01 15:46:00,mobile,USA
+u0525,Free Sign-Up,2025-03-01 15:53:00,mobile,USA
+u0525,Email Verification,2025-03-01 16:03:00,mobile,USA
+u0525,Feature Usage,2025-03-01 16:12:00,mobile,USA
+u0526,Landing Page Visit,2025-03-02 07:55:00,desktop,Germany
+u0526,Free Sign-Up,2025-03-02 08:23:00,desktop,Germany
+u0526,Email Verification,2025-03-02 08:38:00,desktop,Germany
+u0526,Feature Usage,2025-03-02 08:43:00,desktop,Germany
+u0527,Landing Page Visit,2025-03-01 12:37:00,desktop,Brazil
+u0527,Free Sign-Up,2025-03-01 12:41:00,desktop,Brazil
+u0528,Landing Page Visit,2025-03-01 16:03:00,mobile,Brazil
+u0528,Free Sign-Up,2025-03-01 16:21:00,mobile,Brazil
+u0528,Email Verification,2025-03-01 16:25:00,mobile,Brazil
+u0528,Feature Usage,2025-03-01 16:52:00,mobile,Brazil
+u0528,Upgrade to Paid Plan,2025-03-01 17:09:00,mobile,Brazil
+u0529,Landing Page Visit,2025-03-01 23:17:00,desktop,India
+u0529,Free Sign-Up,2025-03-01 23:34:00,desktop,India
+u0530,Landing Page Visit,2025-03-01 22:45:00,tablet,Germany
+u0530,Free Sign-Up,2025-03-01 22:46:00,tablet,Germany
+u0530,Email Verification,2025-03-01 23:08:00,tablet,Germany
+u0531,Landing Page Visit,2025-03-02 03:03:00,mobile,USA
+u0531,Free Sign-Up,2025-03-02 03:30:00,mobile,USA
+u0532,Landing Page Visit,2025-03-01 13:05:00,tablet,UK
+u0532,Free Sign-Up,2025-03-01 13:19:00,tablet,UK
+u0533,Landing Page Visit,2025-03-01 12:44:00,mobile,Brazil
+u0533,Free Sign-Up,2025-03-01 12:56:00,mobile,Brazil
+u0534,Landing Page Visit,2025-03-01 20:42:00,mobile,Brazil
+u0534,Free Sign-Up,2025-03-01 20:45:00,mobile,Brazil
+u0535,Landing Page Visit,2025-03-01 14:20:00,mobile,Germany
+u0535,Free Sign-Up,2025-03-01 14:32:00,mobile,Germany
+u0536,Landing Page Visit,2025-03-01 08:28:00,tablet,Germany
+u0536,Free Sign-Up,2025-03-01 08:39:00,tablet,Germany
+u0536,Email Verification,2025-03-01 08:40:00,tablet,Germany
+u0536,Feature Usage,2025-03-01 08:46:00,tablet,Germany
+u0537,Landing Page Visit,2025-03-01 09:18:00,tablet,India
+u0537,Free Sign-Up,2025-03-01 09:37:00,tablet,India
+u0537,Email Verification,2025-03-01 09:48:00,tablet,India
+u0537,Feature Usage,2025-03-01 10:14:00,tablet,India
+u0538,Landing Page Visit,2025-03-01 20:17:00,mobile,UK
+u0538,Free Sign-Up,2025-03-01 20:46:00,mobile,UK
+u0538,Email Verification,2025-03-01 20:50:00,mobile,UK
+u0538,Feature Usage,2025-03-01 21:07:00,mobile,UK
+u0539,Landing Page Visit,2025-03-01 14:36:00,tablet,Brazil
+u0539,Free Sign-Up,2025-03-01 14:45:00,tablet,Brazil
+u0539,Email Verification,2025-03-01 14:52:00,tablet,Brazil
+u0539,Feature Usage,2025-03-01 15:07:00,tablet,Brazil
+u0539,Upgrade to Paid Plan,2025-03-01 15:30:00,tablet,Brazil
+u0540,Landing Page Visit,2025-03-01 10:36:00,desktop,UK
+u0540,Free Sign-Up,2025-03-01 10:47:00,desktop,UK
+u0540,Email Verification,2025-03-01 11:07:00,desktop,UK
+u0541,Landing Page Visit,2025-03-02 00:13:00,mobile,UK
+u0541,Free Sign-Up,2025-03-02 00:33:00,mobile,UK
+u0541,Email Verification,2025-03-02 00:55:00,mobile,UK
+u0541,Feature Usage,2025-03-02 01:06:00,mobile,UK
+u0541,Upgrade to Paid Plan,2025-03-02 01:33:00,mobile,UK
+u0542,Landing Page Visit,2025-03-01 22:08:00,mobile,India
+u0542,Free Sign-Up,2025-03-01 22:20:00,mobile,India
+u0543,Landing Page Visit,2025-03-02 00:28:00,mobile,USA
+u0543,Free Sign-Up,2025-03-02 00:49:00,mobile,USA
+u0543,Email Verification,2025-03-02 01:04:00,mobile,USA
+u0544,Landing Page Visit,2025-03-01 22:28:00,tablet,Brazil
+u0544,Free Sign-Up,2025-03-01 22:55:00,tablet,Brazil
+u0544,Email Verification,2025-03-01 23:15:00,tablet,Brazil
+u0544,Feature Usage,2025-03-01 23:21:00,tablet,Brazil
+u0545,Landing Page Visit,2025-03-02 07:30:00,desktop,USA
+u0545,Free Sign-Up,2025-03-02 07:57:00,desktop,USA
+u0546,Landing Page Visit,2025-03-01 17:29:00,mobile,India
+u0546,Free Sign-Up,2025-03-01 17:57:00,mobile,India
+u0547,Landing Page Visit,2025-03-02 03:45:00,desktop,UK
+u0547,Free Sign-Up,2025-03-02 04:14:00,desktop,UK
+u0547,Email Verification,2025-03-02 04:17:00,desktop,UK
+u0547,Feature Usage,2025-03-02 04:34:00,desktop,UK
+u0548,Landing Page Visit,2025-03-01 21:11:00,desktop,Germany
+u0548,Free Sign-Up,2025-03-01 21:23:00,desktop,Germany
+u0548,Email Verification,2025-03-01 21:41:00,desktop,Germany
+u0549,Landing Page Visit,2025-03-01 16:11:00,tablet,Germany
+u0550,Landing Page Visit,2025-03-02 02:03:00,desktop,India
+u0550,Free Sign-Up,2025-03-02 02:17:00,desktop,India
+u0550,Email Verification,2025-03-02 02:42:00,desktop,India
+u0551,Landing Page Visit,2025-03-02 06:12:00,tablet,USA
+u0551,Free Sign-Up,2025-03-02 06:20:00,tablet,USA
+u0552,Landing Page Visit,2025-03-02 01:30:00,desktop,Germany
+u0552,Free Sign-Up,2025-03-02 01:44:00,desktop,Germany
+u0552,Email Verification,2025-03-02 02:02:00,desktop,Germany
+u0553,Landing Page Visit,2025-03-01 11:18:00,desktop,UK
+u0553,Free Sign-Up,2025-03-01 11:21:00,desktop,UK
+u0553,Email Verification,2025-03-01 11:50:00,desktop,UK
+u0553,Feature Usage,2025-03-01 12:02:00,desktop,UK
+u0554,Landing Page Visit,2025-03-01 14:17:00,desktop,India
+u0554,Free Sign-Up,2025-03-01 14:20:00,desktop,India
+u0554,Email Verification,2025-03-01 14:40:00,desktop,India
+u0555,Landing Page Visit,2025-03-01 16:46:00,mobile,USA
+u0555,Free Sign-Up,2025-03-01 17:11:00,mobile,USA
+u0555,Email Verification,2025-03-01 17:25:00,mobile,USA
+u0556,Landing Page Visit,2025-03-02 05:36:00,tablet,India
+u0557,Landing Page Visit,2025-03-01 16:40:00,tablet,UK
+u0557,Free Sign-Up,2025-03-01 16:46:00,tablet,UK
+u0558,Landing Page Visit,2025-03-02 00:56:00,mobile,USA
+u0558,Free Sign-Up,2025-03-02 01:24:00,mobile,USA
+u0559,Landing Page Visit,2025-03-02 00:53:00,tablet,India
+u0559,Free Sign-Up,2025-03-02 01:14:00,tablet,India
+u0559,Email Verification,2025-03-02 01:35:00,tablet,India
+u0559,Feature Usage,2025-03-02 01:37:00,tablet,India
+u0560,Landing Page Visit,2025-03-01 17:43:00,desktop,Brazil
+u0560,Free Sign-Up,2025-03-01 17:54:00,desktop,Brazil
+u0560,Email Verification,2025-03-01 18:07:00,desktop,Brazil
+u0560,Feature Usage,2025-03-01 18:24:00,desktop,Brazil
+u0560,Upgrade to Paid Plan,2025-03-01 18:32:00,desktop,Brazil
+u0561,Landing Page Visit,2025-03-01 12:33:00,tablet,UK
+u0562,Landing Page Visit,2025-03-02 07:09:00,mobile,USA
+u0562,Free Sign-Up,2025-03-02 07:24:00,mobile,USA
+u0563,Landing Page Visit,2025-03-01 08:10:00,desktop,India
+u0563,Free Sign-Up,2025-03-01 08:23:00,desktop,India
+u0564,Landing Page Visit,2025-03-01 21:20:00,mobile,Brazil
+u0565,Landing Page Visit,2025-03-01 09:41:00,desktop,UK
+u0565,Free Sign-Up,2025-03-01 09:50:00,desktop,UK
+u0565,Email Verification,2025-03-01 09:58:00,desktop,UK
+u0566,Landing Page Visit,2025-03-01 11:33:00,tablet,UK
+u0567,Landing Page Visit,2025-03-02 02:31:00,tablet,Germany
+u0568,Landing Page Visit,2025-03-01 14:40:00,tablet,Brazil
+u0568,Free Sign-Up,2025-03-01 14:52:00,tablet,Brazil
+u0568,Email Verification,2025-03-01 15:17:00,tablet,Brazil
+u0568,Feature Usage,2025-03-01 15:31:00,tablet,Brazil
+u0569,Landing Page Visit,2025-03-01 17:51:00,tablet,Germany
+u0569,Free Sign-Up,2025-03-01 18:13:00,tablet,Germany
+u0570,Landing Page Visit,2025-03-01 09:31:00,tablet,UK
+u0570,Free Sign-Up,2025-03-01 09:51:00,tablet,UK
+u0570,Email Verification,2025-03-01 09:52:00,tablet,UK
+u0570,Feature Usage,2025-03-01 10:02:00,tablet,UK
+u0571,Landing Page Visit,2025-03-01 12:01:00,tablet,USA
+u0571,Free Sign-Up,2025-03-01 12:29:00,tablet,USA
+u0571,Email Verification,2025-03-01 12:30:00,tablet,USA
+u0571,Feature Usage,2025-03-01 12:32:00,tablet,USA
+u0571,Upgrade to Paid Plan,2025-03-01 12:33:00,tablet,USA
+u0572,Landing Page Visit,2025-03-01 17:48:00,desktop,Germany
+u0573,Landing Page Visit,2025-03-01 23:17:00,mobile,Germany
+u0573,Free Sign-Up,2025-03-01 23:24:00,mobile,Germany
+u0573,Email Verification,2025-03-01 23:26:00,mobile,Germany
+u0573,Feature Usage,2025-03-01 23:32:00,mobile,Germany
+u0574,Landing Page Visit,2025-03-01 09:29:00,mobile,India
+u0574,Free Sign-Up,2025-03-01 09:43:00,mobile,India
+u0574,Email Verification,2025-03-01 10:09:00,mobile,India
+u0574,Feature Usage,2025-03-01 10:27:00,mobile,India
+u0575,Landing Page Visit,2025-03-02 00:33:00,desktop,Germany
+u0575,Free Sign-Up,2025-03-02 00:43:00,desktop,Germany
+u0575,Email Verification,2025-03-02 01:06:00,desktop,Germany
+u0576,Landing Page Visit,2025-03-02 06:08:00,tablet,USA
+u0576,Free Sign-Up,2025-03-02 06:16:00,tablet,USA
+u0577,Landing Page Visit,2025-03-01 13:16:00,desktop,India
+u0578,Landing Page Visit,2025-03-01 18:34:00,mobile,Germany
+u0578,Free Sign-Up,2025-03-01 18:40:00,mobile,Germany
+u0579,Landing Page Visit,2025-03-01 20:53:00,tablet,India
+u0580,Landing Page Visit,2025-03-02 07:02:00,desktop,India
+u0580,Free Sign-Up,2025-03-02 07:11:00,desktop,India
+u0580,Email Verification,2025-03-02 07:29:00,desktop,India
+u0580,Feature Usage,2025-03-02 07:41:00,desktop,India
+u0580,Upgrade to Paid Plan,2025-03-02 07:49:00,desktop,India
+u0581,Landing Page Visit,2025-03-02 06:21:00,desktop,USA
+u0581,Free Sign-Up,2025-03-02 06:41:00,desktop,USA
+u0581,Email Verification,2025-03-02 06:56:00,desktop,USA
+u0582,Landing Page Visit,2025-03-01 14:22:00,tablet,Germany
+u0582,Free Sign-Up,2025-03-01 14:29:00,tablet,Germany
+u0582,Email Verification,2025-03-01 14:40:00,tablet,Germany
+u0582,Feature Usage,2025-03-01 15:00:00,tablet,Germany
+u0583,Landing Page Visit,2025-03-01 22:59:00,desktop,USA
+u0583,Free Sign-Up,2025-03-01 23:05:00,desktop,USA
+u0583,Email Verification,2025-03-01 23:31:00,desktop,USA
+u0584,Landing Page Visit,2025-03-01 14:49:00,tablet,Brazil
+u0584,Free Sign-Up,2025-03-01 14:52:00,tablet,Brazil
+u0584,Email Verification,2025-03-01 15:01:00,tablet,Brazil
+u0585,Landing Page Visit,2025-03-01 22:33:00,mobile,UK
+u0585,Free Sign-Up,2025-03-01 22:47:00,mobile,UK
+u0585,Email Verification,2025-03-01 22:58:00,mobile,UK
+u0586,Landing Page Visit,2025-03-02 00:53:00,tablet,Germany
+u0586,Free Sign-Up,2025-03-02 01:05:00,tablet,Germany
+u0586,Email Verification,2025-03-02 01:28:00,tablet,Germany
+u0587,Landing Page Visit,2025-03-01 23:08:00,desktop,USA
+u0587,Free Sign-Up,2025-03-01 23:33:00,desktop,USA
+u0587,Email Verification,2025-03-01 23:46:00,desktop,USA
+u0587,Feature Usage,2025-03-02 00:05:00,desktop,USA
+u0588,Landing Page Visit,2025-03-02 03:30:00,mobile,USA
+u0588,Free Sign-Up,2025-03-02 03:53:00,mobile,USA
+u0588,Email Verification,2025-03-02 04:07:00,mobile,USA
+u0588,Feature Usage,2025-03-02 04:11:00,mobile,USA
+u0589,Landing Page Visit,2025-03-01 13:08:00,tablet,USA
+u0589,Free Sign-Up,2025-03-01 13:31:00,tablet,USA
+u0590,Landing Page Visit,2025-03-01 23:13:00,desktop,Brazil
+u0591,Landing Page Visit,2025-03-01 19:01:00,tablet,USA
+u0591,Free Sign-Up,2025-03-01 19:06:00,tablet,USA
+u0592,Landing Page Visit,2025-03-01 22:32:00,tablet,India
+u0593,Landing Page Visit,2025-03-01 23:23:00,tablet,Brazil
+u0594,Landing Page Visit,2025-03-01 20:34:00,desktop,USA
+u0594,Free Sign-Up,2025-03-01 20:37:00,desktop,USA
+u0594,Email Verification,2025-03-01 21:06:00,desktop,USA
+u0594,Feature Usage,2025-03-01 21:35:00,desktop,USA
+u0594,Upgrade to Paid Plan,2025-03-01 21:57:00,desktop,USA
+u0595,Landing Page Visit,2025-03-01 13:52:00,mobile,UK
+u0595,Free Sign-Up,2025-03-01 13:59:00,mobile,UK
+u0595,Email Verification,2025-03-01 14:11:00,mobile,UK
+u0596,Landing Page Visit,2025-03-01 22:21:00,desktop,India
+u0596,Free Sign-Up,2025-03-01 22:42:00,desktop,India
+u0596,Email Verification,2025-03-01 23:08:00,desktop,India
+u0597,Landing Page Visit,2025-03-01 08:23:00,tablet,UK
+u0597,Free Sign-Up,2025-03-01 08:43:00,tablet,UK
+u0598,Landing Page Visit,2025-03-01 16:35:00,tablet,Brazil
+u0598,Free Sign-Up,2025-03-01 17:03:00,tablet,Brazil
+u0598,Email Verification,2025-03-01 17:15:00,tablet,Brazil
+u0599,Landing Page Visit,2025-03-01 23:55:00,tablet,India
+u0599,Free Sign-Up,2025-03-02 00:19:00,tablet,India
+u0599,Email Verification,2025-03-02 00:37:00,tablet,India
+u0599,Feature Usage,2025-03-02 00:54:00,tablet,India
+u0600,Landing Page Visit,2025-03-01 18:07:00,desktop,UK
+u0600,Free Sign-Up,2025-03-01 18:16:00,desktop,UK
+u0600,Email Verification,2025-03-01 18:20:00,desktop,UK
+u0601,Landing Page Visit,2025-03-02 03:00:00,mobile,Germany
+u0601,Free Sign-Up,2025-03-02 03:02:00,mobile,Germany
+u0602,Landing Page Visit,2025-03-01 17:37:00,desktop,India
+u0603,Landing Page Visit,2025-03-01 23:31:00,tablet,USA
+u0603,Free Sign-Up,2025-03-01 23:37:00,tablet,USA
+u0603,Email Verification,2025-03-01 23:44:00,tablet,USA
+u0603,Feature Usage,2025-03-01 23:54:00,tablet,USA
+u0604,Landing Page Visit,2025-03-02 07:14:00,desktop,Germany
+u0604,Free Sign-Up,2025-03-02 07:40:00,desktop,Germany
+u0605,Landing Page Visit,2025-03-01 18:36:00,mobile,USA
+u0606,Landing Page Visit,2025-03-02 05:00:00,desktop,Germany
+u0606,Free Sign-Up,2025-03-02 05:18:00,desktop,Germany
+u0606,Email Verification,2025-03-02 05:26:00,desktop,Germany
+u0606,Feature Usage,2025-03-02 05:47:00,desktop,Germany
+u0606,Upgrade to Paid Plan,2025-03-02 06:02:00,desktop,Germany
+u0607,Landing Page Visit,2025-03-01 22:26:00,desktop,UK
+u0608,Landing Page Visit,2025-03-01 09:39:00,mobile,Brazil
+u0608,Free Sign-Up,2025-03-01 09:55:00,mobile,Brazil
+u0609,Landing Page Visit,2025-03-02 06:01:00,desktop,USA
+u0609,Free Sign-Up,2025-03-02 06:13:00,desktop,USA
+u0609,Email Verification,2025-03-02 06:27:00,desktop,USA
+u0609,Feature Usage,2025-03-02 06:41:00,desktop,USA
+u0610,Landing Page Visit,2025-03-01 14:14:00,mobile,India
+u0610,Free Sign-Up,2025-03-01 14:19:00,mobile,India
+u0611,Landing Page Visit,2025-03-02 00:44:00,tablet,USA
+u0611,Free Sign-Up,2025-03-02 00:53:00,tablet,USA
+u0611,Email Verification,2025-03-02 01:15:00,tablet,USA
+u0612,Landing Page Visit,2025-03-01 14:20:00,mobile,India
+u0612,Free Sign-Up,2025-03-01 14:35:00,mobile,India
+u0612,Email Verification,2025-03-01 14:49:00,mobile,India
+u0613,Landing Page Visit,2025-03-01 11:50:00,desktop,Brazil
+u0613,Free Sign-Up,2025-03-01 12:15:00,desktop,Brazil
+u0614,Landing Page Visit,2025-03-01 10:09:00,desktop,India
+u0614,Free Sign-Up,2025-03-01 10:16:00,desktop,India
+u0614,Email Verification,2025-03-01 10:22:00,desktop,India
+u0615,Landing Page Visit,2025-03-01 22:50:00,mobile,USA
+u0615,Free Sign-Up,2025-03-01 23:15:00,mobile,USA
+u0615,Email Verification,2025-03-01 23:40:00,mobile,USA
+u0615,Feature Usage,2025-03-02 00:08:00,mobile,USA
+u0615,Upgrade to Paid Plan,2025-03-02 00:10:00,mobile,USA
+u0616,Landing Page Visit,2025-03-02 04:52:00,tablet,India
+u0616,Free Sign-Up,2025-03-02 04:57:00,tablet,India
+u0616,Email Verification,2025-03-02 04:58:00,tablet,India
+u0617,Landing Page Visit,2025-03-01 15:39:00,mobile,Germany
+u0618,Landing Page Visit,2025-03-01 13:00:00,tablet,Germany
+u0618,Free Sign-Up,2025-03-01 13:23:00,tablet,Germany
+u0618,Email Verification,2025-03-01 13:38:00,tablet,Germany
+u0618,Feature Usage,2025-03-01 13:49:00,tablet,Germany
+u0619,Landing Page Visit,2025-03-01 18:29:00,tablet,Brazil
+u0619,Free Sign-Up,2025-03-01 18:43:00,tablet,Brazil
+u0619,Email Verification,2025-03-01 18:59:00,tablet,Brazil
+u0620,Landing Page Visit,2025-03-01 22:03:00,tablet,Germany
+u0620,Free Sign-Up,2025-03-01 22:12:00,tablet,Germany
+u0620,Email Verification,2025-03-01 22:13:00,tablet,Germany
+u0621,Landing Page Visit,2025-03-02 05:39:00,desktop,India
+u0621,Free Sign-Up,2025-03-02 05:47:00,desktop,India
+u0621,Email Verification,2025-03-02 05:58:00,desktop,India
+u0621,Feature Usage,2025-03-02 06:10:00,desktop,India
+u0622,Landing Page Visit,2025-03-01 13:12:00,tablet,Germany
+u0622,Free Sign-Up,2025-03-01 13:34:00,tablet,Germany
+u0622,Email Verification,2025-03-01 13:54:00,tablet,Germany
+u0622,Feature Usage,2025-03-01 14:22:00,tablet,Germany
+u0623,Landing Page Visit,2025-03-02 02:50:00,tablet,UK
+u0623,Free Sign-Up,2025-03-02 02:55:00,tablet,UK
+u0624,Landing Page Visit,2025-03-02 04:27:00,tablet,UK
+u0624,Free Sign-Up,2025-03-02 04:32:00,tablet,UK
+u0624,Email Verification,2025-03-02 04:49:00,tablet,UK
+u0624,Feature Usage,2025-03-02 05:06:00,tablet,UK
+u0624,Upgrade to Paid Plan,2025-03-02 05:30:00,tablet,UK
+u0625,Landing Page Visit,2025-03-01 10:35:00,tablet,Brazil
+u0625,Free Sign-Up,2025-03-01 10:50:00,tablet,Brazil
+u0626,Landing Page Visit,2025-03-01 18:19:00,tablet,Brazil
+u0626,Free Sign-Up,2025-03-01 18:46:00,tablet,Brazil
+u0627,Landing Page Visit,2025-03-01 13:33:00,desktop,Brazil
+u0627,Free Sign-Up,2025-03-01 13:35:00,desktop,Brazil
+u0628,Landing Page Visit,2025-03-01 16:30:00,tablet,USA
+u0628,Free Sign-Up,2025-03-01 16:35:00,tablet,USA
+u0629,Landing Page Visit,2025-03-01 12:41:00,tablet,Brazil
+u0629,Free Sign-Up,2025-03-01 13:10:00,tablet,Brazil
+u0630,Landing Page Visit,2025-03-01 09:58:00,desktop,India
+u0630,Free Sign-Up,2025-03-01 10:01:00,desktop,India
+u0631,Landing Page Visit,2025-03-01 16:04:00,desktop,Germany
+u0631,Free Sign-Up,2025-03-01 16:25:00,desktop,Germany
+u0631,Email Verification,2025-03-01 16:52:00,desktop,Germany
+u0631,Feature Usage,2025-03-01 16:57:00,desktop,Germany
+u0631,Upgrade to Paid Plan,2025-03-01 16:58:00,desktop,Germany
+u0632,Landing Page Visit,2025-03-01 19:30:00,tablet,Brazil
+u0632,Free Sign-Up,2025-03-01 19:44:00,tablet,Brazil
+u0632,Email Verification,2025-03-01 19:56:00,tablet,Brazil
+u0632,Feature Usage,2025-03-01 20:06:00,tablet,Brazil
+u0632,Upgrade to Paid Plan,2025-03-01 20:26:00,tablet,Brazil
+u0633,Landing Page Visit,2025-03-01 12:01:00,tablet,UK
+u0633,Free Sign-Up,2025-03-01 12:25:00,tablet,UK
+u0634,Landing Page Visit,2025-03-01 10:05:00,mobile,USA
+u0634,Free Sign-Up,2025-03-01 10:07:00,mobile,USA
+u0635,Landing Page Visit,2025-03-02 06:09:00,desktop,USA
+u0635,Free Sign-Up,2025-03-02 06:38:00,desktop,USA
+u0636,Landing Page Visit,2025-03-02 01:42:00,desktop,Germany
+u0636,Free Sign-Up,2025-03-02 02:06:00,desktop,Germany
+u0636,Email Verification,2025-03-02 02:21:00,desktop,Germany
+u0636,Feature Usage,2025-03-02 02:32:00,desktop,Germany
+u0637,Landing Page Visit,2025-03-01 23:18:00,mobile,Brazil
+u0637,Free Sign-Up,2025-03-01 23:30:00,mobile,Brazil
+u0638,Landing Page Visit,2025-03-01 10:30:00,mobile,USA
+u0638,Free Sign-Up,2025-03-01 10:43:00,mobile,USA
+u0638,Email Verification,2025-03-01 11:03:00,mobile,USA
+u0639,Landing Page Visit,2025-03-01 20:25:00,desktop,India
+u0639,Free Sign-Up,2025-03-01 20:53:00,desktop,India
+u0639,Email Verification,2025-03-01 21:16:00,desktop,India
+u0639,Feature Usage,2025-03-01 21:24:00,desktop,India
+u0640,Landing Page Visit,2025-03-02 06:44:00,tablet,USA
+u0640,Free Sign-Up,2025-03-02 06:45:00,tablet,USA
+u0641,Landing Page Visit,2025-03-01 19:08:00,mobile,Germany
+u0641,Free Sign-Up,2025-03-01 19:14:00,mobile,Germany
+u0641,Email Verification,2025-03-01 19:19:00,mobile,Germany
+u0641,Feature Usage,2025-03-01 19:34:00,mobile,Germany
+u0641,Upgrade to Paid Plan,2025-03-01 19:56:00,mobile,Germany
+u0642,Landing Page Visit,2025-03-02 04:16:00,mobile,Germany
+u0642,Free Sign-Up,2025-03-02 04:39:00,mobile,Germany
+u0642,Email Verification,2025-03-02 05:02:00,mobile,Germany
+u0643,Landing Page Visit,2025-03-01 15:06:00,desktop,USA
+u0644,Landing Page Visit,2025-03-02 07:57:00,desktop,USA
+u0645,Landing Page Visit,2025-03-02 03:28:00,desktop,India
+u0645,Free Sign-Up,2025-03-02 03:54:00,desktop,India
+u0645,Email Verification,2025-03-02 04:02:00,desktop,India
+u0646,Landing Page Visit,2025-03-01 20:23:00,tablet,Brazil
+u0646,Free Sign-Up,2025-03-01 20:40:00,tablet,Brazil
+u0647,Landing Page Visit,2025-03-02 00:26:00,mobile,UK
+u0647,Free Sign-Up,2025-03-02 00:34:00,mobile,UK
+u0647,Email Verification,2025-03-02 00:59:00,mobile,UK
+u0647,Feature Usage,2025-03-02 01:13:00,mobile,UK
+u0648,Landing Page Visit,2025-03-01 21:20:00,tablet,India
+u0648,Free Sign-Up,2025-03-01 21:21:00,tablet,India
+u0649,Landing Page Visit,2025-03-02 05:50:00,desktop,UK
+u0649,Free Sign-Up,2025-03-02 06:06:00,desktop,UK
+u0649,Email Verification,2025-03-02 06:20:00,desktop,UK
+u0649,Feature Usage,2025-03-02 06:41:00,desktop,UK
+u0650,Landing Page Visit,2025-03-02 02:12:00,tablet,India
+u0650,Free Sign-Up,2025-03-02 02:21:00,tablet,India
+u0651,Landing Page Visit,2025-03-02 04:43:00,desktop,Brazil
+u0651,Free Sign-Up,2025-03-02 04:45:00,desktop,Brazil
+u0652,Landing Page Visit,2025-03-01 19:43:00,mobile,Brazil
+u0652,Free Sign-Up,2025-03-01 19:49:00,mobile,Brazil
+u0652,Email Verification,2025-03-01 19:58:00,mobile,Brazil
+u0652,Feature Usage,2025-03-01 19:59:00,mobile,Brazil
+u0652,Upgrade to Paid Plan,2025-03-01 20:08:00,mobile,Brazil
+u0653,Landing Page Visit,2025-03-01 19:27:00,mobile,Germany
+u0654,Landing Page Visit,2025-03-01 17:44:00,desktop,UK
+u0654,Free Sign-Up,2025-03-01 18:05:00,desktop,UK
+u0654,Email Verification,2025-03-01 18:18:00,desktop,UK
+u0654,Feature Usage,2025-03-01 18:27:00,desktop,UK
+u0655,Landing Page Visit,2025-03-02 06:27:00,desktop,USA
+u0655,Free Sign-Up,2025-03-02 06:29:00,desktop,USA
+u0656,Landing Page Visit,2025-03-02 02:45:00,tablet,UK
+u0656,Free Sign-Up,2025-03-02 02:59:00,tablet,UK
+u0656,Email Verification,2025-03-02 03:03:00,tablet,UK
+u0657,Landing Page Visit,2025-03-01 08:18:00,mobile,Germany
+u0657,Free Sign-Up,2025-03-01 08:24:00,mobile,Germany
+u0658,Landing Page Visit,2025-03-01 14:36:00,desktop,UK
+u0658,Free Sign-Up,2025-03-01 14:45:00,desktop,UK
+u0659,Landing Page Visit,2025-03-01 22:10:00,desktop,Germany
+u0659,Free Sign-Up,2025-03-01 22:23:00,desktop,Germany
+u0660,Landing Page Visit,2025-03-02 06:47:00,mobile,India
+u0660,Free Sign-Up,2025-03-02 07:09:00,mobile,India
+u0660,Email Verification,2025-03-02 07:16:00,mobile,India
+u0660,Feature Usage,2025-03-02 07:41:00,mobile,India
+u0661,Landing Page Visit,2025-03-02 02:08:00,tablet,Germany
+u0661,Free Sign-Up,2025-03-02 02:20:00,tablet,Germany
+u0662,Landing Page Visit,2025-03-01 19:50:00,mobile,India
+u0663,Landing Page Visit,2025-03-01 23:16:00,desktop,UK
+u0663,Free Sign-Up,2025-03-01 23:35:00,desktop,UK
+u0663,Email Verification,2025-03-02 00:03:00,desktop,UK
+u0664,Landing Page Visit,2025-03-01 13:04:00,mobile,India
+u0664,Free Sign-Up,2025-03-01 13:21:00,mobile,India
+u0665,Landing Page Visit,2025-03-01 09:41:00,mobile,India
+u0665,Free Sign-Up,2025-03-01 10:07:00,mobile,India
+u0666,Landing Page Visit,2025-03-01 22:26:00,tablet,UK
+u0666,Free Sign-Up,2025-03-01 22:34:00,tablet,UK
+u0666,Email Verification,2025-03-01 22:48:00,tablet,UK
+u0666,Feature Usage,2025-03-01 23:02:00,tablet,UK
+u0667,Landing Page Visit,2025-03-02 00:01:00,tablet,USA
+u0667,Free Sign-Up,2025-03-02 00:15:00,tablet,USA
+u0668,Landing Page Visit,2025-03-02 01:06:00,desktop,India
+u0668,Free Sign-Up,2025-03-02 01:27:00,desktop,India
+u0668,Email Verification,2025-03-02 01:53:00,desktop,India
+u0669,Landing Page Visit,2025-03-01 21:35:00,tablet,Brazil
+u0669,Free Sign-Up,2025-03-01 21:37:00,tablet,Brazil
+u0670,Landing Page Visit,2025-03-01 18:28:00,desktop,Brazil
+u0670,Free Sign-Up,2025-03-01 18:57:00,desktop,Brazil
+u0670,Email Verification,2025-03-01 19:23:00,desktop,Brazil
+u0671,Landing Page Visit,2025-03-01 08:11:00,mobile,UK
+u0671,Free Sign-Up,2025-03-01 08:16:00,mobile,UK
+u0671,Email Verification,2025-03-01 08:18:00,mobile,UK
+u0672,Landing Page Visit,2025-03-02 05:56:00,tablet,Brazil
+u0672,Free Sign-Up,2025-03-02 06:11:00,tablet,Brazil
+u0672,Email Verification,2025-03-02 06:23:00,tablet,Brazil
+u0673,Landing Page Visit,2025-03-01 21:02:00,desktop,USA
+u0673,Free Sign-Up,2025-03-01 21:13:00,desktop,USA
+u0673,Email Verification,2025-03-01 21:29:00,desktop,USA
+u0674,Landing Page Visit,2025-03-02 06:29:00,mobile,Brazil
+u0674,Free Sign-Up,2025-03-02 06:43:00,mobile,Brazil
+u0674,Email Verification,2025-03-02 07:01:00,mobile,Brazil
+u0674,Feature Usage,2025-03-02 07:13:00,mobile,Brazil
+u0675,Landing Page Visit,2025-03-01 15:06:00,tablet,UK
+u0675,Free Sign-Up,2025-03-01 15:19:00,tablet,UK
+u0675,Email Verification,2025-03-01 15:40:00,tablet,UK
+u0676,Landing Page Visit,2025-03-01 18:18:00,tablet,India
+u0676,Free Sign-Up,2025-03-01 18:41:00,tablet,India
+u0676,Email Verification,2025-03-01 18:57:00,tablet,India
+u0676,Feature Usage,2025-03-01 19:12:00,tablet,India
+u0676,Upgrade to Paid Plan,2025-03-01 19:33:00,tablet,India
+u0677,Landing Page Visit,2025-03-01 14:38:00,tablet,Brazil
+u0678,Landing Page Visit,2025-03-01 19:54:00,tablet,USA
+u0678,Free Sign-Up,2025-03-01 20:13:00,tablet,USA
+u0678,Email Verification,2025-03-01 20:28:00,tablet,USA
+u0679,Landing Page Visit,2025-03-01 21:08:00,mobile,UK
+u0679,Free Sign-Up,2025-03-01 21:21:00,mobile,UK
+u0679,Email Verification,2025-03-01 21:43:00,mobile,UK
+u0680,Landing Page Visit,2025-03-02 06:37:00,desktop,UK
+u0680,Free Sign-Up,2025-03-02 07:06:00,desktop,UK
+u0680,Email Verification,2025-03-02 07:10:00,desktop,UK
+u0680,Feature Usage,2025-03-02 07:26:00,desktop,UK
+u0681,Landing Page Visit,2025-03-01 16:13:00,desktop,Brazil
+u0681,Free Sign-Up,2025-03-01 16:40:00,desktop,Brazil
+u0681,Email Verification,2025-03-01 17:09:00,desktop,Brazil
+u0681,Feature Usage,2025-03-01 17:24:00,desktop,Brazil
+u0681,Upgrade to Paid Plan,2025-03-01 17:52:00,desktop,Brazil
+u0682,Landing Page Visit,2025-03-02 03:27:00,tablet,UK
+u0682,Free Sign-Up,2025-03-02 03:37:00,tablet,UK
+u0682,Email Verification,2025-03-02 03:41:00,tablet,UK
+u0683,Landing Page Visit,2025-03-01 08:01:00,desktop,USA
+u0683,Free Sign-Up,2025-03-01 08:18:00,desktop,USA
+u0684,Landing Page Visit,2025-03-01 18:43:00,mobile,UK
+u0684,Free Sign-Up,2025-03-01 19:09:00,mobile,UK
+u0685,Landing Page Visit,2025-03-01 13:49:00,mobile,UK
+u0685,Free Sign-Up,2025-03-01 14:00:00,mobile,UK
+u0685,Email Verification,2025-03-01 14:07:00,mobile,UK
+u0686,Landing Page Visit,2025-03-02 01:42:00,mobile,Brazil
+u0686,Free Sign-Up,2025-03-02 01:55:00,mobile,Brazil
+u0686,Email Verification,2025-03-02 02:02:00,mobile,Brazil
+u0687,Landing Page Visit,2025-03-02 05:04:00,tablet,USA
+u0687,Free Sign-Up,2025-03-02 05:14:00,tablet,USA
+u0688,Landing Page Visit,2025-03-01 12:57:00,mobile,UK
+u0688,Free Sign-Up,2025-03-01 13:21:00,mobile,UK
+u0688,Email Verification,2025-03-01 13:25:00,mobile,UK
+u0689,Landing Page Visit,2025-03-02 07:28:00,desktop,Brazil
+u0689,Free Sign-Up,2025-03-02 07:40:00,desktop,Brazil
+u0689,Email Verification,2025-03-02 08:04:00,desktop,Brazil
+u0690,Landing Page Visit,2025-03-02 07:05:00,desktop,UK
+u0690,Free Sign-Up,2025-03-02 07:20:00,desktop,UK
+u0690,Email Verification,2025-03-02 07:47:00,desktop,UK
+u0691,Landing Page Visit,2025-03-01 22:46:00,tablet,Germany
+u0691,Free Sign-Up,2025-03-01 23:08:00,tablet,Germany
+u0691,Email Verification,2025-03-01 23:30:00,tablet,Germany
+u0692,Landing Page Visit,2025-03-01 20:05:00,tablet,USA
+u0692,Free Sign-Up,2025-03-01 20:33:00,tablet,USA
+u0692,Email Verification,2025-03-01 20:42:00,tablet,USA
+u0692,Feature Usage,2025-03-01 21:08:00,tablet,USA
+u0693,Landing Page Visit,2025-03-01 08:09:00,tablet,USA
+u0693,Free Sign-Up,2025-03-01 08:33:00,tablet,USA
+u0693,Email Verification,2025-03-01 08:59:00,tablet,USA
+u0693,Feature Usage,2025-03-01 09:24:00,tablet,USA
+u0694,Landing Page Visit,2025-03-01 19:21:00,desktop,Brazil
+u0694,Free Sign-Up,2025-03-01 19:29:00,desktop,Brazil
+u0694,Email Verification,2025-03-01 19:53:00,desktop,Brazil
+u0695,Landing Page Visit,2025-03-02 01:52:00,tablet,Germany
+u0695,Free Sign-Up,2025-03-02 02:18:00,tablet,Germany
+u0695,Email Verification,2025-03-02 02:45:00,tablet,Germany
+u0695,Feature Usage,2025-03-02 02:50:00,tablet,Germany
+u0696,Landing Page Visit,2025-03-01 08:49:00,mobile,India
+u0696,Free Sign-Up,2025-03-01 09:13:00,mobile,India
+u0696,Email Verification,2025-03-01 09:32:00,mobile,India
+u0696,Feature Usage,2025-03-01 09:36:00,mobile,India
+u0697,Landing Page Visit,2025-03-02 03:50:00,mobile,Germany
+u0697,Free Sign-Up,2025-03-02 04:00:00,mobile,Germany
+u0697,Email Verification,2025-03-02 04:25:00,mobile,Germany
+u0698,Landing Page Visit,2025-03-01 23:14:00,tablet,Brazil
+u0698,Free Sign-Up,2025-03-01 23:18:00,tablet,Brazil
+u0698,Email Verification,2025-03-01 23:28:00,tablet,Brazil
+u0698,Feature Usage,2025-03-01 23:29:00,tablet,Brazil
+u0699,Landing Page Visit,2025-03-01 12:01:00,tablet,Germany
+u0699,Free Sign-Up,2025-03-01 12:06:00,tablet,Germany
+u0699,Email Verification,2025-03-01 12:21:00,tablet,Germany
+u0699,Feature Usage,2025-03-01 12:38:00,tablet,Germany
+u0700,Landing Page Visit,2025-03-02 02:51:00,tablet,Germany
+u0700,Free Sign-Up,2025-03-02 02:53:00,tablet,Germany
+u0701,Landing Page Visit,2025-03-01 18:30:00,mobile,Brazil
+u0702,Landing Page Visit,2025-03-01 19:01:00,desktop,USA
+u0702,Free Sign-Up,2025-03-01 19:17:00,desktop,USA
+u0702,Email Verification,2025-03-01 19:22:00,desktop,USA
+u0703,Landing Page Visit,2025-03-01 14:58:00,tablet,Brazil
+u0703,Free Sign-Up,2025-03-01 15:26:00,tablet,Brazil
+u0703,Email Verification,2025-03-01 15:33:00,tablet,Brazil
+u0703,Feature Usage,2025-03-01 15:44:00,tablet,Brazil
+u0704,Landing Page Visit,2025-03-02 00:08:00,mobile,USA
+u0704,Free Sign-Up,2025-03-02 00:22:00,mobile,USA
+u0704,Email Verification,2025-03-02 00:35:00,mobile,USA
+u0704,Feature Usage,2025-03-02 01:04:00,mobile,USA
+u0705,Landing Page Visit,2025-03-02 05:17:00,desktop,USA
+u0705,Free Sign-Up,2025-03-02 05:42:00,desktop,USA
+u0705,Email Verification,2025-03-02 05:44:00,desktop,USA
+u0706,Landing Page Visit,2025-03-01 12:22:00,mobile,India
+u0706,Free Sign-Up,2025-03-01 12:43:00,mobile,India
+u0706,Email Verification,2025-03-01 13:01:00,mobile,India
+u0707,Landing Page Visit,2025-03-02 07:17:00,tablet,Germany
+u0707,Free Sign-Up,2025-03-02 07:46:00,tablet,Germany
+u0707,Email Verification,2025-03-02 07:53:00,tablet,Germany
+u0708,Landing Page Visit,2025-03-01 15:38:00,desktop,Brazil
+u0708,Free Sign-Up,2025-03-01 15:45:00,desktop,Brazil
+u0708,Email Verification,2025-03-01 16:09:00,desktop,Brazil
+u0709,Landing Page Visit,2025-03-01 13:01:00,desktop,Brazil
+u0709,Free Sign-Up,2025-03-01 13:20:00,desktop,Brazil
+u0709,Email Verification,2025-03-01 13:24:00,desktop,Brazil
+u0709,Feature Usage,2025-03-01 13:50:00,desktop,Brazil
+u0710,Landing Page Visit,2025-03-01 17:13:00,desktop,Germany
+u0710,Free Sign-Up,2025-03-01 17:20:00,desktop,Germany
+u0710,Email Verification,2025-03-01 17:33:00,desktop,Germany
+u0711,Landing Page Visit,2025-03-01 08:35:00,tablet,India
+u0711,Free Sign-Up,2025-03-01 08:43:00,tablet,India
+u0711,Email Verification,2025-03-01 08:48:00,tablet,India
+u0712,Landing Page Visit,2025-03-01 09:12:00,tablet,USA
+u0712,Free Sign-Up,2025-03-01 09:20:00,tablet,USA
+u0712,Email Verification,2025-03-01 09:21:00,tablet,USA
+u0713,Landing Page Visit,2025-03-02 02:13:00,mobile,UK
+u0713,Free Sign-Up,2025-03-02 02:22:00,mobile,UK
+u0713,Email Verification,2025-03-02 02:29:00,mobile,UK
+u0714,Landing Page Visit,2025-03-01 17:20:00,desktop,Brazil
+u0714,Free Sign-Up,2025-03-01 17:48:00,desktop,Brazil
+u0714,Email Verification,2025-03-01 17:50:00,desktop,Brazil
+u0715,Landing Page Visit,2025-03-01 16:36:00,mobile,Germany
+u0716,Landing Page Visit,2025-03-01 10:39:00,mobile,Brazil
+u0716,Free Sign-Up,2025-03-01 11:00:00,mobile,Brazil
+u0716,Email Verification,2025-03-01 11:08:00,mobile,Brazil
+u0717,Landing Page Visit,2025-03-01 09:06:00,mobile,UK
+u0717,Free Sign-Up,2025-03-01 09:28:00,mobile,UK
+u0718,Landing Page Visit,2025-03-01 14:20:00,tablet,UK
+u0719,Landing Page Visit,2025-03-02 05:22:00,tablet,USA
+u0719,Free Sign-Up,2025-03-02 05:44:00,tablet,USA
+u0719,Email Verification,2025-03-02 05:50:00,tablet,USA
+u0719,Feature Usage,2025-03-02 05:52:00,tablet,USA
+u0719,Upgrade to Paid Plan,2025-03-02 06:15:00,tablet,USA
+u0720,Landing Page Visit,2025-03-01 20:49:00,desktop,Brazil
+u0720,Free Sign-Up,2025-03-01 20:55:00,desktop,Brazil
+u0721,Landing Page Visit,2025-03-01 13:53:00,desktop,UK
+u0721,Free Sign-Up,2025-03-01 14:16:00,desktop,UK
+u0721,Email Verification,2025-03-01 14:36:00,desktop,UK
+u0721,Feature Usage,2025-03-01 14:44:00,desktop,UK
+u0721,Upgrade to Paid Plan,2025-03-01 15:06:00,desktop,UK
+u0722,Landing Page Visit,2025-03-01 15:32:00,mobile,Brazil
+u0722,Free Sign-Up,2025-03-01 15:45:00,mobile,Brazil
+u0722,Email Verification,2025-03-01 16:14:00,mobile,Brazil
+u0723,Landing Page Visit,2025-03-02 00:56:00,desktop,Brazil
+u0723,Free Sign-Up,2025-03-02 01:19:00,desktop,Brazil
+u0723,Email Verification,2025-03-02 01:35:00,desktop,Brazil
+u0723,Feature Usage,2025-03-02 01:45:00,desktop,Brazil
+u0724,Landing Page Visit,2025-03-01 08:54:00,desktop,UK
+u0724,Free Sign-Up,2025-03-01 09:10:00,desktop,UK
+u0724,Email Verification,2025-03-01 09:22:00,desktop,UK
+u0725,Landing Page Visit,2025-03-02 07:43:00,mobile,UK
+u0725,Free Sign-Up,2025-03-02 07:55:00,mobile,UK
+u0725,Email Verification,2025-03-02 08:03:00,mobile,UK
+u0726,Landing Page Visit,2025-03-01 16:34:00,desktop,Germany
+u0726,Free Sign-Up,2025-03-01 16:50:00,desktop,Germany
+u0727,Landing Page Visit,2025-03-02 05:42:00,mobile,India
+u0727,Free Sign-Up,2025-03-02 06:10:00,mobile,India
+u0727,Email Verification,2025-03-02 06:29:00,mobile,India
+u0728,Landing Page Visit,2025-03-01 18:29:00,mobile,Germany
+u0728,Free Sign-Up,2025-03-01 18:34:00,mobile,Germany
+u0729,Landing Page Visit,2025-03-02 05:11:00,mobile,UK
+u0730,Landing Page Visit,2025-03-01 13:20:00,mobile,USA
+u0730,Free Sign-Up,2025-03-01 13:45:00,mobile,USA
+u0730,Email Verification,2025-03-01 14:06:00,mobile,USA
+u0730,Feature Usage,2025-03-01 14:26:00,mobile,USA
+u0731,Landing Page Visit,2025-03-01 14:45:00,tablet,India
+u0732,Landing Page Visit,2025-03-01 15:35:00,tablet,UK
+u0732,Free Sign-Up,2025-03-01 15:42:00,tablet,UK
+u0733,Landing Page Visit,2025-03-02 00:52:00,desktop,India
+u0733,Free Sign-Up,2025-03-02 01:08:00,desktop,India
+u0734,Landing Page Visit,2025-03-01 20:17:00,desktop,USA
+u0734,Free Sign-Up,2025-03-01 20:46:00,desktop,USA
+u0734,Email Verification,2025-03-01 21:00:00,desktop,USA
+u0734,Feature Usage,2025-03-01 21:04:00,desktop,USA
+u0734,Upgrade to Paid Plan,2025-03-01 21:05:00,desktop,USA
+u0735,Landing Page Visit,2025-03-01 09:53:00,desktop,UK
+u0735,Free Sign-Up,2025-03-01 10:06:00,desktop,UK
+u0736,Landing Page Visit,2025-03-01 14:00:00,mobile,Brazil
+u0736,Free Sign-Up,2025-03-01 14:21:00,mobile,Brazil
+u0737,Landing Page Visit,2025-03-01 20:40:00,mobile,India
+u0737,Free Sign-Up,2025-03-01 20:49:00,mobile,India
+u0738,Landing Page Visit,2025-03-01 21:54:00,tablet,UK
+u0738,Free Sign-Up,2025-03-01 22:14:00,tablet,UK
+u0739,Landing Page Visit,2025-03-02 04:19:00,desktop,UK
+u0739,Free Sign-Up,2025-03-02 04:37:00,desktop,UK
+u0739,Email Verification,2025-03-02 05:00:00,desktop,UK
+u0740,Landing Page Visit,2025-03-01 14:45:00,mobile,Brazil
+u0740,Free Sign-Up,2025-03-01 14:56:00,mobile,Brazil
+u0741,Landing Page Visit,2025-03-01 13:41:00,tablet,USA
+u0742,Landing Page Visit,2025-03-02 02:44:00,mobile,India
+u0742,Free Sign-Up,2025-03-02 03:04:00,mobile,India
+u0742,Email Verification,2025-03-02 03:14:00,mobile,India
+u0743,Landing Page Visit,2025-03-02 05:02:00,tablet,UK
+u0743,Free Sign-Up,2025-03-02 05:19:00,tablet,UK
+u0743,Email Verification,2025-03-02 05:29:00,tablet,UK
+u0743,Feature Usage,2025-03-02 05:35:00,tablet,UK
+u0744,Landing Page Visit,2025-03-02 03:41:00,tablet,UK
+u0744,Free Sign-Up,2025-03-02 04:05:00,tablet,UK
+u0744,Email Verification,2025-03-02 04:15:00,tablet,UK
+u0745,Landing Page Visit,2025-03-01 10:13:00,tablet,Germany
+u0745,Free Sign-Up,2025-03-01 10:16:00,tablet,Germany
+u0745,Email Verification,2025-03-01 10:32:00,tablet,Germany
+u0745,Feature Usage,2025-03-01 10:39:00,tablet,Germany
+u0745,Upgrade to Paid Plan,2025-03-01 10:59:00,tablet,Germany
+u0746,Landing Page Visit,2025-03-01 09:12:00,mobile,Brazil
+u0746,Free Sign-Up,2025-03-01 09:27:00,mobile,Brazil
+u0746,Email Verification,2025-03-01 09:48:00,mobile,Brazil
+u0746,Feature Usage,2025-03-01 09:51:00,mobile,Brazil
+u0747,Landing Page Visit,2025-03-01 22:18:00,tablet,USA
+u0747,Free Sign-Up,2025-03-01 22:20:00,tablet,USA
+u0747,Email Verification,2025-03-01 22:23:00,tablet,USA
+u0747,Feature Usage,2025-03-01 22:41:00,tablet,USA
+u0748,Landing Page Visit,2025-03-01 12:25:00,mobile,Germany
+u0748,Free Sign-Up,2025-03-01 12:50:00,mobile,Germany
+u0748,Email Verification,2025-03-01 12:52:00,mobile,Germany
+u0749,Landing Page Visit,2025-03-01 12:12:00,desktop,UK
+u0749,Free Sign-Up,2025-03-01 12:34:00,desktop,UK
+u0749,Email Verification,2025-03-01 12:35:00,desktop,UK
+u0750,Landing Page Visit,2025-03-01 09:34:00,desktop,India
+u0750,Free Sign-Up,2025-03-01 09:48:00,desktop,India
+u0751,Landing Page Visit,2025-03-02 02:53:00,tablet,Germany
+u0751,Free Sign-Up,2025-03-02 03:09:00,tablet,Germany
+u0751,Email Verification,2025-03-02 03:31:00,tablet,Germany
+u0751,Feature Usage,2025-03-02 03:45:00,tablet,Germany
+u0752,Landing Page Visit,2025-03-01 22:58:00,mobile,Brazil
+u0753,Landing Page Visit,2025-03-01 23:01:00,mobile,Brazil
+u0753,Free Sign-Up,2025-03-01 23:26:00,mobile,Brazil
+u0753,Email Verification,2025-03-01 23:39:00,mobile,Brazil
+u0754,Landing Page Visit,2025-03-01 16:01:00,tablet,India
+u0754,Free Sign-Up,2025-03-01 16:09:00,tablet,India
+u0754,Email Verification,2025-03-01 16:30:00,tablet,India
+u0754,Feature Usage,2025-03-01 16:32:00,tablet,India
+u0755,Landing Page Visit,2025-03-01 16:56:00,mobile,USA
+u0755,Free Sign-Up,2025-03-01 17:11:00,mobile,USA
+u0756,Landing Page Visit,2025-03-02 03:56:00,mobile,USA
+u0756,Free Sign-Up,2025-03-02 04:24:00,mobile,USA
+u0756,Email Verification,2025-03-02 04:36:00,mobile,USA
+u0757,Landing Page Visit,2025-03-01 17:02:00,desktop,USA
+u0757,Free Sign-Up,2025-03-01 17:16:00,desktop,USA
+u0757,Email Verification,2025-03-01 17:36:00,desktop,USA
+u0757,Feature Usage,2025-03-01 17:54:00,desktop,USA
+u0757,Upgrade to Paid Plan,2025-03-01 18:23:00,desktop,USA
+u0758,Landing Page Visit,2025-03-01 15:26:00,tablet,USA
+u0758,Free Sign-Up,2025-03-01 15:32:00,tablet,USA
+u0759,Landing Page Visit,2025-03-01 08:42:00,mobile,India
+u0760,Landing Page Visit,2025-03-02 02:03:00,tablet,UK
+u0760,Free Sign-Up,2025-03-02 02:26:00,tablet,UK
+u0760,Email Verification,2025-03-02 02:45:00,tablet,UK
+u0761,Landing Page Visit,2025-03-01 20:57:00,tablet,Germany
+u0761,Free Sign-Up,2025-03-01 21:22:00,tablet,Germany
+u0761,Email Verification,2025-03-01 21:24:00,tablet,Germany
+u0762,Landing Page Visit,2025-03-01 19:29:00,desktop,USA
+u0762,Free Sign-Up,2025-03-01 19:58:00,desktop,USA
+u0762,Email Verification,2025-03-01 20:22:00,desktop,USA
+u0763,Landing Page Visit,2025-03-01 15:36:00,mobile,Brazil
+u0763,Free Sign-Up,2025-03-01 15:59:00,mobile,Brazil
+u0764,Landing Page Visit,2025-03-02 02:42:00,desktop,UK
+u0764,Free Sign-Up,2025-03-02 03:03:00,desktop,UK
+u0764,Email Verification,2025-03-02 03:12:00,desktop,UK
+u0764,Feature Usage,2025-03-02 03:40:00,desktop,UK
+u0764,Upgrade to Paid Plan,2025-03-02 03:54:00,desktop,UK
+u0765,Landing Page Visit,2025-03-01 12:22:00,tablet,Brazil
+u0765,Free Sign-Up,2025-03-01 12:38:00,tablet,Brazil
+u0765,Email Verification,2025-03-01 12:54:00,tablet,Brazil
+u0765,Feature Usage,2025-03-01 13:22:00,tablet,Brazil
+u0766,Landing Page Visit,2025-03-02 05:23:00,tablet,India
+u0766,Free Sign-Up,2025-03-02 05:27:00,tablet,India
+u0767,Landing Page Visit,2025-03-01 21:04:00,mobile,UK
+u0768,Landing Page Visit,2025-03-02 07:02:00,tablet,India
+u0768,Free Sign-Up,2025-03-02 07:30:00,tablet,India
+u0768,Email Verification,2025-03-02 07:50:00,tablet,India
+u0769,Landing Page Visit,2025-03-01 21:39:00,desktop,India
+u0769,Free Sign-Up,2025-03-01 21:43:00,desktop,India
+u0770,Landing Page Visit,2025-03-01 15:01:00,desktop,UK
+u0770,Free Sign-Up,2025-03-01 15:08:00,desktop,UK
+u0771,Landing Page Visit,2025-03-02 02:06:00,tablet,Brazil
+u0771,Free Sign-Up,2025-03-02 02:11:00,tablet,Brazil
+u0771,Email Verification,2025-03-02 02:31:00,tablet,Brazil
+u0771,Feature Usage,2025-03-02 03:00:00,tablet,Brazil
+u0772,Landing Page Visit,2025-03-01 16:38:00,desktop,Brazil
+u0772,Free Sign-Up,2025-03-01 17:05:00,desktop,Brazil
+u0772,Email Verification,2025-03-01 17:33:00,desktop,Brazil
+u0773,Landing Page Visit,2025-03-01 15:34:00,mobile,Brazil
+u0773,Free Sign-Up,2025-03-01 15:39:00,mobile,Brazil
+u0773,Email Verification,2025-03-01 16:08:00,mobile,Brazil
+u0773,Feature Usage,2025-03-01 16:30:00,mobile,Brazil
+u0774,Landing Page Visit,2025-03-01 16:29:00,desktop,Germany
+u0774,Free Sign-Up,2025-03-01 16:52:00,desktop,Germany
+u0774,Email Verification,2025-03-01 16:54:00,desktop,Germany
+u0774,Feature Usage,2025-03-01 17:21:00,desktop,Germany
+u0775,Landing Page Visit,2025-03-01 12:05:00,tablet,Germany
+u0776,Landing Page Visit,2025-03-01 19:00:00,desktop,USA
+u0776,Free Sign-Up,2025-03-01 19:10:00,desktop,USA
+u0776,Email Verification,2025-03-01 19:33:00,desktop,USA
+u0776,Feature Usage,2025-03-01 19:59:00,desktop,USA
+u0777,Landing Page Visit,2025-03-01 23:00:00,desktop,Germany
+u0777,Free Sign-Up,2025-03-01 23:01:00,desktop,Germany
+u0777,Email Verification,2025-03-01 23:14:00,desktop,Germany
+u0777,Feature Usage,2025-03-01 23:35:00,desktop,Germany
+u0778,Landing Page Visit,2025-03-01 12:01:00,mobile,USA
+u0778,Free Sign-Up,2025-03-01 12:14:00,mobile,USA
+u0778,Email Verification,2025-03-01 12:35:00,mobile,USA
+u0778,Feature Usage,2025-03-01 12:56:00,mobile,USA
+u0779,Landing Page Visit,2025-03-01 10:52:00,desktop,Brazil
+u0779,Free Sign-Up,2025-03-01 10:56:00,desktop,Brazil
+u0779,Email Verification,2025-03-01 11:13:00,desktop,Brazil
+u0779,Feature Usage,2025-03-01 11:16:00,desktop,Brazil
+u0780,Landing Page Visit,2025-03-01 19:39:00,mobile,USA
+u0780,Free Sign-Up,2025-03-01 19:50:00,mobile,USA
+u0780,Email Verification,2025-03-01 20:11:00,mobile,USA
+u0780,Feature Usage,2025-03-01 20:31:00,mobile,USA
+u0781,Landing Page Visit,2025-03-01 18:28:00,tablet,India
+u0782,Landing Page Visit,2025-03-01 16:29:00,desktop,Brazil
+u0782,Free Sign-Up,2025-03-01 16:33:00,desktop,Brazil
+u0783,Landing Page Visit,2025-03-01 18:23:00,mobile,USA
+u0783,Free Sign-Up,2025-03-01 18:51:00,mobile,USA
+u0783,Email Verification,2025-03-01 19:09:00,mobile,USA
+u0784,Landing Page Visit,2025-03-02 04:50:00,tablet,Germany
+u0784,Free Sign-Up,2025-03-02 04:59:00,tablet,Germany
+u0784,Email Verification,2025-03-02 05:28:00,tablet,Germany
+u0785,Landing Page Visit,2025-03-01 17:13:00,tablet,USA
+u0785,Free Sign-Up,2025-03-01 17:34:00,tablet,USA
+u0786,Landing Page Visit,2025-03-01 14:36:00,mobile,India
+u0786,Free Sign-Up,2025-03-01 14:53:00,mobile,India
+u0786,Email Verification,2025-03-01 15:02:00,mobile,India
+u0786,Feature Usage,2025-03-01 15:19:00,mobile,India
+u0787,Landing Page Visit,2025-03-01 14:32:00,tablet,India
+u0787,Free Sign-Up,2025-03-01 14:41:00,tablet,India
+u0787,Email Verification,2025-03-01 14:42:00,tablet,India
+u0787,Feature Usage,2025-03-01 14:44:00,tablet,India
+u0788,Landing Page Visit,2025-03-01 08:28:00,tablet,Germany
+u0788,Free Sign-Up,2025-03-01 08:29:00,tablet,Germany
+u0788,Email Verification,2025-03-01 08:39:00,tablet,Germany
+u0789,Landing Page Visit,2025-03-01 11:51:00,desktop,UK
+u0789,Free Sign-Up,2025-03-01 12:12:00,desktop,UK
+u0789,Email Verification,2025-03-01 12:40:00,desktop,UK
+u0789,Feature Usage,2025-03-01 12:51:00,desktop,UK
+u0789,Upgrade to Paid Plan,2025-03-01 13:14:00,desktop,UK
+u0790,Landing Page Visit,2025-03-01 20:55:00,desktop,Germany
+u0790,Free Sign-Up,2025-03-01 21:22:00,desktop,Germany
+u0791,Landing Page Visit,2025-03-01 11:19:00,tablet,Brazil
+u0791,Free Sign-Up,2025-03-01 11:36:00,tablet,Brazil
+u0791,Email Verification,2025-03-01 11:51:00,tablet,Brazil
+u0792,Landing Page Visit,2025-03-01 23:55:00,mobile,Germany
+u0792,Free Sign-Up,2025-03-02 00:18:00,mobile,Germany
+u0792,Email Verification,2025-03-02 00:42:00,mobile,Germany
+u0793,Landing Page Visit,2025-03-01 15:46:00,mobile,UK
+u0793,Free Sign-Up,2025-03-01 15:51:00,mobile,UK
+u0793,Email Verification,2025-03-01 16:03:00,mobile,UK
+u0794,Landing Page Visit,2025-03-01 09:26:00,tablet,USA
+u0794,Free Sign-Up,2025-03-01 09:31:00,tablet,USA
+u0794,Email Verification,2025-03-01 09:39:00,tablet,USA
+u0795,Landing Page Visit,2025-03-02 04:23:00,tablet,Germany
+u0795,Free Sign-Up,2025-03-02 04:48:00,tablet,Germany
+u0796,Landing Page Visit,2025-03-01 08:42:00,desktop,India
+u0796,Free Sign-Up,2025-03-01 08:43:00,desktop,India
+u0796,Email Verification,2025-03-01 08:56:00,desktop,India
+u0796,Feature Usage,2025-03-01 09:15:00,desktop,India
+u0797,Landing Page Visit,2025-03-01 19:03:00,mobile,USA
+u0797,Free Sign-Up,2025-03-01 19:20:00,mobile,USA
+u0798,Landing Page Visit,2025-03-01 10:27:00,desktop,USA
+u0798,Free Sign-Up,2025-03-01 10:48:00,desktop,USA
+u0799,Landing Page Visit,2025-03-01 14:05:00,desktop,USA
+u0799,Free Sign-Up,2025-03-01 14:09:00,desktop,USA
+u0799,Email Verification,2025-03-01 14:20:00,desktop,USA
+u0800,Landing Page Visit,2025-03-01 14:38:00,desktop,Brazil
+u0801,Landing Page Visit,2025-03-02 07:34:00,mobile,UK
+u0801,Free Sign-Up,2025-03-02 07:53:00,mobile,UK
+u0802,Landing Page Visit,2025-03-01 17:22:00,tablet,Germany
+u0803,Landing Page Visit,2025-03-01 15:21:00,tablet,Germany
+u0803,Free Sign-Up,2025-03-01 15:26:00,tablet,Germany
+u0803,Email Verification,2025-03-01 15:31:00,tablet,Germany
+u0804,Landing Page Visit,2025-03-02 06:55:00,desktop,UK
+u0804,Free Sign-Up,2025-03-02 07:03:00,desktop,UK
+u0804,Email Verification,2025-03-02 07:13:00,desktop,UK
+u0805,Landing Page Visit,2025-03-02 00:31:00,mobile,UK
+u0805,Free Sign-Up,2025-03-02 00:47:00,mobile,UK
+u0805,Email Verification,2025-03-02 01:15:00,mobile,UK
+u0806,Landing Page Visit,2025-03-02 04:46:00,mobile,USA
+u0806,Free Sign-Up,2025-03-02 04:54:00,mobile,USA
+u0806,Email Verification,2025-03-02 05:02:00,mobile,USA
+u0807,Landing Page Visit,2025-03-01 13:28:00,mobile,Brazil
+u0807,Free Sign-Up,2025-03-01 13:30:00,mobile,Brazil
+u0808,Landing Page Visit,2025-03-01 23:45:00,desktop,Germany
+u0808,Free Sign-Up,2025-03-01 23:48:00,desktop,Germany
+u0808,Email Verification,2025-03-02 00:05:00,desktop,Germany
+u0809,Landing Page Visit,2025-03-02 07:25:00,desktop,UK
+u0809,Free Sign-Up,2025-03-02 07:29:00,desktop,UK
+u0809,Email Verification,2025-03-02 07:43:00,desktop,UK
+u0810,Landing Page Visit,2025-03-01 10:48:00,mobile,India
+u0810,Free Sign-Up,2025-03-01 11:13:00,mobile,India
+u0810,Email Verification,2025-03-01 11:39:00,mobile,India
+u0811,Landing Page Visit,2025-03-01 11:09:00,mobile,USA
+u0811,Free Sign-Up,2025-03-01 11:27:00,mobile,USA
+u0811,Email Verification,2025-03-01 11:37:00,mobile,USA
+u0811,Feature Usage,2025-03-01 11:58:00,mobile,USA
+u0812,Landing Page Visit,2025-03-01 18:51:00,mobile,Brazil
+u0812,Free Sign-Up,2025-03-01 19:18:00,mobile,Brazil
+u0812,Email Verification,2025-03-01 19:26:00,mobile,Brazil
+u0812,Feature Usage,2025-03-01 19:28:00,mobile,Brazil
+u0813,Landing Page Visit,2025-03-01 21:00:00,mobile,UK
+u0813,Free Sign-Up,2025-03-01 21:21:00,mobile,UK
+u0813,Email Verification,2025-03-01 21:37:00,mobile,UK
+u0813,Feature Usage,2025-03-01 22:05:00,mobile,UK
+u0814,Landing Page Visit,2025-03-01 16:42:00,mobile,UK
+u0814,Free Sign-Up,2025-03-01 16:52:00,mobile,UK
+u0814,Email Verification,2025-03-01 17:07:00,mobile,UK
+u0815,Landing Page Visit,2025-03-01 23:35:00,desktop,Germany
+u0815,Free Sign-Up,2025-03-01 23:53:00,desktop,Germany
+u0816,Landing Page Visit,2025-03-01 16:07:00,tablet,USA
+u0816,Free Sign-Up,2025-03-01 16:34:00,tablet,USA
+u0816,Email Verification,2025-03-01 16:48:00,tablet,USA
+u0817,Landing Page Visit,2025-03-02 00:24:00,desktop,Germany
+u0817,Free Sign-Up,2025-03-02 00:42:00,desktop,Germany
+u0818,Landing Page Visit,2025-03-01 14:53:00,desktop,India
+u0818,Free Sign-Up,2025-03-01 15:13:00,desktop,India
+u0818,Email Verification,2025-03-01 15:34:00,desktop,India
+u0818,Feature Usage,2025-03-01 15:46:00,desktop,India
+u0818,Upgrade to Paid Plan,2025-03-01 16:05:00,desktop,India
+u0819,Landing Page Visit,2025-03-01 09:52:00,desktop,UK
+u0819,Free Sign-Up,2025-03-01 10:16:00,desktop,UK
+u0820,Landing Page Visit,2025-03-01 10:01:00,mobile,India
+u0820,Free Sign-Up,2025-03-01 10:24:00,mobile,India
+u0820,Email Verification,2025-03-01 10:31:00,mobile,India
+u0820,Feature Usage,2025-03-01 10:48:00,mobile,India
+u0821,Landing Page Visit,2025-03-02 04:56:00,tablet,UK
+u0821,Free Sign-Up,2025-03-02 05:11:00,tablet,UK
+u0822,Landing Page Visit,2025-03-01 10:28:00,desktop,Brazil
+u0822,Free Sign-Up,2025-03-01 10:41:00,desktop,Brazil
+u0822,Email Verification,2025-03-01 11:02:00,desktop,Brazil
+u0823,Landing Page Visit,2025-03-01 13:01:00,mobile,USA
+u0824,Landing Page Visit,2025-03-01 11:57:00,tablet,India
+u0824,Free Sign-Up,2025-03-01 12:04:00,tablet,India
+u0824,Email Verification,2025-03-01 12:27:00,tablet,India
+u0825,Landing Page Visit,2025-03-01 11:22:00,desktop,Brazil
+u0825,Free Sign-Up,2025-03-01 11:44:00,desktop,Brazil
+u0825,Email Verification,2025-03-01 12:06:00,desktop,Brazil
+u0826,Landing Page Visit,2025-03-02 06:48:00,mobile,Germany
+u0826,Free Sign-Up,2025-03-02 07:10:00,mobile,Germany
+u0827,Landing Page Visit,2025-03-01 20:49:00,desktop,Germany
+u0827,Free Sign-Up,2025-03-01 21:18:00,desktop,Germany
+u0827,Email Verification,2025-03-01 21:39:00,desktop,Germany
+u0827,Feature Usage,2025-03-01 21:54:00,desktop,Germany
+u0828,Landing Page Visit,2025-03-01 12:42:00,mobile,India
+u0828,Free Sign-Up,2025-03-01 13:00:00,mobile,India
+u0829,Landing Page Visit,2025-03-02 07:50:00,desktop,UK
+u0829,Free Sign-Up,2025-03-02 08:14:00,desktop,UK
+u0829,Email Verification,2025-03-02 08:26:00,desktop,UK
+u0829,Feature Usage,2025-03-02 08:39:00,desktop,UK
+u0830,Landing Page Visit,2025-03-01 15:00:00,tablet,Brazil
+u0830,Free Sign-Up,2025-03-01 15:29:00,tablet,Brazil
+u0830,Email Verification,2025-03-01 15:30:00,tablet,Brazil
+u0831,Landing Page Visit,2025-03-01 16:34:00,tablet,UK
+u0831,Free Sign-Up,2025-03-01 16:56:00,tablet,UK
+u0831,Email Verification,2025-03-01 17:15:00,tablet,UK
+u0831,Feature Usage,2025-03-01 17:38:00,tablet,UK
+u0832,Landing Page Visit,2025-03-02 01:33:00,mobile,UK
+u0832,Free Sign-Up,2025-03-02 01:40:00,mobile,UK
+u0832,Email Verification,2025-03-02 01:52:00,mobile,UK
+u0832,Feature Usage,2025-03-02 02:07:00,mobile,UK
+u0833,Landing Page Visit,2025-03-02 03:11:00,mobile,Germany
+u0833,Free Sign-Up,2025-03-02 03:16:00,mobile,Germany
+u0834,Landing Page Visit,2025-03-01 10:15:00,desktop,UK
+u0834,Free Sign-Up,2025-03-01 10:25:00,desktop,UK
+u0835,Landing Page Visit,2025-03-01 10:08:00,tablet,USA
+u0835,Free Sign-Up,2025-03-01 10:20:00,tablet,USA
+u0835,Email Verification,2025-03-01 10:25:00,tablet,USA
+u0836,Landing Page Visit,2025-03-01 15:28:00,desktop,UK
+u0836,Free Sign-Up,2025-03-01 15:32:00,desktop,UK
+u0836,Email Verification,2025-03-01 15:40:00,desktop,UK
+u0837,Landing Page Visit,2025-03-02 04:47:00,mobile,Germany
+u0837,Free Sign-Up,2025-03-02 04:57:00,mobile,Germany
+u0837,Email Verification,2025-03-02 04:59:00,mobile,Germany
+u0838,Landing Page Visit,2025-03-01 15:52:00,tablet,Germany
+u0838,Free Sign-Up,2025-03-01 16:02:00,tablet,Germany
+u0839,Landing Page Visit,2025-03-01 13:01:00,desktop,USA
+u0839,Free Sign-Up,2025-03-01 13:08:00,desktop,USA
+u0839,Email Verification,2025-03-01 13:35:00,desktop,USA
+u0840,Landing Page Visit,2025-03-02 02:09:00,tablet,UK
+u0840,Free Sign-Up,2025-03-02 02:18:00,tablet,UK
+u0840,Email Verification,2025-03-02 02:34:00,tablet,UK
+u0840,Feature Usage,2025-03-02 02:47:00,tablet,UK
+u0840,Upgrade to Paid Plan,2025-03-02 02:56:00,tablet,UK
+u0841,Landing Page Visit,2025-03-01 23:31:00,tablet,India
+u0841,Free Sign-Up,2025-03-01 23:53:00,tablet,India
+u0841,Email Verification,2025-03-02 00:03:00,tablet,India
+u0842,Landing Page Visit,2025-03-01 13:13:00,tablet,India
+u0842,Free Sign-Up,2025-03-01 13:35:00,tablet,India
+u0842,Email Verification,2025-03-01 13:47:00,tablet,India
+u0842,Feature Usage,2025-03-01 14:04:00,tablet,India
+u0843,Landing Page Visit,2025-03-02 01:17:00,desktop,Germany
+u0843,Free Sign-Up,2025-03-02 01:42:00,desktop,Germany
+u0843,Email Verification,2025-03-02 01:44:00,desktop,Germany
+u0844,Landing Page Visit,2025-03-02 07:20:00,mobile,India
+u0844,Free Sign-Up,2025-03-02 07:40:00,mobile,India
+u0844,Email Verification,2025-03-02 07:51:00,mobile,India
+u0844,Feature Usage,2025-03-02 08:07:00,mobile,India
+u0845,Landing Page Visit,2025-03-02 00:54:00,desktop,UK
+u0845,Free Sign-Up,2025-03-02 01:00:00,desktop,UK
+u0846,Landing Page Visit,2025-03-02 04:34:00,mobile,UK
+u0846,Free Sign-Up,2025-03-02 04:39:00,mobile,UK
+u0847,Landing Page Visit,2025-03-01 10:11:00,mobile,USA
+u0847,Free Sign-Up,2025-03-01 10:26:00,mobile,USA
+u0847,Email Verification,2025-03-01 10:55:00,mobile,USA
+u0848,Landing Page Visit,2025-03-02 01:23:00,desktop,UK
+u0848,Free Sign-Up,2025-03-02 01:33:00,desktop,UK
+u0848,Email Verification,2025-03-02 01:57:00,desktop,UK
+u0849,Landing Page Visit,2025-03-01 11:46:00,mobile,Brazil
+u0849,Free Sign-Up,2025-03-01 12:12:00,mobile,Brazil
+u0849,Email Verification,2025-03-01 12:17:00,mobile,Brazil
+u0849,Feature Usage,2025-03-01 12:23:00,mobile,Brazil
+u0850,Landing Page Visit,2025-03-01 21:41:00,tablet,USA
+u0850,Free Sign-Up,2025-03-01 21:49:00,tablet,USA
+u0850,Email Verification,2025-03-01 21:56:00,tablet,USA
+u0850,Feature Usage,2025-03-01 22:17:00,tablet,USA
+u0851,Landing Page Visit,2025-03-01 08:37:00,tablet,India
+u0851,Free Sign-Up,2025-03-01 08:51:00,tablet,India
+u0852,Landing Page Visit,2025-03-01 11:07:00,tablet,UK
+u0852,Free Sign-Up,2025-03-01 11:32:00,tablet,UK
+u0853,Landing Page Visit,2025-03-02 01:23:00,mobile,USA
+u0853,Free Sign-Up,2025-03-02 01:40:00,mobile,USA
+u0853,Email Verification,2025-03-02 02:03:00,mobile,USA
+u0854,Landing Page Visit,2025-03-01 16:35:00,tablet,India
+u0854,Free Sign-Up,2025-03-01 17:04:00,tablet,India
+u0855,Landing Page Visit,2025-03-01 13:35:00,mobile,USA
+u0855,Free Sign-Up,2025-03-01 14:01:00,mobile,USA
+u0855,Email Verification,2025-03-01 14:24:00,mobile,USA
+u0856,Landing Page Visit,2025-03-01 22:59:00,desktop,UK
+u0856,Free Sign-Up,2025-03-01 23:23:00,desktop,UK
+u0856,Email Verification,2025-03-01 23:47:00,desktop,UK
+u0857,Landing Page Visit,2025-03-01 17:53:00,desktop,India
+u0857,Free Sign-Up,2025-03-01 18:12:00,desktop,India
+u0857,Email Verification,2025-03-01 18:40:00,desktop,India
+u0858,Landing Page Visit,2025-03-01 23:14:00,mobile,Brazil
+u0858,Free Sign-Up,2025-03-01 23:31:00,mobile,Brazil
+u0859,Landing Page Visit,2025-03-01 11:30:00,desktop,Brazil
+u0859,Free Sign-Up,2025-03-01 11:52:00,desktop,Brazil
+u0859,Email Verification,2025-03-01 12:16:00,desktop,Brazil
+u0859,Feature Usage,2025-03-01 12:29:00,desktop,Brazil
+u0860,Landing Page Visit,2025-03-01 17:01:00,desktop,Brazil
+u0860,Free Sign-Up,2025-03-01 17:27:00,desktop,Brazil
+u0860,Email Verification,2025-03-01 17:33:00,desktop,Brazil
+u0860,Feature Usage,2025-03-01 17:54:00,desktop,Brazil
+u0860,Upgrade to Paid Plan,2025-03-01 17:58:00,desktop,Brazil
+u0861,Landing Page Visit,2025-03-01 15:11:00,mobile,Brazil
+u0861,Free Sign-Up,2025-03-01 15:24:00,mobile,Brazil
+u0861,Email Verification,2025-03-01 15:28:00,mobile,Brazil
+u0862,Landing Page Visit,2025-03-01 09:52:00,tablet,Brazil
+u0862,Free Sign-Up,2025-03-01 10:15:00,tablet,Brazil
+u0863,Landing Page Visit,2025-03-02 03:29:00,tablet,USA
+u0863,Free Sign-Up,2025-03-02 03:49:00,tablet,USA
+u0863,Email Verification,2025-03-02 04:06:00,tablet,USA
+u0863,Feature Usage,2025-03-02 04:33:00,tablet,USA
+u0864,Landing Page Visit,2025-03-01 20:42:00,mobile,India
+u0864,Free Sign-Up,2025-03-01 20:57:00,mobile,India
+u0865,Landing Page Visit,2025-03-02 00:59:00,mobile,India
+u0865,Free Sign-Up,2025-03-02 01:21:00,mobile,India
+u0865,Email Verification,2025-03-02 01:34:00,mobile,India
+u0866,Landing Page Visit,2025-03-01 14:40:00,tablet,UK
+u0866,Free Sign-Up,2025-03-01 14:46:00,tablet,UK
+u0866,Email Verification,2025-03-01 14:50:00,tablet,UK
+u0866,Feature Usage,2025-03-01 15:10:00,tablet,UK
+u0867,Landing Page Visit,2025-03-02 01:50:00,mobile,India
+u0867,Free Sign-Up,2025-03-02 02:17:00,mobile,India
+u0867,Email Verification,2025-03-02 02:32:00,mobile,India
+u0868,Landing Page Visit,2025-03-01 09:17:00,mobile,UK
+u0868,Free Sign-Up,2025-03-01 09:45:00,mobile,UK
+u0868,Email Verification,2025-03-01 09:56:00,mobile,UK
+u0869,Landing Page Visit,2025-03-01 10:16:00,desktop,Germany
+u0869,Free Sign-Up,2025-03-01 10:42:00,desktop,Germany
+u0869,Email Verification,2025-03-01 10:58:00,desktop,Germany
+u0870,Landing Page Visit,2025-03-01 16:19:00,tablet,India
+u0870,Free Sign-Up,2025-03-01 16:48:00,tablet,India
+u0870,Email Verification,2025-03-01 16:58:00,tablet,India
+u0871,Landing Page Visit,2025-03-02 00:12:00,mobile,USA
+u0871,Free Sign-Up,2025-03-02 00:23:00,mobile,USA
+u0871,Email Verification,2025-03-02 00:40:00,mobile,USA
+u0871,Feature Usage,2025-03-02 01:02:00,mobile,USA
+u0872,Landing Page Visit,2025-03-01 19:49:00,mobile,Brazil
+u0872,Free Sign-Up,2025-03-01 20:06:00,mobile,Brazil
+u0872,Email Verification,2025-03-01 20:33:00,mobile,Brazil
+u0873,Landing Page Visit,2025-03-01 17:22:00,desktop,UK
+u0873,Free Sign-Up,2025-03-01 17:43:00,desktop,UK
+u0873,Email Verification,2025-03-01 18:02:00,desktop,UK
+u0874,Landing Page Visit,2025-03-01 17:06:00,tablet,UK
+u0874,Free Sign-Up,2025-03-01 17:20:00,tablet,UK
+u0874,Email Verification,2025-03-01 17:46:00,tablet,UK
+u0875,Landing Page Visit,2025-03-01 17:40:00,desktop,Germany
+u0876,Landing Page Visit,2025-03-01 08:48:00,desktop,UK
+u0876,Free Sign-Up,2025-03-01 09:09:00,desktop,UK
+u0877,Landing Page Visit,2025-03-01 19:43:00,tablet,USA
+u0877,Free Sign-Up,2025-03-01 19:48:00,tablet,USA
+u0878,Landing Page Visit,2025-03-02 05:23:00,tablet,Germany
+u0878,Free Sign-Up,2025-03-02 05:30:00,tablet,Germany
+u0879,Landing Page Visit,2025-03-02 00:49:00,mobile,India
+u0879,Free Sign-Up,2025-03-02 00:52:00,mobile,India
+u0879,Email Verification,2025-03-02 00:53:00,mobile,India
+u0880,Landing Page Visit,2025-03-02 06:16:00,desktop,India
+u0880,Free Sign-Up,2025-03-02 06:20:00,desktop,India
+u0881,Landing Page Visit,2025-03-01 21:28:00,mobile,Germany
+u0881,Free Sign-Up,2025-03-01 21:50:00,mobile,Germany
+u0881,Email Verification,2025-03-01 22:04:00,mobile,Germany
+u0882,Landing Page Visit,2025-03-02 07:07:00,mobile,India
+u0882,Free Sign-Up,2025-03-02 07:35:00,mobile,India
+u0882,Email Verification,2025-03-02 08:00:00,mobile,India
+u0883,Landing Page Visit,2025-03-02 00:24:00,mobile,USA
+u0883,Free Sign-Up,2025-03-02 00:28:00,mobile,USA
+u0883,Email Verification,2025-03-02 00:49:00,mobile,USA
+u0884,Landing Page Visit,2025-03-01 22:35:00,mobile,India
+u0884,Free Sign-Up,2025-03-01 22:45:00,mobile,India
+u0884,Email Verification,2025-03-01 23:07:00,mobile,India
+u0885,Landing Page Visit,2025-03-01 23:02:00,tablet,Brazil
+u0885,Free Sign-Up,2025-03-01 23:05:00,tablet,Brazil
+u0885,Email Verification,2025-03-01 23:28:00,tablet,Brazil
+u0885,Feature Usage,2025-03-01 23:56:00,tablet,Brazil
+u0886,Landing Page Visit,2025-03-01 18:31:00,desktop,India
+u0887,Landing Page Visit,2025-03-02 07:43:00,desktop,Germany
+u0887,Free Sign-Up,2025-03-02 08:05:00,desktop,Germany
+u0888,Landing Page Visit,2025-03-01 11:24:00,mobile,USA
+u0888,Free Sign-Up,2025-03-01 11:30:00,mobile,USA
+u0889,Landing Page Visit,2025-03-01 22:00:00,tablet,UK
+u0889,Free Sign-Up,2025-03-01 22:13:00,tablet,UK
+u0889,Email Verification,2025-03-01 22:17:00,tablet,UK
+u0890,Landing Page Visit,2025-03-01 17:55:00,desktop,Brazil
+u0890,Free Sign-Up,2025-03-01 18:13:00,desktop,Brazil
+u0891,Landing Page Visit,2025-03-01 22:34:00,desktop,UK
+u0891,Free Sign-Up,2025-03-01 22:59:00,desktop,UK
+u0891,Email Verification,2025-03-01 23:20:00,desktop,UK
+u0891,Feature Usage,2025-03-01 23:24:00,desktop,UK
+u0892,Landing Page Visit,2025-03-02 02:13:00,mobile,USA
+u0892,Free Sign-Up,2025-03-02 02:28:00,mobile,USA
+u0893,Landing Page Visit,2025-03-01 19:11:00,tablet,UK
+u0893,Free Sign-Up,2025-03-01 19:35:00,tablet,UK
+u0893,Email Verification,2025-03-01 19:46:00,tablet,UK
+u0894,Landing Page Visit,2025-03-01 23:43:00,mobile,UK
+u0894,Free Sign-Up,2025-03-01 23:50:00,mobile,UK
+u0895,Landing Page Visit,2025-03-01 16:11:00,mobile,Brazil
+u0895,Free Sign-Up,2025-03-01 16:35:00,mobile,Brazil
+u0895,Email Verification,2025-03-01 16:49:00,mobile,Brazil
+u0895,Feature Usage,2025-03-01 17:14:00,mobile,Brazil
+u0896,Landing Page Visit,2025-03-01 13:13:00,desktop,Brazil
+u0896,Free Sign-Up,2025-03-01 13:34:00,desktop,Brazil
+u0896,Email Verification,2025-03-01 13:52:00,desktop,Brazil
+u0896,Feature Usage,2025-03-01 13:57:00,desktop,Brazil
+u0897,Landing Page Visit,2025-03-02 00:23:00,tablet,India
+u0897,Free Sign-Up,2025-03-02 00:40:00,tablet,India
+u0897,Email Verification,2025-03-02 00:59:00,tablet,India
+u0898,Landing Page Visit,2025-03-01 22:12:00,desktop,Brazil
+u0898,Free Sign-Up,2025-03-01 22:24:00,desktop,Brazil
+u0899,Landing Page Visit,2025-03-01 15:24:00,mobile,Germany
+u0899,Free Sign-Up,2025-03-01 15:33:00,mobile,Germany
+u0899,Email Verification,2025-03-01 15:34:00,mobile,Germany
+u0900,Landing Page Visit,2025-03-01 18:28:00,mobile,Brazil
+u0901,Landing Page Visit,2025-03-01 22:54:00,desktop,India
+u0901,Free Sign-Up,2025-03-01 23:04:00,desktop,India
+u0901,Email Verification,2025-03-01 23:29:00,desktop,India
+u0902,Landing Page Visit,2025-03-01 17:57:00,desktop,USA
+u0902,Free Sign-Up,2025-03-01 18:20:00,desktop,USA
+u0902,Email Verification,2025-03-01 18:21:00,desktop,USA
+u0903,Landing Page Visit,2025-03-01 17:32:00,tablet,UK
+u0904,Landing Page Visit,2025-03-01 08:27:00,tablet,India
+u0905,Landing Page Visit,2025-03-01 08:42:00,tablet,India
+u0905,Free Sign-Up,2025-03-01 08:51:00,tablet,India
+u0905,Email Verification,2025-03-01 08:58:00,tablet,India
+u0906,Landing Page Visit,2025-03-01 10:56:00,desktop,India
+u0907,Landing Page Visit,2025-03-02 00:05:00,mobile,UK
+u0907,Free Sign-Up,2025-03-02 00:19:00,mobile,UK
+u0908,Landing Page Visit,2025-03-01 18:09:00,desktop,India
+u0909,Landing Page Visit,2025-03-01 22:01:00,tablet,UK
+u0909,Free Sign-Up,2025-03-01 22:22:00,tablet,UK
+u0910,Landing Page Visit,2025-03-01 08:21:00,mobile,Germany
+u0910,Free Sign-Up,2025-03-01 08:37:00,mobile,Germany
+u0910,Email Verification,2025-03-01 09:02:00,mobile,Germany
+u0910,Feature Usage,2025-03-01 09:04:00,mobile,Germany
+u0911,Landing Page Visit,2025-03-01 09:37:00,tablet,India
+u0912,Landing Page Visit,2025-03-01 15:14:00,desktop,Germany
+u0912,Free Sign-Up,2025-03-01 15:43:00,desktop,Germany
+u0912,Email Verification,2025-03-01 15:50:00,desktop,Germany
+u0913,Landing Page Visit,2025-03-01 17:47:00,desktop,Germany
+u0914,Landing Page Visit,2025-03-02 05:57:00,tablet,Germany
+u0914,Free Sign-Up,2025-03-02 06:25:00,tablet,Germany
+u0915,Landing Page Visit,2025-03-01 18:10:00,mobile,Brazil
+u0915,Free Sign-Up,2025-03-01 18:29:00,mobile,Brazil
+u0915,Email Verification,2025-03-01 18:46:00,mobile,Brazil
+u0915,Feature Usage,2025-03-01 18:53:00,mobile,Brazil
+u0915,Upgrade to Paid Plan,2025-03-01 19:14:00,mobile,Brazil
+u0916,Landing Page Visit,2025-03-02 03:37:00,tablet,UK
+u0916,Free Sign-Up,2025-03-02 03:41:00,tablet,UK
+u0917,Landing Page Visit,2025-03-01 22:43:00,tablet,USA
+u0917,Free Sign-Up,2025-03-01 23:05:00,tablet,USA
+u0917,Email Verification,2025-03-01 23:20:00,tablet,USA
+u0917,Feature Usage,2025-03-01 23:44:00,tablet,USA
+u0918,Landing Page Visit,2025-03-01 11:32:00,desktop,Brazil
+u0918,Free Sign-Up,2025-03-01 11:47:00,desktop,Brazil
+u0918,Email Verification,2025-03-01 12:09:00,desktop,Brazil
+u0919,Landing Page Visit,2025-03-01 18:03:00,mobile,USA
+u0919,Free Sign-Up,2025-03-01 18:17:00,mobile,USA
+u0919,Email Verification,2025-03-01 18:44:00,mobile,USA
+u0919,Feature Usage,2025-03-01 19:13:00,mobile,USA
+u0920,Landing Page Visit,2025-03-01 19:19:00,mobile,Brazil
+u0920,Free Sign-Up,2025-03-01 19:45:00,mobile,Brazil
+u0920,Email Verification,2025-03-01 20:13:00,mobile,Brazil
+u0921,Landing Page Visit,2025-03-01 22:40:00,mobile,USA
+u0922,Landing Page Visit,2025-03-02 05:17:00,tablet,India
+u0923,Landing Page Visit,2025-03-02 01:47:00,desktop,UK
+u0923,Free Sign-Up,2025-03-02 01:48:00,desktop,UK
+u0924,Landing Page Visit,2025-03-02 00:51:00,tablet,Germany
+u0924,Free Sign-Up,2025-03-02 00:54:00,tablet,Germany
+u0924,Email Verification,2025-03-02 01:00:00,tablet,Germany
+u0924,Feature Usage,2025-03-02 01:07:00,tablet,Germany
+u0925,Landing Page Visit,2025-03-01 18:00:00,tablet,Germany
+u0925,Free Sign-Up,2025-03-01 18:27:00,tablet,Germany
+u0925,Email Verification,2025-03-01 18:45:00,tablet,Germany
+u0925,Feature Usage,2025-03-01 18:56:00,tablet,Germany
+u0925,Upgrade to Paid Plan,2025-03-01 19:15:00,tablet,Germany
+u0926,Landing Page Visit,2025-03-01 13:06:00,mobile,UK
+u0926,Free Sign-Up,2025-03-01 13:17:00,mobile,UK
+u0926,Email Verification,2025-03-01 13:41:00,mobile,UK
+u0927,Landing Page Visit,2025-03-01 08:07:00,mobile,UK
+u0927,Free Sign-Up,2025-03-01 08:31:00,mobile,UK
+u0927,Email Verification,2025-03-01 08:59:00,mobile,UK
+u0927,Feature Usage,2025-03-01 09:27:00,mobile,UK
+u0928,Landing Page Visit,2025-03-01 10:43:00,mobile,Germany
+u0928,Free Sign-Up,2025-03-01 10:48:00,mobile,Germany
+u0929,Landing Page Visit,2025-03-02 02:15:00,mobile,USA
+u0930,Landing Page Visit,2025-03-01 23:04:00,desktop,Brazil
+u0930,Free Sign-Up,2025-03-01 23:19:00,desktop,Brazil
+u0930,Email Verification,2025-03-01 23:34:00,desktop,Brazil
+u0930,Feature Usage,2025-03-01 23:50:00,desktop,Brazil
+u0931,Landing Page Visit,2025-03-02 02:47:00,mobile,Brazil
+u0931,Free Sign-Up,2025-03-02 03:05:00,mobile,Brazil
+u0931,Email Verification,2025-03-02 03:15:00,mobile,Brazil
+u0932,Landing Page Visit,2025-03-01 15:47:00,tablet,Brazil
+u0932,Free Sign-Up,2025-03-01 15:53:00,tablet,Brazil
+u0933,Landing Page Visit,2025-03-01 14:25:00,mobile,Brazil
+u0933,Free Sign-Up,2025-03-01 14:32:00,mobile,Brazil
+u0934,Landing Page Visit,2025-03-01 14:26:00,mobile,Brazil
+u0935,Landing Page Visit,2025-03-01 12:18:00,mobile,Brazil
+u0935,Free Sign-Up,2025-03-01 12:45:00,mobile,Brazil
+u0936,Landing Page Visit,2025-03-01 08:39:00,mobile,Germany
+u0937,Landing Page Visit,2025-03-01 23:28:00,desktop,UK
+u0937,Free Sign-Up,2025-03-01 23:56:00,desktop,UK
+u0938,Landing Page Visit,2025-03-02 00:54:00,tablet,Brazil
+u0938,Free Sign-Up,2025-03-02 01:02:00,tablet,Brazil
+u0938,Email Verification,2025-03-02 01:07:00,tablet,Brazil
+u0938,Feature Usage,2025-03-02 01:35:00,tablet,Brazil
+u0939,Landing Page Visit,2025-03-01 18:12:00,mobile,Brazil
+u0939,Free Sign-Up,2025-03-01 18:16:00,mobile,Brazil
+u0939,Email Verification,2025-03-01 18:22:00,mobile,Brazil
+u0939,Feature Usage,2025-03-01 18:36:00,mobile,Brazil
+u0940,Landing Page Visit,2025-03-01 17:03:00,mobile,UK
+u0940,Free Sign-Up,2025-03-01 17:12:00,mobile,UK
+u0940,Email Verification,2025-03-01 17:24:00,mobile,UK
+u0941,Landing Page Visit,2025-03-01 21:33:00,desktop,Germany
+u0942,Landing Page Visit,2025-03-02 01:19:00,mobile,India
+u0942,Free Sign-Up,2025-03-02 01:20:00,mobile,India
+u0942,Email Verification,2025-03-02 01:33:00,mobile,India
+u0942,Feature Usage,2025-03-02 01:56:00,mobile,India
+u0943,Landing Page Visit,2025-03-01 19:09:00,tablet,Brazil
+u0943,Free Sign-Up,2025-03-01 19:22:00,tablet,Brazil
+u0943,Email Verification,2025-03-01 19:24:00,tablet,Brazil
+u0943,Feature Usage,2025-03-01 19:28:00,tablet,Brazil
+u0943,Upgrade to Paid Plan,2025-03-01 19:56:00,tablet,Brazil
+u0944,Landing Page Visit,2025-03-01 12:06:00,desktop,Brazil
+u0945,Landing Page Visit,2025-03-01 10:10:00,mobile,USA
+u0945,Free Sign-Up,2025-03-01 10:11:00,mobile,USA
+u0945,Email Verification,2025-03-01 10:15:00,mobile,USA
+u0945,Feature Usage,2025-03-01 10:40:00,mobile,USA
+u0946,Landing Page Visit,2025-03-01 23:29:00,desktop,Germany
+u0946,Free Sign-Up,2025-03-01 23:55:00,desktop,Germany
+u0946,Email Verification,2025-03-02 00:00:00,desktop,Germany
+u0946,Feature Usage,2025-03-02 00:03:00,desktop,Germany
+u0947,Landing Page Visit,2025-03-01 12:24:00,desktop,India
+u0948,Landing Page Visit,2025-03-01 18:45:00,tablet,India
+u0948,Free Sign-Up,2025-03-01 19:04:00,tablet,India
+u0948,Email Verification,2025-03-01 19:32:00,tablet,India
+u0949,Landing Page Visit,2025-03-02 07:20:00,desktop,UK
+u0949,Free Sign-Up,2025-03-02 07:31:00,desktop,UK
+u0949,Email Verification,2025-03-02 07:33:00,desktop,UK
+u0950,Landing Page Visit,2025-03-02 07:07:00,desktop,Brazil
+u0950,Free Sign-Up,2025-03-02 07:19:00,desktop,Brazil
+u0950,Email Verification,2025-03-02 07:28:00,desktop,Brazil
+u0950,Feature Usage,2025-03-02 07:49:00,desktop,Brazil
+u0950,Upgrade to Paid Plan,2025-03-02 08:13:00,desktop,Brazil
+u0951,Landing Page Visit,2025-03-02 00:21:00,desktop,India
+u0951,Free Sign-Up,2025-03-02 00:24:00,desktop,India
+u0951,Email Verification,2025-03-02 00:36:00,desktop,India
+u0952,Landing Page Visit,2025-03-02 00:25:00,desktop,India
+u0952,Free Sign-Up,2025-03-02 00:41:00,desktop,India
+u0952,Email Verification,2025-03-02 01:02:00,desktop,India
+u0953,Landing Page Visit,2025-03-02 04:41:00,tablet,Brazil
+u0953,Free Sign-Up,2025-03-02 04:42:00,tablet,Brazil
+u0954,Landing Page Visit,2025-03-01 17:05:00,tablet,Brazil
+u0954,Free Sign-Up,2025-03-01 17:14:00,tablet,Brazil
+u0955,Landing Page Visit,2025-03-01 23:42:00,desktop,Germany
+u0955,Free Sign-Up,2025-03-02 00:00:00,desktop,Germany
+u0956,Landing Page Visit,2025-03-02 02:18:00,tablet,India
+u0956,Free Sign-Up,2025-03-02 02:43:00,tablet,India
+u0957,Landing Page Visit,2025-03-02 03:59:00,desktop,Germany
+u0957,Free Sign-Up,2025-03-02 04:21:00,desktop,Germany
+u0958,Landing Page Visit,2025-03-01 21:56:00,tablet,India
+u0958,Free Sign-Up,2025-03-01 22:08:00,tablet,India
+u0958,Email Verification,2025-03-01 22:19:00,tablet,India
+u0959,Landing Page Visit,2025-03-01 23:30:00,desktop,Brazil
+u0960,Landing Page Visit,2025-03-01 20:03:00,desktop,UK
+u0960,Free Sign-Up,2025-03-01 20:32:00,desktop,UK
+u0960,Email Verification,2025-03-01 20:48:00,desktop,UK
+u0961,Landing Page Visit,2025-03-02 02:09:00,desktop,USA
+u0961,Free Sign-Up,2025-03-02 02:12:00,desktop,USA
+u0962,Landing Page Visit,2025-03-01 12:07:00,desktop,UK
+u0963,Landing Page Visit,2025-03-02 01:50:00,mobile,Germany
+u0963,Free Sign-Up,2025-03-02 01:57:00,mobile,Germany
+u0963,Email Verification,2025-03-02 02:03:00,mobile,Germany
+u0964,Landing Page Visit,2025-03-01 10:03:00,mobile,USA
+u0965,Landing Page Visit,2025-03-02 00:07:00,desktop,India
+u0965,Free Sign-Up,2025-03-02 00:30:00,desktop,India
+u0965,Email Verification,2025-03-02 00:53:00,desktop,India
+u0965,Feature Usage,2025-03-02 00:56:00,desktop,India
+u0965,Upgrade to Paid Plan,2025-03-02 01:00:00,desktop,India
+u0966,Landing Page Visit,2025-03-01 10:22:00,desktop,Germany
+u0966,Free Sign-Up,2025-03-01 10:43:00,desktop,Germany
+u0966,Email Verification,2025-03-01 10:46:00,desktop,Germany
+u0966,Feature Usage,2025-03-01 11:11:00,desktop,Germany
+u0966,Upgrade to Paid Plan,2025-03-01 11:32:00,desktop,Germany
+u0967,Landing Page Visit,2025-03-02 06:05:00,tablet,Germany
+u0967,Free Sign-Up,2025-03-02 06:25:00,tablet,Germany
+u0967,Email Verification,2025-03-02 06:39:00,tablet,Germany
+u0967,Feature Usage,2025-03-02 06:43:00,tablet,Germany
+u0967,Upgrade to Paid Plan,2025-03-02 06:55:00,tablet,Germany
+u0968,Landing Page Visit,2025-03-01 17:10:00,desktop,Germany
+u0968,Free Sign-Up,2025-03-01 17:19:00,desktop,Germany
+u0968,Email Verification,2025-03-01 17:22:00,desktop,Germany
+u0968,Feature Usage,2025-03-01 17:50:00,desktop,Germany
+u0968,Upgrade to Paid Plan,2025-03-01 18:03:00,desktop,Germany
+u0969,Landing Page Visit,2025-03-01 11:29:00,mobile,UK
+u0969,Free Sign-Up,2025-03-01 11:48:00,mobile,UK
+u0969,Email Verification,2025-03-01 11:49:00,mobile,UK
+u0970,Landing Page Visit,2025-03-02 05:14:00,desktop,India
+u0970,Free Sign-Up,2025-03-02 05:41:00,desktop,India
+u0971,Landing Page Visit,2025-03-02 06:57:00,desktop,Brazil
+u0971,Free Sign-Up,2025-03-02 07:21:00,desktop,Brazil
+u0972,Landing Page Visit,2025-03-01 17:09:00,desktop,India
+u0972,Free Sign-Up,2025-03-01 17:23:00,desktop,India
+u0972,Email Verification,2025-03-01 17:27:00,desktop,India
+u0973,Landing Page Visit,2025-03-01 21:59:00,tablet,Brazil
+u0973,Free Sign-Up,2025-03-01 22:02:00,tablet,Brazil
+u0973,Email Verification,2025-03-01 22:21:00,tablet,Brazil
+u0974,Landing Page Visit,2025-03-01 17:55:00,desktop,Germany
+u0974,Free Sign-Up,2025-03-01 18:12:00,desktop,Germany
+u0974,Email Verification,2025-03-01 18:37:00,desktop,Germany
+u0975,Landing Page Visit,2025-03-01 22:15:00,desktop,UK
+u0975,Free Sign-Up,2025-03-01 22:29:00,desktop,UK
+u0975,Email Verification,2025-03-01 22:55:00,desktop,UK
+u0975,Feature Usage,2025-03-01 23:01:00,desktop,UK
+u0976,Landing Page Visit,2025-03-01 19:01:00,mobile,USA
+u0976,Free Sign-Up,2025-03-01 19:17:00,mobile,USA
+u0976,Email Verification,2025-03-01 19:42:00,mobile,USA
+u0977,Landing Page Visit,2025-03-01 23:46:00,tablet,USA
+u0978,Landing Page Visit,2025-03-02 05:38:00,tablet,Brazil
+u0978,Free Sign-Up,2025-03-02 05:47:00,tablet,Brazil
+u0979,Landing Page Visit,2025-03-02 00:19:00,mobile,Brazil
+u0979,Free Sign-Up,2025-03-02 00:32:00,mobile,Brazil
+u0980,Landing Page Visit,2025-03-02 02:06:00,desktop,UK
+u0980,Free Sign-Up,2025-03-02 02:15:00,desktop,UK
+u0980,Email Verification,2025-03-02 02:42:00,desktop,UK
+u0981,Landing Page Visit,2025-03-02 07:18:00,tablet,Brazil
+u0981,Free Sign-Up,2025-03-02 07:43:00,tablet,Brazil
+u0982,Landing Page Visit,2025-03-01 21:06:00,mobile,Brazil
+u0982,Free Sign-Up,2025-03-01 21:21:00,mobile,Brazil
+u0982,Email Verification,2025-03-01 21:41:00,mobile,Brazil
+u0983,Landing Page Visit,2025-03-02 03:03:00,tablet,USA
+u0983,Free Sign-Up,2025-03-02 03:09:00,tablet,USA
+u0983,Email Verification,2025-03-02 03:30:00,tablet,USA
+u0983,Feature Usage,2025-03-02 03:59:00,tablet,USA
+u0984,Landing Page Visit,2025-03-01 23:35:00,mobile,Germany
+u0984,Free Sign-Up,2025-03-01 23:52:00,mobile,Germany
+u0984,Email Verification,2025-03-02 00:01:00,mobile,Germany
+u0985,Landing Page Visit,2025-03-02 07:19:00,tablet,India
+u0985,Free Sign-Up,2025-03-02 07:39:00,tablet,India
+u0985,Email Verification,2025-03-02 08:04:00,tablet,India
+u0985,Feature Usage,2025-03-02 08:18:00,tablet,India
+u0986,Landing Page Visit,2025-03-01 21:40:00,desktop,Brazil
+u0986,Free Sign-Up,2025-03-01 21:43:00,desktop,Brazil
+u0986,Email Verification,2025-03-01 21:52:00,desktop,Brazil
+u0986,Feature Usage,2025-03-01 22:19:00,desktop,Brazil
+u0987,Landing Page Visit,2025-03-01 11:41:00,mobile,India
+u0987,Free Sign-Up,2025-03-01 11:50:00,mobile,India
+u0987,Email Verification,2025-03-01 11:54:00,mobile,India
+u0987,Feature Usage,2025-03-01 12:21:00,mobile,India
+u0988,Landing Page Visit,2025-03-02 00:27:00,mobile,Brazil
+u0988,Free Sign-Up,2025-03-02 00:35:00,mobile,Brazil
+u0989,Landing Page Visit,2025-03-02 03:10:00,desktop,Brazil
+u0989,Free Sign-Up,2025-03-02 03:33:00,desktop,Brazil
+u0989,Email Verification,2025-03-02 03:49:00,desktop,Brazil
+u0990,Landing Page Visit,2025-03-02 02:05:00,tablet,India
+u0990,Free Sign-Up,2025-03-02 02:22:00,tablet,India
+u0990,Email Verification,2025-03-02 02:38:00,tablet,India
+u0990,Feature Usage,2025-03-02 02:50:00,tablet,India
+u0991,Landing Page Visit,2025-03-01 20:58:00,tablet,UK
+u0991,Free Sign-Up,2025-03-01 21:12:00,tablet,UK
+u0991,Email Verification,2025-03-01 21:30:00,tablet,UK
+u0992,Landing Page Visit,2025-03-01 19:00:00,desktop,USA
+u0992,Free Sign-Up,2025-03-01 19:05:00,desktop,USA
+u0993,Landing Page Visit,2025-03-02 05:39:00,desktop,Germany
+u0993,Free Sign-Up,2025-03-02 05:44:00,desktop,Germany
+u0994,Landing Page Visit,2025-03-02 00:52:00,desktop,UK
+u0994,Free Sign-Up,2025-03-02 01:21:00,desktop,UK
+u0994,Email Verification,2025-03-02 01:30:00,desktop,UK
+u0995,Landing Page Visit,2025-03-02 06:27:00,mobile,Germany
+u0995,Free Sign-Up,2025-03-02 06:30:00,mobile,Germany
+u0995,Email Verification,2025-03-02 06:47:00,mobile,Germany
+u0995,Feature Usage,2025-03-02 06:49:00,mobile,Germany
+u0996,Landing Page Visit,2025-03-01 15:59:00,mobile,Germany
+u0996,Free Sign-Up,2025-03-01 16:00:00,mobile,Germany
+u0996,Email Verification,2025-03-01 16:08:00,mobile,Germany
+u0997,Landing Page Visit,2025-03-01 13:42:00,tablet,UK
+u0997,Free Sign-Up,2025-03-01 13:57:00,tablet,UK
+u0997,Email Verification,2025-03-01 14:05:00,tablet,UK
+u0998,Landing Page Visit,2025-03-01 15:17:00,mobile,Germany
+u0998,Free Sign-Up,2025-03-01 15:29:00,mobile,Germany
+u0998,Email Verification,2025-03-01 15:43:00,mobile,Germany
+u0999,Landing Page Visit,2025-03-01 16:46:00,tablet,Germany
+u0999,Free Sign-Up,2025-03-01 16:55:00,tablet,Germany
+u1000,Landing Page Visit,2025-03-01 08:25:00,mobile,Brazil
+u1000,Free Sign-Up,2025-03-01 08:45:00,mobile,Brazil
+u1000,Email Verification,2025-03-01 09:14:00,mobile,Brazil
+u1000,Feature Usage,2025-03-01 09:36:00,mobile,Brazil
+u1000,Upgrade to Paid Plan,2025-03-01 09:44:00,mobile,Brazil
